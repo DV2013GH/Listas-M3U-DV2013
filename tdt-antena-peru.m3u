@@ -23,8 +23,11 @@ http://38.87.224.20:2220/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 7-1 TVPeru HD
 http://38.87.224.20:2220/play/a02h/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 7-3 TVPeru 7.3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 7-2 Rad. Nac.
 http://38.87.224.20:2220/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 7-3 TVPeru 7.3
+http://38.87.224.20:2220/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 7-4 IPe
 http://38.87.224.20:2220/play/a00h/index.m3u8
@@ -33,7 +36,7 @@ http://38.87.224.20:2220/play/a00h/index.m3u8
 http://38.87.224.20:2220/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 9-1 ATV HD
-http://38.87.224.20:2220/play/a009/index.m3u8
+http://187.102.210.46/ATV/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 10-1 La Tele HD
 https://cablered.iptvperu.tv:1936/cablered/la_tele.stream/playlist.m3u8
@@ -45,7 +48,7 @@ http://38.87.224.20:2220/play/a02p/index.m3u8
 http://38.87.224.20:2220/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 13-1 Global HD
-http://38.87.224.20:2220/play/a00e/index.m3u8
+https://cablered.iptvperu.tv:1936/cablered/global.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 18-1 NATIVA TV
 http://187.102.210.46/NATIVATV/index.m3u8
@@ -59,3 +62,4 @@ https://dnhmqt6n0lkaq.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 25-1 Bethel HD
 https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
 
+ 
