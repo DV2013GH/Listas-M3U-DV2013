@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 1-1 WILLAX HD
+http://38.87.224.20:2220/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 2-1 Latina HD
+http://38.87.224.20:2220/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 3-1 RPP
+http://38.87.224.20:2220/play/a02i/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 3-2 Top Latino HD
+http://38.87.224.20:2220/play/a02b/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 4-1 AmericaTV HD
+http://38.87.224.20:2220/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 5-1 Panamericana HD
+http://38.87.224.20:2220/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 6-1 EXITOSA HD
+http://38.87.224.20:2220/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 7-1 TVPeru HD
+http://38.87.224.20:2220/play/a02h/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 7-3 TVPeru 7.3
+http://38.87.224.20:2220/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 7-4 IPe
+http://38.87.224.20:2220/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 8-1 ATV+ HD
+http://38.87.224.20:2220/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 9-1 ATV HD
+http://38.87.224.20:2220/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 10-1 La Tele HD
+https://cablered.iptvperu.tv:1936/cablered/la_tele.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 12-1 USMP HD
+http://38.87.224.20:2220/play/a02p/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 12-2 USMP SD
+http://38.87.224.20:2220/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 13-1 Global HD
+http://38.87.224.20:2220/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 18-1 NATIVA TV
+http://187.102.210.46/NATIVATV/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 20-1 TRIVU TV 1
+https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 23-1 ATV Sur HD
+https://dnhmqt6n0lkaq.cloudfront.net/ts:abr.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kjhLE5t.png" group-title="Lima", 25-1 Bethel HD
+https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
+
