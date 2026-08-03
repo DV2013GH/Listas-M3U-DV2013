@@ -60,20 +60,20 @@ https://pebpktstvhls-5.clarovideo.com/bpk-tv/PLIMPLIM/hls_fk/index.m3u8
 #EXTINF:-1 tvg-id="553" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTS_t-290x163.png" group-title="Peru", 60 | CLARO SPORTS
 https://pebpktstvhls-3.clarovideo.com/bpk-tv/CLAROSPORTSHD/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-id="1572dtv.cl" tvg-logo="https://clarovideocdn9.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALCINEMAHD/EXPORTACION_WEB/SS/UNIVERSALCINEMAHD_t-290x163.png" group-title="Peru", 180 | UNIVERSAL CINEMA HD
-http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/111421.m3u8
+#EXTINF:-1 tvg-id="4" tvg-logo="https://clarovideocdn9.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALCINEMAHD/EXPORTACION_WEB/SS/UNIVERSALCINEMAHD_t-290x163.png" group-title="Peru", 180 | UNIVERSAL CINEMA HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/28957.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://clarovideocdn3.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALPREMIEREHD/EXPORTACION_WEB/SS/UNIVERSALPREMIEREHD_t-290x163.png" group-title="Peru", 181 | UNIVERSAL PREMIER HD
-http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/111419.m3u8
+http://38.87.224.20:2220/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://clarovideocdn7.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALCRIMEHD/EXPORTACION_WEB/SS/UNIVERSALCRIMEHD_t-290x163.png" group-title="Peru", 183 | UNIVERSAL CRIME HD
-http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/111422.m3u8
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/28959.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://clarovideocdn9.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALCOMEDYHD/EXPORTACION_WEB/SS/UNIVERSALCOMEDYHD_t-290x163.png" group-title="Peru", 185 | UNIVERSAL COMEDY HD
-http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/111417.m3u8
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/28958.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://clarovideocdn1.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALREALITYHD/EXPORTACION_WEB/SS/UNIVERSALREALITYHD_t-290x163.png" group-title="Peru", 186 | UNIVERSAL REALITY HD
-http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/111420.m3u8
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/28963.m3u8
 
 #EXTINF:-1 tvg-id="762dtv.cl" tvg-logo="https://clarovideocdn1.clarovideo.net/ATRESPLAYER/PELICULAS/ANTENA3INTERNACIONALHD/EXPORTACION_WEB/SS/ANTENA3INTERNACIONALHD_t-290x163.png" group-title="Peru", 219 | ANTENA 3 INTERNACIONAL
 https://pebpktstvhls-7.clarovideo.com/bpk-tv/ANTENA3/hls_fk/index.m3u8
