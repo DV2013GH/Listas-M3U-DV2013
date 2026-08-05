@@ -1,0 +1,35 @@
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
+
+#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FWillax_WIN.png&width=100" group-title="Todos los canales de TV", 1 Willax
+http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/306676.m3u8
+
+#EXTINF:-1 tvg-id="2mvstr.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FLatina_WIN.png&width=100" group-title="Todos los canales de TV", 2 Latina
+http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/306668.m3u8
+
+#EXTINF:-1 tvg-id="475" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FRPP.png&width=100" group-title="Todos los canales de TV", 3 RPP
+http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/306680.m3u8
+
+#EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FAmericaTV_WIN.png&width=100" group-title="Todos los canales de TV", 4 America TV
+http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/306666.m3u8
+
+#EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FPanamerica_WIN.png&width=100" group-title="Todos los canales de TV", 5 Panamericana
+http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/306674.m3u8
+
+#EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTVPERU_WIN.png&width=100" group-title="Todos los canales de TV", 7 TVPerú
+http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/306688.m3u8
+
+#EXTINF:-1 tvg-id="9mvstr.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FATV_WIN.png&width=100" group-title="Todos los canales de TV", 9 ATV
+http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/306670.m3u8
+
+#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FATV_Noticias_WIN.png&width=100" group-title="Todos los canales de TV", 11 ATV Noticias
+http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/306672.m3u8
+
+#EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FGlobalTV_WIN.png&width=100" group-title="Todos los canales de TV", 13 GlobalTV
+http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/306682.m3u8
+
+#EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FExitosa_WIN.png&width=100" group-title="Todos los canales de TV", 15 Exitosa
+http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/306684.m3u8
+
+#EXTINF:-1 tvg-id="justiciatv.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FJusticiaTV_WIN.png&width=100" group-title="Todos los canales de TV", 18 JUSTICIATV
+http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/306694.m3u8
+
