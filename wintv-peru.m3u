@@ -7,7 +7,7 @@ http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/306676.m3u8
 http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/306668.m3u8
 
 #EXTINF:-1 tvg-id="475" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FRPP.png&width=100" group-title="Todos los canales de TV", 3 RPP
-http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/306680.m3u8
+http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/306681.m3u8
 
 #EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FAmericaTV_WIN.png&width=100" group-title="Todos los canales de TV", 4 America TV
 http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/306666.m3u8
@@ -37,7 +37,7 @@ http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/306672.m3u8
 http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/317496.m3u8
 
 #EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FGlobalTV_WIN.png&width=100" group-title="Todos los canales de TV", 13 GlobalTV
-http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/306682.m3u8
+http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/306683.m3u8
 
 #EXTINF:-1 tvg-id="8573dtv.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FLatele.png&width=100" group-title="Todos los canales de TV", 14 Latele
 http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/317536.m3u8
@@ -59,4 +59,3 @@ http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/317533.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTVL.png&width=100" group-title="Todos los canales de TV", 20 TVL
 http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/317564.m3u8
-
