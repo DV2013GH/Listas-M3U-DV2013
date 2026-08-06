@@ -1,0 +1,14 @@
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
+
+#EXTINF:-1 tvg-id="610dtv.pe" tvg-logo="https://i.imgur.com/HIuRJLc.png" group-title="LATAM", DSports Peru
+http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/50724.m3u8
+
+#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.imgur.com/XWWTHMn.png" group-title="LATAM", DSports 2
+http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/50726.m3u8
+
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.imgur.com/3P4N0aI.png" group-title="LATAM", DSports+
+http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/54472.m3u8
+
+#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/NkMrY4j.png" group-title="LATAM", UFC
+http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/306517.m3u8
+
