@@ -1,0 +1,56 @@
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
+
+#EXTINF:-1 tvg-id="2mvstr.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F21%2F27%2F21277546_686A447459BDB5C2.png&height=60&resize=RATIO&format=WEBP" group-title="Peru", LATINA HD (2)
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GEDl1qQUzLtiFVZFJxmgBJQ/m3u8
+
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F06%2F71%2F6718159_BE424D8C4C1AA0DF.png&height=60&resize=RATIO&format=WEBP" group-title="Peru", M DEPORTES HD (3)
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GHlZZq5IkIY4WHxBIw9Uh4w/m3u8
+
+#EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F24%2F00%2F24000928_FED20BE111AFCF51.png&height=60&resize=RATIO&format=WEBP" group-title="Peru", AMERICA TELEVISION (4)
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GMRgDic6327VHo849BLfCeY/m3u8
+
+#EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F07%2F84%2F7847901_1973CBE392F677D8.png&height=60&resize=RATIO&format=WEBP" group-title="Peru", PANAMERICANA TELEVISION HD (5)
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GDS7MA3BGsrR1DymMyHah3o/m3u8
+
+#EXTINF:-1 tvg-id="6mvstr.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F84%2F23846300_27FE857CA34F8A8A.png&height=60&resize=RATIO&format=WEBP" group-title="Peru", MOVISTAR PLUS (6)
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GHMUf7JnlJkEXaIHXdG-R8E/m3u8
+
+#EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F09%2F13%2F9136179_DC8D93524C1F3E11.png&height=60&resize=RATIO&format=WEBP" group-title="Peru", TV PERU HD (7)
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GHBw0sipsVAGc8yMp56XEQM/m3u8
+
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F06%2F71%2F6718161_ED12803FCF6BD159.png&height=60&resize=RATIO&format=WEBP" group-title="Peru", CANAL N HD (8)
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GDjtuAKbiE9FKaWUGvh4cVE/m3u8
+
+#EXTINF:-1 tvg-id="9mvstr.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F07%2F52%2F7527586_32E6A6179D3F9DDF.png&height=50&resize=RATIO&format=WEBP" group-title="Peru", ATV HD (9)
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GDdPNW1oHdou1zOL4IlA1zs/m3u8
+
+#EXTINF:-1 tvg-id="475" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F07%2F84%2F7847942_805AC3336E6752E2.png&height=60&resize=RATIO&format=WEBP" group-title="Peru", RPP HD (10)
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GDH2XgW07Ld7tysRegCfZa0/m3u8
+
+#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F07%2F52%2F7527704_6B8F70044D44ECD4.png&height=60&resize=RATIO&format=WEBP" group-title="Peru", WILLAX (12)
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GH3KiO0B81LUHw2aBCCHIhE/m3u8
+
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F85%2F23851072_91DCE2E9596EEECE.png&height=60&resize=RATIO&format=WEBP" group-title="Peru", L1MAX (14)
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GGDjjUTXIIlf2AUGkScc-mc/m3u8
+
+#EXTINF:-1 tvg-id="621dtv.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F06%2F38%2F6383309_6BDEDCF4D8E84A20.png&height=60&resize=RATIO&format=WEBP" group-title="Peru", ESPN HD (15)
+http://cinemagold.org:80/live/Encoderwilsom/73kdjdmemmrmr/306869.m3u8
+
+#EXTINF:-1 tvg-id="622dtv.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F06%2F38%2F6383310_007CE9E18A928D1C.png&height=60&resize=RATIO&format=WEBP" group-title="Peru", ESPN 2 HD (16)
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GGeyKg5q7xtIqpjIta55y4k/m3u8
+
+#EXTINF:-1 tvg-id="1075dtv.cl" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F06%2F38%2F6383311_78D38321059792D4.png&height=50&resize=RATIO&format=WEBP" group-title="Peru", ESPN 3 HD (17)
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GGBQRnZQ9nmk3w2ZXk4bZpU/m3u8
+
+#EXTINF:-1 tvg-id="1620dtv.cl" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea10%2FIMAGES%2F00%2F10%2F11%2F10113696_046392A4A17B42D1.png&height=50&resize=RATIO&format=WEBP" group-title="Peru", ESPN 4 HD (18)
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GB0D7elE_RcictMthUZp07Y/m3u8
+
+#EXTINF:-1 tvg-id="624dtv.co" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F18%2F12%2F18120538_C879B6958D9AC767.png&height=50&resize=RATIO&format=WEBP" group-title="Peru", ESPN 5 HD (19)
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GNlagChbW3ELN-qIqvw7p4o/m3u8
+
+#EXTINF:-1 tvg-id="3081dtv.cl" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F18%2F12%2F18120540_B7604BB1E7F6FE82.png&height=50&resize=RATIO&format=WEBP" group-title="Peru", ESPN 6 HD (20)
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GGa3yalLN7Cn02qEkjwalLM/m3u8
+
+#EXTINF:-1 tvg-id="655" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F18%2F12%2F18120542_D5E98ACC166EE489.png&height=50&resize=RATIO&format=WEBP" group-title="Peru", ESPN 7 HD (21)
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GJi35BdjTghmQu_h-RYzW00/m3u8
+
