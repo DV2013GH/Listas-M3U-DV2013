@@ -643,7 +643,7 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu8zqqGeJI1r2VfX3Jhyjwk318wuvd8R
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuxj-AeeI7p9XVc4NeSIV7g89kXPXxhZ-jrt1-80r-dbZ/m3u8
 
 #EXTINF:-1 tvg-id="833mvstr.cl" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TVE/EXPORTACION_WEB/SS/TVE_t-290x163.png" group-title="NOTICIAS Y INT", INT | TVE Internacional
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-id="145dtv.co" tvg-logo="http://www.tmsimg.com/assets/s61988_ll_h3_ab.png" group-title="NOTICIAS Y INT", NT | NTN24 HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKyudsD5bdU3qN9_VTEhcrHf/m3u8
