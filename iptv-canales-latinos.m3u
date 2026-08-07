@@ -60,20 +60,17 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu6ZMlNzJwgj7Vt3Hi9JHPNhs83hq_QF
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s16526_ll_h3_aa.png" group-title="CHILE", CL | TVN HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu6ZMlNzJwgj7Vt3Hi9JHPNh1mUxec5-cBtAjAsxdTudf/m3u8
 
-#EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/500px-La_Red_Logotipo_2021.svg.png" group-title="CHILE", CL | La Red HD
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu6ZMlNzJwgj7Vt3Hi9JHPNh2CXwWMG0XR8gn-vA8aYXx/m3u8
-
-#EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV+_(2018).png" group-title="CHILE", CL | TV+ HD
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu6ZMlNzJwgj7Vt3Hi9JHPNiKAgEoBAJvLXI6OqQXjwl6/m3u8
-
-#EXTINF:-1 tvg-id="24horas.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Canal_24_Horas.png/330px-Logo_Canal_24_Horas.png" group-title="CHILE", CL | Canal 24 Horas HD
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu6ZMlNzJwgj7Vt3Hi9JHPNiKq_p-toVltP4zTyOlOEpa/m3u8
-
-#EXTINF:-1 tvg-id="850mvstr.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="CHILE", CL | ETC TV HD
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu6ZMlNzJwgj7Vt3Hi9JHPNiph65m23zCmoTJebItMbBz/m3u8
-
 #EXTINF:-1 tvg-id="146dtv.cl" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/NTV-Chile-en-vivo-Online.png" group-title="CHILE", CL | NTV HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu6ZMlNzJwgj7Vt3Hi9JHPNh91Offxte0EfZcb6De90zA/m3u8
+
+#EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/l/a/la_red.png" group-title="CHILE", CL | La Red HD
+https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu6ZMlNzJwgj7Vt3Hi9JHPNh2CXwWMG0XR8gn-vA8aYXx/m3u8
+
+#EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/v/tv_hd_1.png" group-title="CHILE", CL | TV+ HD
+https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu6ZMlNzJwgj7Vt3Hi9JHPNiKAgEoBAJvLXI6OqQXjwl6/m3u8
+
+#EXTINF:-1 tvg-id="24horas.cl" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/v/e/veinticuatro_horas.png" group-title="CHILE", CL | Canal 24 Horas HD
+https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu6ZMlNzJwgj7Vt3Hi9JHPNiKq_p-toVltP4zTyOlOEpa/m3u8
 
 #EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/e/telefe.png" group-title="ARGENTINA", ARG | TELEFE HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu0OsZD6ky7d60HrOJOT7mM8a23BzP6H4r1ScS9E4azUl/m3u8
@@ -129,7 +126,7 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuw8SLfEac-Na-XuYEyy4YVoiH2Znv3q
 #EXTINF:-1 tvg-id="147dtv.co" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/c/a/cablenoticias_2.png" group-title="COLOMBIA", CO | Cablenoticias HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3cBYHU7mOnpvPfpIi4Fo9o7aZZtjRcNnIXl5-AcSPo4/m3u8
 
-#EXTINF:-1 tvg-id="135dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1920px-Canal_RCN_logo.svg.png" group-title="COLOMBIA", CO | RCN Nuestra Tele
+#EXTINF:-1 tvg-id="135dtv.co" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FNuestra_tele.png&width=300" group-title="COLOMBIA", CO | Nuestra Tele
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3cBYHU7mOnpvPfpIi4Fo9r3HpkS-cA35lfNmsGBxlvZ/m3u8
 
 #EXTINF:-1 tvg-id="134dtv.co" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/c/a/caracol_internacional.png" group-title="COLOMBIA", CO | Caracol Internacional
@@ -144,7 +141,7 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3cBYHU7mOnpvPfpIi4Fo9qyuO8o_75
 #EXTINF:-1 tvg-id="130dtv.co" tvg-logo="http://www.tmsimg.com/assets/s18568_ll_h3_ac.png" group-title="COLOMBIA", CO | Canal RCN HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3cBYHU7mOnpvPfpIi4Fo9rOGjqR8nDwhdJKz9ix00Y_/m3u8
 
-#EXTINF:-1 tvg-id="141dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="COLOMBIA", CO | Telepacifico HD
+#EXTINF:-1 tvg-id="141dtv.co" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/e/telepac_fico.png" group-title="COLOMBIA", CO | Telepacifico HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3cBYHU7mOnpvPfpIi4Fo9oPtHgeAR3BYxtfMfT9XGd2/m3u8
 
 #EXTINF:-1 tvg-id="137dtv.co" tvg-logo="http://www.tmsimg.com/assets/s18098_ll_h3_aa.png" group-title="COLOMBIA", CO | Senal Colombia
@@ -177,7 +174,7 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuzG59VNYfDujaCbJQ13AN34g4wNo_mH
 #EXTINF:-1 tvg-id="elnu9ve.mx" tvg-logo="https://i.imgur.com/ZLLlehb.png" group-title="MEXICO", MX | NU9VE TV
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu90n8rlzELtvPcCD7fWO1-BRZRtoSBx_SHaqD26qLtE8/m3u8
 
-#EXTINF:-1 tvg-id="canal11.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Antiguo_logo_de_Canal_Once_%28Once_TV%29.png" group-title="MEXICO", MX | Canal Once
+#EXTINF:-1 tvg-id="canal11.mx" tvg-logo="https://i.imgur.com/aRezD7e.png" group-title="MEXICO", MX | Canal Once
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu93RFQJ14kpTm6u8v0_cRUN8aWCPiexPVcarfoACX0MI/m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/SRQxnY4/images.png" group-title="MEXICO", MX | Las Estrellas
@@ -231,34 +228,34 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuyfdPHzxHXdZc6VcXNwcIDVY1b_lSY2
 #EXTINF:-1 tvg-id="553" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY", UY | VTV PLUS HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuyfdPHzxHXdZc6VcXNwcIDWPyxTNoyEoNbQvaRUE1Ivf/m3u8
 
-#EXTINF:-1 tvg-id="HBOCHIL" tvg-logo="http://www.tmsimg.com/assets/s12288_ll_h3_aa.png" group-title="CINE Y SERIES", HBO OPCION 1
+#EXTINF:-1 tvg-id="4" tvg-logo="http://www.tmsimg.com/assets/s12288_ll_h3_aa.png" group-title="CINE Y SERIES", C | HBO HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcE1y-ifRK9F2JGpKtPhTS_l/m3u8
 
-#EXTINF:-1 tvg-id="HBO2LA" tvg-logo="http://www.tmsimg.com/assets/s68140_ll_h3_aa.png" group-title="CINE Y SERIES", HBO 2 OPCION 1
+#EXTINF:-1 tvg-id="4" tvg-logo="http://www.tmsimg.com/assets/s68140_ll_h3_aa.png" group-title="CINE Y SERIES", C | HBO 2 HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcHWHdCq9tWPaNHQVGmeKGm2/m3u8
 
-#EXTINF:-1 tvg-id="HBOPPA" tvg-logo="http://www.tmsimg.com/assets/s34725_ll_h3_aa.png" group-title="CINE Y SERIES", HBO + OPCION 1
+#EXTINF:-1 tvg-id="4" tvg-logo="http://www.tmsimg.com/assets/s34725_ll_h3_aa.png" group-title="CINE Y SERIES", C | HBO+ PLUS
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcGbji5unxsk8E_KIBWtHUdn/m3u8
 
-#EXTINF:-1 tvg-id="HBOFAM" tvg-logo="http://www.tmsimg.com/assets/s34879_h3_aa.png" group-title="CINE Y SERIES", HBO FAMILY OPCION 1
+#EXTINF:-1 tvg-id="4" tvg-logo="http://www.tmsimg.com/assets/s34879_h3_aa.png" group-title="CINE Y SERIES", C | HBO FAMILY HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcHnoUzl5klrUnP9RHcahnwo/m3u8
 
-#EXTINF:-1 tvg-id="HBOSLA" tvg-logo="http://www.tmsimg.com/assets/s80120_ll_h3_aa.png" group-title="CINE Y SERIES", HBO SIGNATURE OPCION 1
+#EXTINF:-1 tvg-id="4" tvg-logo="http://www.tmsimg.com/assets/s80120_ll_h3_aa.png" group-title="CINE Y SERIES", C | HBO SIGNATURE
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcHkYgz86xRgl8D_jTiw3rBP/m3u8
 
-#EXTINF:-1 tvg-id="POPLA" tvg-logo="http://www.tmsimg.com/assets/s68134_ll_h3_ab.png" group-title="CINE Y SERIES", HBO POP OPCION 1
+#EXTINF:-1 tvg-id="4" tvg-logo="http://www.tmsimg.com/assets/s68134_ll_h3_ab.png" group-title="CINE Y SERIES", C | HBO POP HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcHCQ2HoZQFw10kCUXLjnulk/m3u8
 
-#EXTINF:-1 tvg-id="MUNLA" tvg-logo="http://www.tmsimg.com/assets/s70081_ll_h3_ab.png" group-title="CINE Y SERIES", HBO MUNDI OPCION 1
+#EXTINF:-1 tvg-id="4" tvg-logo="http://www.tmsimg.com/assets/s70081_ll_h3_ab.png" group-title="CINE Y SERIES", C | HBO MUNDI
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcHoZSjTlM1P1W-pz7wix8C3/m3u8
 
-#EXTINF:-1 tvg-id="HBOXLA" tvg-logo="http://www.tmsimg.com/assets/s80211_ll_h3_ab.png" group-title="CINE Y SERIES", HBO XTREME OPCION 1
+#EXTINF:-1 tvg-id="4" tvg-logo="http://www.tmsimg.com/assets/s80211_ll_h3_ab.png" group-title="CINE Y SERIES", C | HBO XTREME
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcErreS8ACMQfs7oysmI4sU0/m3u8
 
-#EXTINF:-1 tvg-id="STULA" tvg-logo="http://www.tmsimg.com/assets/s29017_ll_h3_aa.png" group-title="CINE Y SERIES", STUDIO UNIVERSAL OPCION 1
+#EXTINF:-1 tvg-id="4" tvg-logo="http://www.tmsimg.com/assets/s29017_ll_h3_aa.png" group-title="CINE Y SERIES", C | STUDIO UNIVERSAL
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcHUqYxtTATlGqRkfJbEIkVM/m3u8
 
-#EXTINF:-1 tvg-id="UNTVARH" tvg-logo="http://www.tmsimg.com/assets/s53218_h3_aa.png" group-title="CINE Y SERIES", UNIVERSAL TV OPCION 1
+#EXTINF:-1 tvg-id="218dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s53218_h3_aa.png" group-title="CINE Y SERIES", S | UNIVERSAL TV
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcHuWMzKeo2Cicsb01EP7WjK/m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://clarovideocdn9.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALCINEMAHD/EXPORTACION_WEB/SS/UNIVERSALCINEMAHD_t-290x163.png" group-title="CINE Y SERIES", C | UNIVERSAL CINEMA
@@ -276,22 +273,22 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcFsQ8bX3VN
 #EXTINF:-1 tvg-id="4" tvg-logo="https://clarovideocdn9.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALREALITYHD/EXPORTACION_WEB/SS/UNIVERSALREALITYHD_t-290x163.png" group-title="CINE Y SERIES", C | UNIVERSAL REALITY
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcFcOdTB8cGwUj0cravI02Ol/m3u8
 
-#EXTINF:-1 tvg-id="OLEAND" tvg-logo="http://www.tmsimg.com/assets/s16213_ll_h3_ab.png" group-title="CINE Y SERIES", WARNER TV OPCION 1
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s16213_ll_h3_ab.png" group-title="CINE Y SERIES", S | WARNER TV
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcE9349gcmlbn5OuB09ylZ8x/m3u8
 
-#EXTINF:-1 tvg-id="STAR CHANNEL OPCION 1" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/STARCHANNEL/EXPORTACION_WEB/SS/STARCHANNEL_t-290x163.png" group-title="CINE Y SERIES", C | STAR CHANNEL
+#EXTINF:-1 tvg-id="108mvstr.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/STARCHANNEL/EXPORTACION_WEB/SS/STARCHANNEL_t-290x163.png" group-title="CINE Y SERIES", C | STAR CHANNEL
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcFudTDlR9dR0CiHsxDbZ-Ct/m3u8
 
-#EXTINF:-1 tvg-id="GLDEN" tvg-logo="http://www.tmsimg.com/assets/s50709_ll_h3_aa.png" group-title="CINE Y SERIES", GOLDEN OPCION 1
+#EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s50709_ll_h3_aa.png" group-title="CINE Y SERIES", C | GOLDEN HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcHGBwf8aUoIGVkoOCmm-uAr/m3u8
 
-#EXTINF:-1 tvg-id="GOLDEDG" tvg-logo="http://www.tmsimg.com/assets/s16423_ll_h3_ab.png" group-title="CINE Y SERIES", GOLDEN EDGE OPCION 1
+#EXTINF:-1 tvg-id="517dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s16423_ll_h3_ab.png" group-title="CINE Y SERIES", C | GOLDEN EDGE HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcEvTCtoOcVSpfYkA9SugD_X/m3u8
 
-#EXTINF:-1 tvg-id="GOLDNHD" tvg-logo="http://www.tmsimg.com/assets/s68317_ll_h3_ab.png" group-title="CINE Y SERIES", GOLDEN PLUS OPCION 1
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s68317_ll_h3_ab.png" group-title="CINE Y SERIES", C | GOLDEN PLUS HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcGv4aecFN-PK65Hvh3hsl8a/m3u8
 
-#EXTINF:-1 tvg-id="GLDPREM" tvg-logo="http://www.tmsimg.com/assets/s80596_h3_aa.png" group-title="CINE Y SERIES", GOLDEN PREMIER OPCION 1
+#EXTINF:-1 tvg-id="4" tvg-logo="http://www.tmsimg.com/assets/s80596_h3_aa.png" group-title="CINE Y SERIES", C | GOLDEN PREMIER HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcGMazgwkmds9jKgy6JkZa3P/m3u8
 
 #EXTINF:-1 tvg-id="209dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s17484_ll_h3_ab.png" group-title="CINE Y SERIES", S | AXN HD
@@ -306,64 +303,46 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcEe0AtX1px
 #EXTINF:-1 tvg-id="864mvstr.co" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTNTNOVELAS.png&width=300" group-title="CINE Y SERIES", TNT NOVELAS OPCION 1
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcH9AaFejc1iPEs9QwDV8k_U/m3u8
 
-#EXTINF:-1 tvg-id="CANALHD" tvg-logo="http://www.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE Y SERIES", CINECANAL OPCION 1
+#EXTINF:-1 tvg-id="cinecanal.pe" tvg-logo="http://www.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE Y SERIES", C | CINECANAL HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcFD1QMvKbzpGkAisYzC1YID/m3u8
 
-#EXTINF:-1 tvg-id="CINECHL" tvg-logo="http://www.tmsimg.com/assets/s16794_h3_aa.png" group-title="CINE Y SERIES", CINEMAX OPCION 1
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s16794_h3_aa.png" group-title="CINE Y SERIES", CINEMAX OPCION 1
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcEUmG-av6IgYIjl-PZoQDl5/m3u8
 
-#EXTINF:-1 tvg-id="CINL" tvg-logo="http://www.tmsimg.com/assets/s15296_ll_h3_ab.png" group-title="CINE Y SERIES", CINE LATINO OPCION 1
+#EXTINF:-1 tvg-id="4" tvg-logo="http://www.tmsimg.com/assets/s15296_ll_h3_ab.png" group-title="CINE Y SERIES", C | CINE LATINO HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcEW66PlFVgPGRGuO99hEXeF/m3u8
-
-#EXTINF:-1 tvg-id="CINEAR" tvg-logo="http://www.tmsimg.com/assets/s81974_ll_h3_ac.png" group-title="CINE Y SERIES", CINEAR OPCION 1
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcFZY8l7sf3Gvf4gQ0KWHoFR/m3u8
-
-#EXTINF:-1 tvg-id="CINE FAMILIAR OPCION 1" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="CINE Y SERIES", CINE FAMILIAR OPCION 1
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcG12TzkMWjg0TeiacOxRrRt/m3u8
-
-#EXTINF:-1 tvg-id="CINE HISPANO OPCION 1" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png" group-title="CINE Y SERIES", CINE HISPANO OPCION 1
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcH5fNrzWmUtkOpX3RF-O0rQ/m3u8
-
-#EXTINF:-1 tvg-id="CINPREH" tvg-logo="http://www.tmsimg.com/assets/s111651_ll_h3_aa.png" group-title="CINE Y SERIES", CINE PREMIUM OPCION 1
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcFW1EqnGRfjUoxrJqoxXbwT/m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="http://www.tmsimg.com/assets/s106711_h3_aa.png" group-title="CINE Y SERIES", C | CLARO CINEMA
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcFHF2JkeqKBse-fkODH9WAM/m3u8
 
-#EXTINF:-1 tvg-id="AMCAND" tvg-logo="http://www.tmsimg.com/assets/s90653_ll_h3_ac.png" group-title="CINE Y SERIES", AMC OPCION 1
+#EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s90653_ll_h3_ac.png" group-title="CINE Y SERIES", C | AMC HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3nf5YHGXaKV1_jcuMehPaWlYvYQvZab0jmQttJ7qHqy/m3u8
 
-#EXTINF:-1 tvg-id="SONYCUK" tvg-logo="http://www.tmsimg.com/assets/s57747_ll_h3_ac.png" group-title="CINE Y SERIES", SONY CHANNEL OPCION 1
+#EXTINF:-1 tvg-id="208dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s57747_ll_h3_ac.png" group-title="CINE Y SERIES", S | SONY CHANNEL HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3nf5YHGXaKV1_jcuMehPaVLh768FMWvXL5PUUQkXjgA/m3u8
 
-#EXTINF:-1 tvg-id="FXL" tvg-logo="http://www.tmsimg.com/assets/s46442_ll_h3_aa.png" group-title="CINE Y SERIES", FX OPCION 1
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s46442_ll_h3_aa.png" group-title="CINE Y SERIES", C | FX HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3nf5YHGXaKV1_jcuMehPaX3IWkGroWtUZu6GI2SXu4e/m3u8
 
-#EXTINF:-1 tvg-id="TCML" tvg-logo="http://www.tmsimg.com/assets/s19246_ll_h3_aa.png" group-title="CINE Y SERIES", TCM OPCION 1
+#EXTINF:-1 tvg-id="504dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s19246_ll_h3_aa.png" group-title="CINE Y SERIES", C | TCM HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3nf5YHGXaKV1_jcuMehPaUGIl04ccDy6qyF5Nj7uEaf/m3u8
 
-#EXTINF:-1 tvg-id="SPACBLK" tvg-logo="http://www.tmsimg.com/assets/s16499_h3_aa.png" group-title="CINE Y SERIES", SPACE OPCION 1
+#EXTINF:-1 tvg-id="4" tvg-logo="http://www.tmsimg.com/assets/s16499_h3_aa.png" group-title="CINE Y SERIES", C | SPACE HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3nf5YHGXaKV1_jcuMehPaUW4WEJVuUKe5T82j4-xErd/m3u8
 
-#EXTINF:-1 tvg-id="DEPE2" tvg-logo="http://www.tmsimg.com/assets/s16288_ll_h3_ab.png" group-title="CINE Y SERIES", DE PELICULA OPCION 1
+#EXTINF:-1 tvg-id="4" tvg-logo="http://www.tmsimg.com/assets/s16288_ll_h3_ab.png" group-title="CINE Y SERIES", C | DE PELICULA HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3nf5YHGXaKV1_jcuMehPaU1RAIsNSEZJDpfGRSrXYXR/m3u8
 
-#EXTINF:-1 tvg-id="DEPELPL" tvg-logo="http://www.tmsimg.com/assets/s74016_ll_h3_aa.png" group-title="CINE Y SERIES", DE PELICULA PLUS OPCION 1
+#EXTINF:-1 tvg-id="4" tvg-logo="http://www.tmsimg.com/assets/s74016_ll_h3_aa.png" group-title="CINE Y SERIES", C | DE PELICULA PLUS
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3nf5YHGXaKV1_jcuMehPaX7rP-0uZQ85Z5pbCKB9MaW/m3u8
 
-#EXTINF:-1 tvg-id="DEPELC" tvg-logo="http://www.tmsimg.com/assets/s33628_h3_aa.png" group-title="CINE Y SERIES", DE PELICULA CLASICO OPCION 1
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3nf5YHGXaKV1_jcuMehPaXuNgvZptRmi4QL97UXITZO/m3u8
-
-#EXTINF:-1 tvg-id="USAHD" tvg-logo="http://www.tmsimg.com/assets/s58452_ll_h3_ae.png" group-title="CINE Y SERIES", USA Latinoamericana OPCION 1
+#EXTINF:-1 tvg-id="219dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s58452_ll_h3_ae.png" group-title="CINE Y SERIES", S | USA HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3nf5YHGXaKV1_jcuMehPaUxx357rPBwcqmmi_efqiyN/m3u8
 
-#EXTINF:-1 tvg-id="MPREL" tvg-logo="http://www.tmsimg.com/assets/s18169_ll_h3_ab.png" group-title="CINE Y SERIES", MULTIPREMIER OPCION 1
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3nf5YHGXaKV1_jcuMehPaX80t57fGShUH-PbruYxvN8/m3u8
-
-#EXTINF:-1 tvg-id="CNLDHE" tvg-logo="http://www.tmsimg.com/assets/s81622_ll_h3_aa.png" group-title="CINE Y SERIES", CANAL DHE OPCION 1
+#EXTINF:-1 tvg-id="1513dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s81622_ll_h3_aa.png" group-title="CINE Y SERIES", C | DHE HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3nf5YHGXaKV1_jcuMehPaVGcYLArXApI4yGsIJq86mS/m3u8
 
-#EXTINF:-1 tvg-id="SONY" tvg-logo="http://www.tmsimg.com/assets/s88796_ll_h3_ab.png" group-title="CINE Y SERIES", SONY MOVIES OPCION 1
+#EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s88796_ll_h3_ab.png" group-title="CINE Y SERIES", C | SONY MOVIES HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu9a67_Zut3JqLLqtlYprsNOC8qQ9K1haW0RGs4DY5ZPh/m3u8
 
 #EXTINF:-1 tvg-id="553" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTS_t-290x163.png" group-title="DEPORTES", D | CLARO SPORTS 1
@@ -372,29 +351,29 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7KapuXyIXw3B
 #EXTINF:-1 tvg-id="553" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROSPORTS2/EXPORTACION_WEB/SS/CLAROSPORTS2_t-290x163.png" group-title="DEPORTES", D | CLARO SPORTS 2
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7KaoXx4moKZzw_QLV59yjg2Gw/m3u8
 
-#EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f8fyyg1642114077.png" group-title="DEPORTES", D | DSPORTS ARGENTINA
+#EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/d/i/directv_sports_hd_3.png" group-title="DEPORTES", D | DSPORTS ARGENTINA
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu46FFr88FhYmsWwGe0batvCx0eGvq31i9C2rCP8xoSOS/m3u8
 
-#EXTINF:-1 tvg-id="610dtv.pe" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="DEPORTES", D | DSPORTS PERU
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu46FFr88FhYmsWwGe0batvD3vDgC56Rxpv7s05HXyR6K/m3u8
+#EXTINF:-1 tvg-id="610dtv.pe" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/d/i/directv_sports_hd_3.png" group-title="DEPORTES", D | DSPORTS PERU
+https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuymr65JU8uIizqAZH1V5-M3sReH6XwMTeU77niRDmR9q/m3u8
 
-#EXTINF:-1 tvg-id="610dtv.cl" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/bx9fop1642114200.png" group-title="DEPORTES", D | DSPORTS CHILE
+#EXTINF:-1 tvg-id="610dtv.cl" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/d/i/directv_sports_hd_3.png" group-title="DEPORTES", D | DSPORTS CHILE
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu46FFr88FhYmsWwGe0batvAp-avgxzE6yHf5Dmw_lVml/m3u8
 
-#EXTINF:-1 tvg-id="553" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/t4fy2u1642114240.png" group-title="DEPORTES", D | DSPORTS COLOMBIA
+#EXTINF:-1 tvg-id="553" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/d/i/directv_sports_hd_3.png" group-title="DEPORTES", D | DSPORTS COLOMBIA
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu46FFr88FhYmsWwGe0batvCyPb1jY3hhbPWUGhKM4Boz/m3u8
 
-#EXTINF:-1 tvg-id="553" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qjwoj61642114251.png" group-title="DEPORTES", D | DSPORTS ECUADOR
+#EXTINF:-1 tvg-id="553" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/d/i/directv_sports_hd_3.png" group-title="DEPORTES", D | DSPORTS ECUADOR
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu46FFr88FhYmsWwGe0batvCPsHUwxUW3ZfmBsUH9m0Ow/m3u8
 
-#EXTINF:-1 tvg-id="553" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/816k3g1642114299.png" group-title="DEPORTES", D | DSPORTS URUGUAY
+#EXTINF:-1 tvg-id="553" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/d/i/directv_sports_hd_3.png" group-title="DEPORTES", D | DSPORTS URUGUAY
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu46FFr88FhYmsWwGe0batvBj2TwwNgn2rFxi5Z1q6Cel/m3u8
 
-#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="http://www.tmsimg.com/assets/s107455_ll_h3_ac.png" group-title="DEPORTES", D | DSPORTS+ PLUS
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu46FFr88FhYmsWwGe0batvDbDwdNWAMsvEuxTfzYSGUX/m3u8
-
-#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="http://www.tmsimg.com/assets/s107396_ll_h3_ac.png" group-title="DEPORTES", D | DSPORTS 2 HD
+#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/d/i/directv_sports_2_hd.png" group-title="DEPORTES", D | DSPORTS 2 HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu46FFr88FhYmsWwGe0batvC_dlq0belMHa2_EO4-P6uA/m3u8
+
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.imgur.com/Wt5f0C5.png" group-title="DEPORTES", D | DSPORTS+ PLUS
+https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu46FFr88FhYmsWwGe0batvDbDwdNWAMsvEuxTfzYSGUX/m3u8
 
 #EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/hhGIMg6.png" group-title="DEPORTES", D | ECDF ECUADOR
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7KarpM8hmrrV1WM_bHrozB4Cs/m3u8
@@ -481,7 +460,7 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuymr65JU8uIizqAZH1V5-M0P4oJd02x
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuymr65JU8uIizqAZH1V5-M0tf6l2fldjadeyDzb7xfpv/m3u8
 
 #EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="DEPORTES", PE | M. DEPORTES HD
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3zUTVajDsmVIjiZE360XDQ/m3u8
+https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7Kao7o0EAuArDLweqeLe2TfH3/m3u8
 
 #EXTINF:-1 tvg-id="553" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FOVACION.png&width=300" group-title="DEPORTES", PE | Ovacion
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu008PZ6-hTwvAEctLQoPwFyMKT1W6m07S0eDr22w6XZS/m3u8
@@ -504,10 +483,10 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu46FFr88FhYmsWwGe0batvA-pV8kxsA
 #EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TYCSPORTS/EXPORTACION_WEB/SS/TYCSPORTS_t-290x163.png" group-title="DEPORTES", D | TYC SPORTS INT.
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7KaptPjDwjccr2_XDnR389iWg/m3u8
 
-#EXTINF:-1 tvg-id="553" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/TyC_Sports_Logo.svg/3840px-TyC_Sports_Logo.svg.png" group-title="DEPORTES", D | TYC SPORTS ARG
+#EXTINF:-1 tvg-id="553" tvg-logo="https://spotlight-ar.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F24%2F00%2F24000821_F6916CCA6102C050.png&height=300&resize=RATIO&format=PNG" group-title="DEPORTES", D | TYC SPORTS ARG
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7Kapu3xa0yiTxVNyKS7yNlwqY/m3u8
 
-#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/8BNiOM9.png" group-title="DEPORTES", UY | DSPORTS PREMIUM
+#EXTINF:-1 tvg-id="553" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/d/s/dsports-uruguay-premium-negro-.png" group-title="DEPORTES", UY | DSPORTS URUGUAY PREMIUM
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu6U65JGZb1_Nupl2-XwNrRLWhq09FNoplgUu6cQuVgLX/m3u8
 
 #EXTINF:-1 tvg-id="553" tvg-logo="http://www.tmsimg.com/assets/s87031_ll_h3_aa.png" group-title="DEPORTES", WIN SPORTS (CO) OP1
@@ -653,6 +632,9 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKyaGoi3Plj
 
 #EXTINF:-1 tvg-id="352dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ENLACE/EXPORTACION_WEB/SS/ENLACE_t-290x163.png" group-title="RELIGION", R | ENLACE HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuw6CDzj5EsHF403vvmbG68MRb13A1U67E8BAPVlLiI9B/m3u8
+
+#EXTINF:-1 tvg-id="272dtv.cl" tvg-logo="https://spotlight-co.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F06%2F40%2F6402303_A33849F933ADA8BD.png&height=300&resize=RATIO&format=PNG" group-title="MUSICA", MU | HTV HD
+https://cablered.iptvperu.tv:1936/cablered/HTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bandamax.mx" tvg-logo="https://images.vix.com/prd/channel/674082c9b20422773ee6de5e/dd155b10dc78c23f603e3b3144782f8f?tr=q-30&w=1280" group-title="MUSICA", MU | BANDAMAX HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu2aPieRm43mBsHS6ILIC2ZRa9x3gJhricV0TMmv-FXk9/m3u8
