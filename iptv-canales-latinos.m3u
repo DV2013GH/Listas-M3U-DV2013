@@ -147,26 +147,11 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3cBYHU7mOnpvPfpIi4Fo9qyuO8o_75
 #EXTINF:-1 tvg-id="130dtv.co" tvg-logo="http://www.tmsimg.com/assets/s18568_ll_h3_ac.png" group-title="COLOMBIA", CO | Canal RCN HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3cBYHU7mOnpvPfpIi4Fo9rOGjqR8nDwhdJKz9ix00Y_/m3u8
 
-#EXTINF:-1 tvg-id="CO | Canal Capital OP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1200px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA", CO | Canal Capital OP1
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3cBYHU7mOnpvPfpIi4Fo9pIrEamxHOKDTIlhY7jkMdR/m3u8
-
-#EXTINF:-1 tvg-id="CO | CANAL UNO OP1" tvg-logo="noimage.png" group-title="COLOMBIA", CO | CANAL UNO OP1
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3cBYHU7mOnpvPfpIi4Fo9q0bq_lU5z-0ER7QAQlH39X/m3u8
-
-#EXTINF:-1 tvg-id="CO | Teleantioquia OP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Teleantioquia_logo.svg/2560px-Teleantioquia_logo.svg.png" group-title="COLOMBIA", CO | Teleantioquia OP1
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3cBYHU7mOnpvPfpIi4Fo9qkE1GR3zixv56pGm6OZsR9/m3u8
-
-#EXTINF:-1 tvg-id="CO | Telepacifico OP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="COLOMBIA", CO | Telepacifico OP1
+#EXTINF:-1 tvg-id="141dtv.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="COLOMBIA", CO | Telepacifico HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3cBYHU7mOnpvPfpIi4Fo9oPtHgeAR3BYxtfMfT9XGd2/m3u8
 
-#EXTINF:-1 tvg-id="CO | Señal Colombia OP1" tvg-logo="http://www.tmsimg.com/assets/s18098_ll_h3_aa.png" group-title="COLOMBIA", CO | Señal Colombia OP1
+#EXTINF:-1 tvg-id="137dtv.co" tvg-logo="http://www.tmsimg.com/assets/s18098_ll_h3_aa.png" group-title="COLOMBIA", CO | Senal Colombia
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3cBYHU7mOnpvPfpIi4Fo9o03QwJmQS2O4z8KazVy97G/m3u8
-
-#EXTINF:-1 tvg-id="CO | NTN24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="COLOMBIA", CO | NTN24
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3cBYHU7mOnpvPfpIi4Fo9pZi7c1NnEUQB3C9fvsQQ95/m3u8
-
-#EXTINF:-1 tvg-id="CO | City TV" tvg-logo="https://cdn.mitvstatic.com/channels/gt_citytv_m.png" group-title="COLOMBIA", CO | City TV
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3cBYHU7mOnpvPfpIi4Fo9rGQgC6eDBiKqMJsGJ0Zk0x/m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.ibb.co/9shCDfh/cl-az-cinema-m.png" group-title="MEXICO", MX | AZ Cinema HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu01WNWWqpytfRRRE5tEvZl2A2KasjqcO781ka0bGD9OC/m3u8
@@ -636,47 +621,41 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuwtxugMEy8p0e6ToGujFDhYE40yWY5N
 #EXTINF:-1 tvg-id="SUNCH" tvg-logo="http://www.tmsimg.com/assets/s60329_ll_h3_aa.png" group-title="CULTURA", C | SUN Channel
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuwtxugMEy8p0e6ToGujFDhYifHSDnsMBfzDWTcO23NS7/m3u8
 
-#EXTINF:-1 tvg-id="CNNCH" tvg-logo="http://www.tmsimg.com/assets/s104408_ll_h3_aa.png" group-title="NOTICIAS", NT | CNN CHILE HD
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKw_rg43MNEuyOhAw5nRdtRW/m3u8
+#EXTINF:-1 tvg-id="527" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="NOTICIAS Y INT", CGTN Español
+https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuy57pABdX8XOBg6yt-vPyBMn5VQ4IBeHKPlOA8ADprwz/m3u8
 
-#EXTINF:-1 tvg-id="NTN24" tvg-logo="http://www.tmsimg.com/assets/s61988_ll_h3_ab.png" group-title="NOTICIAS", NT | NTN24 HD
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKyudsD5bdU3qN9_VTEhcrHf/m3u8
+#EXTINF:-1 tvg-id="560" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/RT/EXPORTACION_WEB/SS/RT_t-290x163.png" group-title="NOTICIAS Y INT", NT | RT SPANISH
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EURONEW" tvg-logo="http://www.tmsimg.com/assets/s28174_h3_aa.png" group-title="NOTICIAS", NT |  EURO NEWS HD
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKyaGoi3PljKNEdBvu-4XsVL/m3u8
-
-#EXTINF:-1 tvg-id="BBCASPA" tvg-logo="http://www.tmsimg.com/assets/s36844_ll_h3_ac.png" group-title="NOTICIAS", NT | BBC WORLD HD
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKw6FvxHeg4MGy2g_JztpHom/m3u8
-
-#EXTINF:-1 tvg-id="FR24ESD" tvg-logo="http://www.tmsimg.com/assets/s105780_ll_h3_aa.png" group-title="NOTICIAS", NT | FRANCE 24 ESPAÑOL HD
+#EXTINF:-1 tvg-id="france-24-espanol.ar" tvg-logo="http://www.tmsimg.com/assets/s105780_ll_h3_aa.png" group-title="NOTICIAS Y INT", NT | FRANCE 24 ESP
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKyiJ6mvUjhK5iG-uBGzVHis/m3u8
 
-#EXTINF:-1 tvg-id="DWLA" tvg-logo="http://www.tmsimg.com/assets/s64230_ll_h3_ag.png" group-title="NOTICIAS", NT | DW EN ESPAÑOL HD
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKwpFYluxeCbtDSw81SlLfST/m3u8
+#EXTINF:-1 tvg-id="836dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s64230_ll_h3_ag.png" group-title="NOTICIAS Y INT", NT | DW SPANISH
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
-#EXTINF:-1 tvg-id="CNNEM" tvg-logo="http://www.tmsimg.com/assets/s17054_ll_h3_aa.png" group-title="NOTICIAS", NT | CNN EN ESPAÑOL HD
+#EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s17054_ll_h3_aa.png" group-title="NOTICIAS Y INT", NT | CNN SPANISH
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKz0CQH0yiGd46_59hyssPSv/m3u8
 
-#EXTINF:-1 tvg-id="CNN" tvg-logo="http://www.tmsimg.com/assets/s10142_ll_h3_aa.png" group-title="NOTICIAS", NT | CNN USA OP1
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKyu10YiFwvL3EM-Cy_i1Y73/m3u8
-
-#EXTINF:-1 tvg-id="DWEUR" tvg-logo="http://www.tmsimg.com/assets/s79318_ll_h3_ab.png" group-title="NOTICIAS", NT | DW HD
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKwxLzw2DHQoQP05qKYiLCXr/m3u8
-
-#EXTINF:-1 tvg-id="ADN40" tvg-logo="http://www.tmsimg.com/assets/s15384_ll_h3_ab.png" group-title="NOTICIAS", NT | ADN40
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu8zqqGeJI1r2VfX3Jhyjwk318wuvd8RKWtL6lyh2KbIe/m3u8
-
-#EXTINF:-1 tvg-id="CNNEUHD" tvg-logo="http://www.tmsimg.com/assets/s91065_ll_h3_aa.png" group-title="NOTICIAS", NT | CNN INTERNACIONAL
+#EXTINF:-1 tvg-id="706dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s91065_ll_h3_aa.png" group-title="NOTICIAS Y INT", NT | CNN INTERNACIONAL
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu8zqqGeJI1r2VfX3Jhyjwk2FQJlYf9O4GE-VbWACgEtB/m3u8
 
-#EXTINF:-1 tvg-id="CAN24H" tvg-logo="http://www.tmsimg.com/assets/s90353_ll_h3_aa.png" group-title="NOTICIAS", NT | 24h
+#EXTINF:-1 tvg-id="707dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s104408_ll_h3_aa.png" group-title="NOTICIAS Y INT", NT | CNN CHILE HD
+https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKw_rg43MNEuyOhAw5nRdtRW/m3u8
+
+#EXTINF:-1 tvg-id="adn40.mx" tvg-logo="http://www.tmsimg.com/assets/s15384_ll_h3_ab.png" group-title="NOTICIAS Y INT", NT | ADN40
+https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu8zqqGeJI1r2VfX3Jhyjwk318wuvd8RKWtL6lyh2KbIe/m3u8
+
+#EXTINF:-1 tvg-id="24horas.es" tvg-logo="http://www.tmsimg.com/assets/s90353_ll_h3_aa.png" group-title="NOTICIAS Y INT", NT | 24h
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuxj-AeeI7p9XVc4NeSIV7g89kXPXxhZ-jrt1-80r-dbZ/m3u8
 
-#EXTINF:-1 tvg-id="NT | RT NOTICIAS EN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/640px-Russia-today-logo.svg.png" group-title="NOTICIAS", NT | RT NOTICIAS EN ESPAÑOL
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu0jIJrJP8jaegRgxxzxsVPsfOkG5o-_ODsLSqDjA4NZy/m3u8
+#EXTINF:-1 tvg-id="833mvstr.cl" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TVE/EXPORTACION_WEB/SS/TVE_t-290x163.png" group-title="NOTICIAS Y INT", INT | TVE Internacional
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 
-#EXTINF:-1 tvg-id="CGTN Español" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="NOTICIAS", CGTN Español
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuy57pABdX8XOBg6yt-vPyBMn5VQ4IBeHKPlOA8ADprwz/m3u8
+#EXTINF:-1 tvg-id="145dtv.co" tvg-logo="http://www.tmsimg.com/assets/s61988_ll_h3_ab.png" group-title="NOTICIAS Y INT", NT | NTN24 HD
+https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKyudsD5bdU3qN9_VTEhcrHf/m3u8
+
+#EXTINF:-1 tvg-id="659" tvg-logo="http://www.tmsimg.com/assets/s28174_h3_aa.png" group-title="NOTICIAS Y INT", NT | EURO NEWS HD
+https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKyaGoi3PljKNEdBvu-4XsVL/m3u8
 
 #EXTINF:-1 tvg-id="352dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ENLACE/EXPORTACION_WEB/SS/ENLACE_t-290x163.png" group-title="RELIGION", R | ENLACE HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuw6CDzj5EsHF403vvmbG68MRb13A1U67E8BAPVlLiI9B/m3u8
