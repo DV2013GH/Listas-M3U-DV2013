@@ -300,13 +300,13 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcFHBYmt279
 #EXTINF:-1 tvg-id="213dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s91993_h3_aa.png" group-title="CINE Y SERIES", S | TNT SERIES
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcEe0AtX1pxrQpI2RuXN-yh1/m3u8
 
-#EXTINF:-1 tvg-id="864mvstr.co" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTNTNOVELAS.png&width=300" group-title="CINE Y SERIES", TNT NOVELAS OPCION 1
+#EXTINF:-1 tvg-id="864mvstr.co" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FTNTNOVELAS.png&width=300" group-title="CINE Y SERIES", C | TNT NOVELAS HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcH9AaFejc1iPEs9QwDV8k_U/m3u8
 
 #EXTINF:-1 tvg-id="cinecanal.pe" tvg-logo="http://www.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE Y SERIES", C | CINECANAL HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcFD1QMvKbzpGkAisYzC1YID/m3u8
 
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s16794_h3_aa.png" group-title="CINE Y SERIES", CINEMAX OPCION 1
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s16794_h3_aa.png" group-title="CINE Y SERIES", C | CINEMAX HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcEUmG-av6IgYIjl-PZoQDl5/m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="http://www.tmsimg.com/assets/s15296_ll_h3_ab.png" group-title="CINE Y SERIES", C | CINE LATINO HD
@@ -534,16 +534,13 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKzie05TdJE
 #EXTINF:-1 tvg-id="3" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/canal-infantil.png" group-title="KIDS", CANAL INFANTIL
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu0jIJrJP8jaegRgxxzxsVPsy0WPvnUjXZ_QpQ8A-zTdl/m3u8
 
-#EXTINF:-1 tvg-id="ANIPAA2" tvg-logo="http://www.tmsimg.com/assets/s18649_ll_h3_af.png" group-title="CULTURA", C | Animal Planet
+#EXTINF:-1 tvg-id="734dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s18649_ll_h3_af.png" group-title="CULTURA", C | Animal Planet
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7KarihzTqcteEsvzlvyBTYkZE/m3u8
 
-#EXTINF:-1 tvg-id="DISCCH" tvg-logo="http://www.tmsimg.com/assets/s15798_h3_aa.png" group-title="CULTURA", C | Discovery Channel
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7KaqDVlindNJc7lv8btp6Ae8-/m3u8
-
-#EXTINF:-1 tvg-id="DHEAL" tvg-logo="http://www.tmsimg.com/assets/s24424_ll_h3_aa.png" group-title="CULTURA", C | Discovery Home & Health
+#EXTINF:-1 tvg-id="229dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s24424_ll_h3_aa.png" group-title="CULTURA", C | Discovery H&H
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7KarkXvPAkzP_fgrDauuiKToU/m3u8
 
-#EXTINF:-1 tvg-id="IDLA" tvg-logo="http://www.tmsimg.com/assets/s25743_h3_aa.png" group-title="CULTURA", C | Discovery Investigation
+#EXTINF:-1 tvg-id="5" tvg-logo="http://www.tmsimg.com/assets/s25743_h3_aa.png" group-title="CULTURA", C | Discovery Investigation
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7KarRUabQQSm1PORVEkNL8tZO/m3u8
 
 #EXTINF:-1 tvg-id="discovery-science.cl" tvg-logo="http://www.tmsimg.com/assets/s48527_ll_h3_aa.png" group-title="CULTURA", C | Discovery Science
@@ -552,19 +549,16 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7KaqCRzK0lUs
 #EXTINF:-1 tvg-id="1731dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s65940_ll_h3_aa.png" group-title="CULTURA", C | Discovery Theater
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7Karrj1AbhSIp63vNHFhvXXSO/m3u8
 
-#EXTINF:-1 tvg-id="DTRBLAH" tvg-logo="http://www.tmsimg.com/assets/s46608_ll_h3_aa.png" group-title="CULTURA", C | Discovery Turbo
+#EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s46608_ll_h3_aa.png" group-title="CULTURA", C | Discovery Turbo
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7KaoWw3mK_4LyQXijo5nj3f_Y/m3u8
 
-#EXTINF:-1 tvg-id="DWRHDA" tvg-logo="http://www.tmsimg.com/assets/s66488_ll_h3_aa.png" group-title="CULTURA", C | Discovery World
+#EXTINF:-1 tvg-id="1738dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s66488_ll_h3_aa.png" group-title="CULTURA", C | Discovery World
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7KaogzWpnY3Sces0Ka-7ori2O/m3u8
 
-#EXTINF:-1 tvg-id="TLCAR" tvg-logo="http://www.tmsimg.com/assets/s73822_ll_h3_ad.png" group-title="CULTURA", C | TLC HD
+#EXTINF:-1 tvg-id="5" tvg-logo="http://www.tmsimg.com/assets/s73822_ll_h3_ad.png" group-title="CULTURA", C | TLC HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7KarRTAyjqt0IZ_-i2FCmgU3k/m3u8
 
-#EXTINF:-1 tvg-id="GOURMAM" tvg-logo="http://www.tmsimg.com/assets/s25553_ll_h3_ac.png" group-title="CULTURA", C | El Gourmet
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuwtxugMEy8p0e6ToGujFDhbi-uzYvGaTN_2H5SNqgrPB/m3u8
-
-#EXTINF:-1 tvg-id="FODAMC2" tvg-logo="http://www.tmsimg.com/assets/s91919_ll_h3_aa.png" group-title="CULTURA", C | Food Network
+#EXTINF:-1 tvg-id="233dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s91919_ll_h3_aa.png" group-title="CULTURA", C | Food Network
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuwtxugMEy8p0e6ToGujFDhbuhu2B2satWTIxZVF1KSLN/m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-logo="http://www.tmsimg.com/assets/s111055_ll_h3_aa.png" group-title="CULTURA", C | HGTV
@@ -576,22 +570,16 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuwtxugMEy8p0e6ToGujFDhZCpScEb-U
 #EXTINF:-1 tvg-id="742dtv.co" tvg-logo="http://www.tmsimg.com/assets/s80374_ll_h3_ad.png" group-title="CULTURA", C | History 2
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuwtxugMEy8p0e6ToGujFDhZvD8VX7afzX9BSxUC5GzUK/m3u8
 
-#EXTINF:-1 tvg-id="NATUR" tvg-logo="http://www.tmsimg.com/assets/s52745_ll_h3_ab.png" group-title="CULTURA", C | Love Nature
+#EXTINF:-1 tvg-id="5" tvg-logo="http://www.tmsimg.com/assets/s52745_ll_h3_ab.png" group-title="CULTURA", C | Love Nature
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuwtxugMEy8p0e6ToGujFDha_D-ZfMKdY2LKewTDJw9em/m3u8
 
-#EXTINF:-1 tvg-id="NGLATHD" tvg-logo="http://www.tmsimg.com/assets/s25068_h3_aa.png" group-title="CULTURA", C | National Geographic
+#EXTINF:-1 tvg-id="730dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s25068_h3_aa.png" group-title="CULTURA", C | National Geographic
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuwtxugMEy8p0e6ToGujFDhbR7DCWeDzaYlQ6jP2l8OIE/m3u8
 
-#EXTINF:-1 tvg-id="FABL" tvg-logo="http://www.tmsimg.com/assets/s87687_ll_h3_aa.png" group-title="CULTURA", C | Film & Arts
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuwtxugMEy8p0e6ToGujFDhbxcHLJ5FdBKzpPrKlbDCsk/m3u8
-
-#EXTINF:-1 tvg-id="LIFEAM2" tvg-logo="http://www.tmsimg.com/assets/s89197_h3_aa.png" group-title="CULTURA", C | LIFETIME
+#EXTINF:-1 tvg-id="5" tvg-logo="http://www.tmsimg.com/assets/s89197_h3_aa.png" group-title="CULTURA", C | LIFETIME
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuwtxugMEy8p0e6ToGujFDhZCD7Ch1PEsMocXwEPCVGkr/m3u8
 
-#EXTINF:-1 tvg-id="ELGARHA" tvg-logo="http://www.tmsimg.com/assets/s50263_ll_h3_ab.png" group-title="CULTURA", C | Garage TV
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuwtxugMEy8p0e6ToGujFDhYE40yWY5N1-XEtqcm6Rna2/m3u8
-
-#EXTINF:-1 tvg-id="SUNCH" tvg-logo="http://www.tmsimg.com/assets/s60329_ll_h3_aa.png" group-title="CULTURA", C | SUN Channel
+#EXTINF:-1 tvg-id="5" tvg-logo="http://www.tmsimg.com/assets/s60329_ll_h3_aa.png" group-title="CULTURA", C | SUN Channel
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuwtxugMEy8p0e6ToGujFDhYifHSDnsMBfzDWTcO23NS7/m3u8
 
 #EXTINF:-1 tvg-id="527" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="NOTICIAS Y INT", CGTN Español
@@ -623,6 +611,9 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuxj-AeeI7p9XVc4NeSIV7g89kXPXxhZ
 
 #EXTINF:-1 tvg-id="833mvstr.cl" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TVE/EXPORTACION_WEB/SS/TVE_t-290x163.png" group-title="NOTICIAS Y INT", INT | TVE Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/STARTVE/EXPORTACION_WEB/SS/STARTVE_t-290x163.png" group-title="NOTICIAS Y INT", INT | STAR TVE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-id="145dtv.co" tvg-logo="http://www.tmsimg.com/assets/s61988_ll_h3_ab.png" group-title="NOTICIAS Y INT", NT | NTN24 HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKyudsD5bdU3qN9_VTEhcrHf/m3u8
