@@ -45,6 +45,71 @@ https://pebpktstvhls-1.clarovideo.com/bpk-tv/LATELE/hls_fk/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="JusticiaTv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CANALJUSTICIA/EXPORTACION_WEB/SS/CANALJUSTICIA_t-290x163.png" group-title="Peru", 21 | CANAL JUSTICIA
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/CANALJUSTICIA/hls_fk/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-id="Congreso.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/CANALDELCONGRESOPER/EXPORTACION_WEB/SS/CANALDELCONGRESOPER_t-290x163.png" group-title="Peru", 22 | CANAL DEL CONGRESO PERÚ
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/CANALCONGRESO/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/PBO/EXPORTACION_WEB/SS/PBO_t-290x163.png" group-title="Peru", 23 | PBO
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/PBO/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="CanalJ.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/JUNTOSTV/EXPORTACION_WEB/SS/JUNTOSTV_t-290x163.png" group-title="Peru", 24 | JUNTOS TV
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/CANALJHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="AtvSur.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ATVSURNEW/EXPORTACION_WEB/SS/ATVSURNEW_t-290x163.png" group-title="Peru", 25 | ATV SUR NEW
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/ATVSUR/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="SolTV.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/SOLTVPLUS/EXPORTACION_WEB/SS/SOLTVPLUS_t-290x163.png" group-title="Peru", 26 | SOL TV PLUS
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/SOLTVPLUS/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/NATIVA/EXPORTACION_WEB/SS/NATIVA_t-290x163.png" group-title="Peru", 27 | NATIVA
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/UCITVHD/hls_fk/playlist_dvr.m3u8 https://pebpktstvhls-7.clarovideo.com/bpk-tv/UCITVHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="PlimPlim.ar" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/PLIMPLIM/EXPORTACION_WEB/SS/PLIMPLIM_t-290x163.png" group-title="Peru", 46 | PLIM PLIM
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/PLIMPLIM/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="CLAROSPORTS.ve" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTS_t-290x163.png" group-title="Peru", 60 | CLARO SPORTS
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/CLAROSPORTSHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal Claro.sv" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CANALCLARO/EXPORTACION_WEB/SS/CANALCLARO_t-290x163.png" group-title="Peru", 100 | CANAL CLARO
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/CANALCLAROHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="UniversalCinema.uy" tvg-logo="https://clarovideocdn9.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALCINEMAHD/EXPORTACION_WEB/SS/UNIVERSALCINEMAHD_t-290x163.png" group-title="Peru", 180 | UNIVERSAL CINEMA HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/28957.m3u8
+
+#EXTINF:-1 tvg-id="UniversalPremiere.uy" tvg-logo="https://clarovideocdn3.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALPREMIEREHD/EXPORTACION_WEB/SS/UNIVERSALPREMIEREHD_t-290x163.png" group-title="Peru", 181 | UNIVERSAL PREMIER HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/28962.m3u8
+
+#EXTINF:-1 tvg-id="UniversalCrime.uy" tvg-logo="https://clarovideocdn7.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALCRIMEHD/EXPORTACION_WEB/SS/UNIVERSALCRIMEHD_t-290x163.png" group-title="Peru", 183 | UNIVERSAL CRIME HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/28959.m3u8
+
+#EXTINF:-1 tvg-id="UniversalComedy.uy" tvg-logo="https://clarovideocdn9.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALCOMEDYHD/EXPORTACION_WEB/SS/UNIVERSALCOMEDYHD_t-290x163.png" group-title="Peru", 185 | UNIVERSAL COMEDY HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/28958.m3u8
+
+#EXTINF:-1 tvg-id="UniversalReality.uy" tvg-logo="https://clarovideocdn1.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALREALITYHD/EXPORTACION_WEB/SS/UNIVERSALREALITYHD_t-290x163.png" group-title="Peru", 186 | UNIVERSAL REALITY HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/28963.m3u8
+
+#EXTINF:-1 tvg-id="Antena3.pe" tvg-logo="https://clarovideocdn1.clarovideo.net/ATRESPLAYER/PELICULAS/ANTENA3INTERNACIONALHD/EXPORTACION_WEB/SS/ANTENA3INTERNACIONALHD_t-290x163.png" group-title="Peru", 219 | ANTENA 3 INTERNACIONAL
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/ANTENA3/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="HolaTV.ar" tvg-logo="https://clarovideocdn9.clarovideo.net/ATRESPLAYER/PELICULAS/HOLATV/EXPORTACION_WEB/SS/HOLATV_t-290x163.png" group-title="Peru", 2003 | HOLA TV
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/HOLATV/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="Atreseries.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/ATRESPLAYER/PELICULAS/A3SERIES/EXPORTACION_WEB/SS/A3SERIES_t-290x163.png" group-title="Peru", 2004 | A3SERIES
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/A3SERIES/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="A3Cine.uy" tvg-logo="https://clarovideocdn5.clarovideo.net/ATRESPLAYER/PELICULAS/ATRESCINE/EXPORTACION_WEB/SS/ATRESCINE_t-290x163.png" group-title="Peru", 2005 | ATRESCINE
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/A3CINE/hls_fk/index.m3u8
+
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/ATVPLUS/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/EXITOSA/EXPORTACION_WEB/SS/EXITOSA_t-290x163.png" group-title="Peru", 19 | EXITOSA
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/EXITOSAHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="LaTele.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/LATELE/EXPORTACION_WEB/SS/LATELE_t-290x163.png" group-title="Peru", 20 | LA TELE
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/LATELE/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="JusticiaTv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CANALJUSTICIA/EXPORTACION_WEB/SS/CANALJUSTICIA_t-290x163.png" group-title="Peru", 21 | CANAL JUSTICIA
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/CANALJUSTICIA/hls_fk/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-id="CanalJ.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/JUNTOSTV/EXPORTACION_WEB/SS/JUNTOSTV_t-290x163.png" group-title="Peru", 24 | JUNTOS TV
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/CANALJHD/hls_fk/playlist_dvr.m3u8
 
