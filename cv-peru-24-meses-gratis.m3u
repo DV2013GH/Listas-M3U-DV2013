@@ -1,0 +1,32 @@
+#EXTM3U url-tvg="https://www.open-epg.com/generate/yhpXUCvrVk.xml"
+
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TVPER/EXPORTACION_WEB/SS/TVPER_t-290x163.png" group-title="Claro Video Perú", 7 | TV PERÚ
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/TVPERUHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ALACOCINATV/EXPORTACION_WEB/SS/ALACOCINATV_t-290x163.png" group-title="Claro Video Perú", 8 | A LA COCINA TV
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/ALACOCINATVHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Atv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ATV/EXPORTACION_WEB/SS/ATV_t-290x163.png" group-title="Claro Video Perú", 9 | ATV
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/ATVHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAX_t-290x163.png" group-title="Claro Video Perú", 12 | WILLAX
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/WILLAXHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="GlobalTv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/GLOBAL/EXPORTACION_WEB/SS/GLOBAL_t-290x163.png" group-title="Claro Video Perú", 13 | GLOBAL
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/GLOBALHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73_t-290x163.png" group-title="Claro Video Perú", 14 | TV PERÚ 7.3
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/TVPERU73HD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="IPe.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/IPE/EXPORTACION_WEB/SS/IPE_t-290x163.png" group-title="Claro Video Perú", 15 | IPE
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/IPEHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Atv+.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ATVPLUS/EXPORTACION_WEB/SS/ATVPLUS_t-290x163.png" group-title="Claro Video Perú", 17 | ATV PLUS
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/ATVPLUS/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/EXITOSA/EXPORTACION_WEB/SS/EXITOSA_t-290x163.png" group-title="Claro Video Perú", 19 | EXITOSA
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/EXITOSAHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="LaTele.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/LATELE/EXPORTACION_WEB/SS/LATELE_t-290x163.png" group-title="Claro Video Perú", 20 | LA TELE
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/LATELE/hls_fk/playlist_dvr.m3u8
+
