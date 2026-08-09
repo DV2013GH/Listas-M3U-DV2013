@@ -6,14 +6,14 @@ https://pebpktstvhls-7.clarovideo.com/bpk-tv/PANAMERICANAHD/hls_fk/playlist_dvr.
 #EXTINF:-1 tvg-id="RppTV.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/RPP/EXPORTACION_WEB/SS/RPP_t-290x163.png" group-title="Peru", 6 | RPP
 https://pebpktstvhls-5.clarovideo.com/bpk-tv/RPP/hls_fk/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="Atv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ATV/EXPORTACION_WEB/SS/ATV_t-290x163.png" group-title="Peru", 9 | ATV
-https://pebpktstvhls-1.clarovideo.com/bpk-tv/ATVHD/hls_fk/playlist_dvr.m3u8
-
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TVPER/EXPORTACION_WEB/SS/TVPER_t-290x163.png" group-title="Peru", 7 | TV PERÚ
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/TVPERUHD/hls_fk/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ALACOCINATV/EXPORTACION_WEB/SS/ALACOCINATV_t-290x163.png" group-title="Peru", 8 | A LA COCINA TV
 https://pebpktstvhls-7.clarovideo.com/bpk-tv/ALACOCINATVHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Atv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ATV/EXPORTACION_WEB/SS/ATV_t-290x163.png" group-title="Peru", 9 | ATV
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/ATVHD/hls_fk/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="VivaTV.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/VIVATV/EXPORTACION_WEB/SS/VIVATV_t-290x163.png" group-title="Peru", 11 | VIVA TV
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/VIVATV/hls_fk/playlist_dvr.m3u8
