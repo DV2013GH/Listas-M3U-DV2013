@@ -1,4 +1,4 @@
-https://www.open-epg.com/generate/yhpXUCvrVk.xml
+#EXTM3U url-tvg="https://www.open-epg.com/generate/yhpXUCvrVk.xml"
 
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TVPER/EXPORTACION_WEB/SS/TVPER_t-290x163.png" group-title="Claro Video Perú", 7 | TV PERÚ
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/TVPERUHD/hls_fk/playlist_dvr.m3u8
