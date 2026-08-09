@@ -6,11 +6,14 @@ https://pebpktstvhls-7.clarovideo.com/bpk-tv/PANAMERICANAHD/hls_fk/playlist_dvr.
 #EXTINF:-1 tvg-id="RppTV.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/RPP/EXPORTACION_WEB/SS/RPP_t-290x163.png" group-title="Peru", 6 | RPP
 https://pebpktstvhls-5.clarovideo.com/bpk-tv/RPP/hls_fk/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-id="Atv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ATV/EXPORTACION_WEB/SS/ATV_t-290x163.png" group-title="Peru", 9 | ATV
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/ATVHD/hls_fk/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TVPER/EXPORTACION_WEB/SS/TVPER_t-290x163.png" group-title="Peru", 7 | TV PERÚ
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/TVPERUHD/hls_fk/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="Atv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ATV/EXPORTACION_WEB/SS/ATV_t-290x163.png" group-title="Peru", 9 | ATV
-https://pebpktstvhls-1.clarovideo.com/bpk-tv/ATVHD/hls_fk/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ALACOCINATV/EXPORTACION_WEB/SS/ALACOCINATV_t-290x163.png" group-title="Peru", 8 | A LA COCINA TV
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/ALACOCINATVHD/hls_fk/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="VivaTV.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/VIVATV/EXPORTACION_WEB/SS/VIVATV_t-290x163.png" group-title="Peru", 11 | VIVA TV
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/VIVATV/hls_fk/playlist_dvr.m3u8
@@ -63,10 +66,25 @@ https://pebpktstvhls-3.clarovideo.com/bpk-tv/CLAROSPORTSHD/hls_fk/index.m3u8
 #EXTINF:-1 tvg-id="Canal Claro.sv" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CANALCLARO/EXPORTACION_WEB/SS/CANALCLARO_t-290x163.png" group-title="Peru", 100 | CANAL CLARO
 https://pebpktstvhls-7.clarovideo.com/bpk-tv/CANALCLAROHD/hls_fk/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-id="UniversalCinema.uy" tvg-logo="https://clarovideocdn9.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALCINEMAHD/EXPORTACION_WEB/SS/UNIVERSALCINEMAHD_t-290x163.png" group-title="Peru", 180 | UNIVERSAL CINEMA HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/28957.m3u8
+
+#EXTINF:-1 tvg-id="UniversalPremiere.uy" tvg-logo="https://clarovideocdn3.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALPREMIEREHD/EXPORTACION_WEB/SS/UNIVERSALPREMIEREHD_t-290x163.png" group-title="Peru", 181 | UNIVERSAL PREMIER HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/28962.m3u8
+
+#EXTINF:-1 tvg-id="UniversalCrime.uy" tvg-logo="https://clarovideocdn7.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALCRIMEHD/EXPORTACION_WEB/SS/UNIVERSALCRIMEHD_t-290x163.png" group-title="Peru", 183 | UNIVERSAL CRIME HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/28959.m3u8
+
+#EXTINF:-1 tvg-id="UniversalComedy.uy" tvg-logo="https://clarovideocdn9.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALCOMEDYHD/EXPORTACION_WEB/SS/UNIVERSALCOMEDYHD_t-290x163.png" group-title="Peru", 185 | UNIVERSAL COMEDY HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/28958.m3u8
+
+#EXTINF:-1 tvg-id="UniversalReality.uy" tvg-logo="https://clarovideocdn1.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALREALITYHD/EXPORTACION_WEB/SS/UNIVERSALREALITYHD_t-290x163.png" group-title="Peru", 186 | UNIVERSAL REALITY HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/28963.m3u8
+
 #EXTINF:-1 tvg-id="Antena3.pe" tvg-logo="https://clarovideocdn1.clarovideo.net/ATRESPLAYER/PELICULAS/ANTENA3INTERNACIONALHD/EXPORTACION_WEB/SS/ANTENA3INTERNACIONALHD_t-290x163.png" group-title="Peru", 219 | ANTENA 3 INTERNACIONAL
 https://pebpktstvhls-7.clarovideo.com/bpk-tv/ANTENA3/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-id="HolaTV.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/ATRESPLAYER/PELICULAS/HOLATV/EXPORTACION_WEB/SS/HOLATV_t-290x163.png" group-title="Peru", 2003 | HOLA TV
+#EXTINF:-1 tvg-id="HolaTV.ar" tvg-logo="https://clarovideocdn9.clarovideo.net/ATRESPLAYER/PELICULAS/HOLATV/EXPORTACION_WEB/SS/HOLATV_t-290x163.png" group-title="Peru", 2003 | HOLA TV
 https://pebpktstvhls-3.clarovideo.com/bpk-tv/HOLATV/hls_fk/index.m3u8
 
 #EXTINF:-1 tvg-id="Atreseries.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/ATRESPLAYER/PELICULAS/A3SERIES/EXPORTACION_WEB/SS/A3SERIES_t-290x163.png" group-title="Peru", 2004 | A3SERIES
