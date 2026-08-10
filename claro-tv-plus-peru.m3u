@@ -16,7 +16,7 @@ https://pebpktstvhls-1.clarovideo.com/bpk-tv/AMERICAHD/hls_fk/playlist_dvr.m3u8
 https://pebpktstvhls-7.clarovideo.com/bpk-tv/PANAMERICANAHD/hls_fk/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="RppTV.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/RPP/EXPORTACION_WEB/SS/RPP_t-290x163.png" group-title="Todos", 6 | RPP
-https://pebpktstvhls-5.clarovideo.com/bpk-tv/RPP/hls_fk/playlist_dvr.m3u8
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TVPER/EXPORTACION_WEB/SS/TVPER_t-290x163.png" group-title="Todos", 7 | TV PERÚ
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/TVPERUHD/hls_fk/playlist_dvr.m3u8
@@ -84,8 +84,17 @@ https://pebpktstvhls-7.clarovideo.com/bpk-tv/UCITVHD/hls_fk/playlist_dvr.m3u8 ht
 #EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TVCOSMOS/EXPORTACION_WEB/SS/TVCOSMOS_t-290x163.png" group-title="Todos", 28 | TV COSMOS
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/TVCOSMOS/hls_fk/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJunior.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/DISNEYJR/EXPORTACION_WEB/SS/DISNEYJR_t-290x163.png" group-title="Todos", 31 | DISNEY JE
+#EXTINF:-1 tvg-id="DiscoveryKids.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/DISCOVERYKIDSCHANNEL/EXPORTACION_WEB/SS/DISCOVERYKIDSCHANNEL_t-290x163.png" group-title="Todos", 30 | DISCOVERY KIDS CHANNEL
+https://cablered.iptvperu.tv:1936/cablered/discoverykids_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/DISNEYJR/EXPORTACION_WEB/SS/DISNEYJR_t-290x163.png" group-title="Todos", 31 | DISNEY JR
 https://pebpktstvhls-7.clarovideo.com/bpk-tv/DISNEYJR/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/DISNEYCHANNELHD/EXPORTACION_WEB/SS/DISNEYCHANNELHD_t-290x163.png" group-title="Todos", 34 | DISNEY CHANNEL HD
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/DISNEYCHANNEL/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CARTOONNETWORK/EXPORTACION_WEB/SS/CARTOONNETWORK_t-290x163.png" group-title="Todos", 36 | CARTOON NETWORK
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/CARTOONNETWORKHD/hls_fk/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonito.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CARTOONITO/EXPORTACION_WEB/SS/CARTOONITO_t-290x163.png" group-title="Todos", 38 | CARTOONITO
 https://pebpktstvhls-3.clarovideo.com/bpk-tv/BOOMERANG/hls_fk/playlist_dvr.m3u8
@@ -93,11 +102,35 @@ https://pebpktstvhls-3.clarovideo.com/bpk-tv/BOOMERANG/hls_fk/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="PlimPlim.ar" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/PLIMPLIM/EXPORTACION_WEB/SS/PLIMPLIM_t-290x163.png" group-title="Todos", 46 | PLIM PLIM
 https://pebpktstvhls-5.clarovideo.com/bpk-tv/PLIMPLIM/hls_fk/index.m3u8
 
+#EXTINF:-1 tvg-id="CLAROSPORTS.ve" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTS_t-290x163.png" group-title="Todos", 60 | CLARO SPORTS
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/CLAROSPORTSHD/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="Espn.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ESPN/EXPORTACION_WEB/SS/ESPN_t-290x163.png" group-title="Todos", 61 | ESPN
+https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Espn2.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ESPN2/EXPORTACION_WEB/SS/ESPN2_t-290x163.png" group-title="Todos", 62 | ESPN 2
+https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Espn3.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ESPN3/EXPORTACION_WEB/SS/ESPN3_t-290x163.png" group-title="Todos", 63 | ESPN 3
+https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Espn4.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ESPN4/EXPORTACION_WEB/SS/ESPN4_t-290x163.png" group-title="Todos", 64 | ESPN 4
+https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Espn5.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ESPN5/EXPORTACION_WEB/SS/ESPN5_t-290x163.png" group-title="Todos", 65 | ESPN 5
+https://cablered.iptvperu.tv:1936/cablered/espn5_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Espn6.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ESPN6/EXPORTACION_WEB/SS/ESPN6_t-290x163.png" group-title="Todos", 66 | ESPN 6
+https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Espn7.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ESPN7/EXPORTACION_WEB/SS/ESPN7_t-290x163.png" group-title="Todos", 67 | ESPN 7
+https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NationalGeographic.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/NATGEOHD/EXPORTACION_WEB/SS/NATGEOHD_t-290x163.png" group-title="Todos", 73 | NAT GEO HD
 https://pebpktstvhls-7.clarovideo.com/bpk-tv/NATGEOHD/hls_fk/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="CLAROSPORTS.ve" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTS_t-290x163.png" group-title="Todos", 60 | CLARO SPORTS
-https://pebpktstvhls-3.clarovideo.com/bpk-tv/CLAROSPORTSHD/hls_fk/index.m3u8
+#EXTINF:-1 tvg-id="HTV.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/HTV/EXPORTACION_WEB/SS/HTV_t-290x163.png" group-title="Todos", 94 | HTV
+https://cablered.iptvperu.tv:1936/cablered/HTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Claro.sv" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CANALCLARO/EXPORTACION_WEB/SS/CANALCLARO_t-290x163.png" group-title="Todos", 100 | CANAL CLARO
 https://pebpktstvhls-7.clarovideo.com/bpk-tv/CANALCLAROHD/hls_fk/playlist_dvr.m3u8
@@ -114,6 +147,9 @@ https://pebpktstvhls-7.clarovideo.com/bpk-tv/SONYHD/hls_fk/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="StarChannel.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/STARCHANNEL/EXPORTACION_WEB/SS/STARCHANNEL_t-290x163.png" group-title="Todos", 123 | STARCHANNEL
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/FOXHD/hls_fk/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-id="UniversalTV.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/UNIVERSALHD/EXPORTACION_WEB/SS/UNIVERSALHD_t-290x163.png" group-title="Todos", 125 | UNIVERSAL HD
+https://cablered.iptvperu.tv:1936/cablered/universalchannel_new/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Lifetime.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/LIFETIMENEW/EXPORTACION_WEB/SS/LIFETIMENEW_t-290x163.png" group-title="Todos", 127 | LIFETIME NEW
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/LIFETIME/hls_fk/playlist_dvr.m3u8
 
@@ -123,8 +159,8 @@ https://pebpktstvhls-5.clarovideo.com/bpk-tv/AMCHD/hls_fk/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Golden.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/GOLDEN/EXPORTACION_WEB/SS/GOLDEN_t-290x163.png" group-title="Todos", 156 | GOLDEN
 https://pebpktstvhls-5.clarovideo.com/bpk-tv/GOLDEN/hls_fk/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="HolaTV.ar" tvg-logo="https://clarovideocdn9.clarovideo.net/ATRESPLAYER/PELICULAS/HOLATV/EXPORTACION_WEB/SS/HOLATV_t-290x163.png" group-title="Todos", 2003 | HOLA TV
-https://pebpktstvhls-3.clarovideo.com/bpk-tv/HOLATV/hls_fk/index.m3u8
+#EXTINF:-1 tvg-id="TVE.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TVE/EXPORTACION_WEB/SS/TVE_t-290x163.png" group-title="Todos", 205 | TVE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 
 #EXTINF:-1 tvg-id="TVNChile.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TVN/EXPORTACION_WEB/SS/TVN_t-290x163.png" group-title="Todos", 209 | TVN
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/TVN/hls_fk/playlist_dvr.m3u8
@@ -136,13 +172,16 @@ https://pebpktstvhls-7.clarovideo.com/bpk-tv/FRANCE24HD/hls_fk/playlist_dvr.m3u8
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/NHKWORLD/hls_fk/index.m3u8
 
 #EXTINF:-1 tvg-id="RussiaToday.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/RT/EXPORTACION_WEB/SS/RT_t-290x163.png" group-title="Todos", 214 | RT
-https://pebpktstvhls-3.clarovideo.com/bpk-tv/RT/hls_fk/playlist_dvr.m3u8
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.pe" tvg-logo="https://clarovideocdn1.clarovideo.net/ATRESPLAYER/PELICULAS/ANTENA3INTERNACIONALHD/EXPORTACION_WEB/SS/ANTENA3INTERNACIONALHD_t-290x163.png" group-title="Todos", 219 | ANTENA 3 INTERNACIONAL
 https://pebpktstvhls-7.clarovideo.com/bpk-tv/ANTENA3/hls_fk/index.m3u8
 
 #EXTINF:-1 tvg-id="Bethel.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/BETHEL/EXPORTACION_WEB/SS/BETHEL_t-290x163.png" group-title="Todos", 230 | BETHEL
 https://pebpktstvhls-5.clarovideo.com/bpk-tv/BETHEL/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="HolaTV.ar" tvg-logo="https://clarovideocdn9.clarovideo.net/ATRESPLAYER/PELICULAS/HOLATV/EXPORTACION_WEB/SS/HOLATV_t-290x163.png" group-title="Todos", 2003 | HOLA TV
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/HOLATV/hls_fk/index.m3u8
 
 #EXTINF:-1 tvg-id="Atreseries.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/ATRESPLAYER/PELICULAS/A3SERIES/EXPORTACION_WEB/SS/A3SERIES_t-290x163.png" group-title="Todos", 2004 | A3SERIES
 https://pebpktstvhls-3.clarovideo.com/bpk-tv/A3SERIES/hls_fk/index.m3u8
