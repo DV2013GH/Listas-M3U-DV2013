@@ -102,6 +102,9 @@ https://pebpktstvhls-3.clarovideo.com/bpk-tv/BOOMERANG/hls_fk/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="PlimPlim.ar" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/PLIMPLIM/EXPORTACION_WEB/SS/PLIMPLIM_t-290x163.png" group-title="Todos", 46 | PLIM PLIM
 https://pebpktstvhls-5.clarovideo.com/bpk-tv/PLIMPLIM/hls_fk/index.m3u8
 
+#EXTINF:-1 tvg-id="CnnEEUU.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CNNINTERNACIONAL/EXPORTACION_WEB/SS/CNNINTERNACIONAL_t-290x163.png" group-title="Todos", 51 | CNN INTERNACIONAL
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/CNN/hls_fk/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-id="CLAROSPORTS.ve" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTS_t-290x163.png" group-title="Todos", 60 | CLARO SPORTS
 https://pebpktstvhls-3.clarovideo.com/bpk-tv/CLAROSPORTSHD/hls_fk/index.m3u8
 
@@ -144,6 +147,9 @@ https://pebpktstvhls-7.clarovideo.com/bpk-tv/MASCHICHD/hls_fk/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Sony.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/SONYCHANNEL/EXPORTACION_WEB/SS/SONYCHANNEL_t-290x163.png" group-title="Todos", 121 | SONY CHANNEL
 https://pebpktstvhls-7.clarovideo.com/bpk-tv/SONYHD/hls_fk/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-id="WarnerChannel.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/WARNERCHANNELHD/EXPORTACION_WEB/SS/WARNERCHANNELHD_t-290x163.png" group-title="Todos", 122 | WARNER CHANNEL HD
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/WARNERCHANNELHD/hls_fk/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-id="StarChannel.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/STARCHANNEL/EXPORTACION_WEB/SS/STARCHANNEL_t-290x163.png" group-title="Todos", 123 | STARCHANNEL
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/FOXHD/hls_fk/playlist_dvr.m3u8
 
@@ -153,11 +159,14 @@ https://cablered.iptvperu.tv:1936/cablered/universalchannel_new/playlist.m3u8
 #EXTINF:-1 tvg-id="Lifetime.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/LIFETIMENEW/EXPORTACION_WEB/SS/LIFETIMENEW_t-290x163.png" group-title="Todos", 127 | LIFETIME NEW
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/LIFETIME/hls_fk/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-id="Golden.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/GOLDEN/EXPORTACION_WEB/SS/GOLDEN_t-290x163.png" group-title="Todos", 156 | GOLDEN
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/GOLDEN/hls_fk/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-id="Amc.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/AMC/EXPORTACION_WEB/SS/AMC_t-290x163.png" group-title="Todos", 150 | AMC
 https://pebpktstvhls-5.clarovideo.com/bpk-tv/AMCHD/hls_fk/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="Golden.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/GOLDEN/EXPORTACION_WEB/SS/GOLDEN_t-290x163.png" group-title="Todos", 156 | GOLDEN
-https://pebpktstvhls-5.clarovideo.com/bpk-tv/GOLDEN/hls_fk/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Cctv4.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CCTV4/EXPORTACION_WEB/SS/CCTV4_t-290x163.png" group-title="Todos", 203 | CCTV4
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/CCTV4/hls_fk/index.m3u8
 
 #EXTINF:-1 tvg-id="TVE.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TVE/EXPORTACION_WEB/SS/TVE_t-290x163.png" group-title="Todos", 205 | TVE
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
