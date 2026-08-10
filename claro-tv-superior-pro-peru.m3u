@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/generate/yhpXUCvrVk.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/peru.xml"
 
 #EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://clarovideocdn1.clarovideo.net/PELICULAS/CLAROTV/EXPORTACION_WEB/SS/CLAROTV_t-290x163.png" group-title="Todos", PUBLICIDAD
 https://i.imgur.com/98MA3Mw.mp4
@@ -99,13 +99,13 @@ https://pebpktstvhls-3.clarovideo.com/bpk-tv/CARTOONNETWORKHD/hls_fk/playlist_dv
 #EXTINF:-1 tvg-id="Cartoonito.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CARTOONITO/EXPORTACION_WEB/SS/CARTOONITO_t-290x163.png" group-title="Todos", 38 | CARTOONITO
 https://pebpktstvhls-3.clarovideo.com/bpk-tv/BOOMERANG/hls_fk/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="PlimPlim.ar" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/PLIMPLIM/EXPORTACION_WEB/SS/PLIMPLIM_t-290x163.png" group-title="Todos", 46 | PLIM PLIM
+#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/PLIMPLIM/EXPORTACION_WEB/SS/PLIMPLIM_t-290x163.png" group-title="Todos", 46 | PLIM PLIM
 https://pebpktstvhls-5.clarovideo.com/bpk-tv/PLIMPLIM/hls_fk/index.m3u8
 
 #EXTINF:-1 tvg-id="CnnEEUU.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CNNINTERNACIONAL/EXPORTACION_WEB/SS/CNNINTERNACIONAL_t-290x163.png" group-title="Todos", 51 | CNN INTERNACIONAL
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/CNN/hls_fk/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="CLAROSPORTS.ve" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTS_t-290x163.png" group-title="Todos", 60 | CLARO SPORTS
+#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTS_t-290x163.png" group-title="Todos", 60 | CLARO SPORTS
 https://pebpktstvhls-3.clarovideo.com/bpk-tv/CLAROSPORTSHD/hls_fk/index.m3u8
 
 #EXTINF:-1 tvg-id="Espn.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ESPN/EXPORTACION_WEB/SS/ESPN_t-290x163.png" group-title="Todos", 61 | ESPN
@@ -135,7 +135,7 @@ https://pebpktstvhls-7.clarovideo.com/bpk-tv/NATGEOHD/hls_fk/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="HTV.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/HTV/EXPORTACION_WEB/SS/HTV_t-290x163.png" group-title="Todos", 94 | HTV
 https://cablered.iptvperu.tv:1936/cablered/HTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal Claro.sv" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CANALCLARO/EXPORTACION_WEB/SS/CANALCLARO_t-290x163.png" group-title="Todos", 100 | CANAL CLARO
+#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CANALCLARO/EXPORTACION_WEB/SS/CANALCLARO_t-290x163.png" group-title="Todos", 100 | CANAL CLARO
 https://pebpktstvhls-7.clarovideo.com/bpk-tv/CANALCLAROHD/hls_fk/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Pasiones.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/PASIONES/EXPORTACION_WEB/SS/PASIONES_t-290x163.png" group-title="Todos", 107 | PASIONES
@@ -189,12 +189,12 @@ https://pebpktstvhls-7.clarovideo.com/bpk-tv/ANTENA3/hls_fk/index.m3u8
 #EXTINF:-1 tvg-id="Bethel.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/BETHEL/EXPORTACION_WEB/SS/BETHEL_t-290x163.png" group-title="Todos", 230 | BETHEL
 https://pebpktstvhls-5.clarovideo.com/bpk-tv/BETHEL/hls_fk/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="HolaTV.ar" tvg-logo="https://clarovideocdn9.clarovideo.net/ATRESPLAYER/PELICULAS/HOLATV/EXPORTACION_WEB/SS/HOLATV_t-290x163.png" group-title="Todos", 2003 | HOLA TV
+#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/ATRESPLAYER/PELICULAS/HOLATV/EXPORTACION_WEB/SS/HOLATV_t-290x163.png" group-title="Todos", 2003 | HOLA TV
 https://pebpktstvhls-3.clarovideo.com/bpk-tv/HOLATV/hls_fk/index.m3u8
 
 #EXTINF:-1 tvg-id="Atreseries.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/ATRESPLAYER/PELICULAS/A3SERIES/EXPORTACION_WEB/SS/A3SERIES_t-290x163.png" group-title="Todos", 2004 | A3SERIES
 https://pebpktstvhls-3.clarovideo.com/bpk-tv/A3SERIES/hls_fk/index.m3u8
 
-#EXTINF:-1 tvg-id="A3Cine.uy" tvg-logo="https://clarovideocdn5.clarovideo.net/ATRESPLAYER/PELICULAS/ATRESCINE/EXPORTACION_WEB/SS/ATRESCINE_t-290x163.png" group-title="Todos", 2005 | ATRESCINE
+#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://clarovideocdn5.clarovideo.net/ATRESPLAYER/PELICULAS/ATRESCINE/EXPORTACION_WEB/SS/ATRESCINE_t-290x163.png" group-title="Todos", 2005 | ATRESCINE
 https://pebpktstvhls-3.clarovideo.com/bpk-tv/A3CINE/hls_fk/index.m3u8
 
