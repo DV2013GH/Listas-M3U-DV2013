@@ -165,19 +165,19 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuzG59VNYfDujaCbJQ13AN34g4wNo_mH
 #EXTINF:-1 tvg-id="AZTECA UNO.mx" tvg-logo="https://i.imgur.com/aJykqgC.png" group-title="MEXICO", MX | Azteca UNO
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu6zO4JZrqNFUJNvz3YPVWNm0kYrhAb0NadifwGraUhTI/m3u8
 
-#EXTINF:-1 tvg-id="AzCorazon.pe" tvg-logo="https://i.imgur.com/NCcfLKU.png" group-title="MEXICO", MX | Corazon HD
+#EXTINF:-1 tvg-id="Az Corazón.mx" tvg-logo="https://i.imgur.com/NCcfLKU.png" group-title="MEXICO", MX | Corazon HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu01WNWWqpytfRRRE5tEvZl0-BHnT9ZzpEHC0xcsMQryp/m3u8
 
 #EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://i.ibb.co/9shCDfh/cl-az-cinema-m.png" group-title="MEXICO", MX | AZ Cinema HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu01WNWWqpytfRRRE5tEvZl2A2KasjqcO781ka0bGD9OC/m3u8
 
-#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://i.imgur.com/4oTsoE5.png" group-title="MEXICO", MX | Clic HD
+#EXTINF:-1 tvg-id="AZ CLIC.mx" tvg-logo="https://i.imgur.com/4oTsoE5.png" group-title="MEXICO", MX | Clic HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu01WNWWqpytfRRRE5tEvZl1bsghJLoVdSnSHCVQdfEuv/m3u8
 
-#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://i.ibb.co/cFrBCXs/mx-azteca-7-m.png" group-title="MEXICO", MX | Azteca 7
+#EXTINF:-1 tvg-id="Azteca 7.mx" tvg-logo="https://i.ibb.co/cFrBCXs/mx-azteca-7-m.png" group-title="MEXICO", MX | Azteca 7
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu01WNWWqpytfRRRE5tEvZl3ZOAQodTp0h10C6bOZcaX1/m3u8
 
-#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://i.imgur.com/aRezD7e.png" group-title="MEXICO", MX | Canal Once
+#EXTINF:-1 tvg-id="Canal Once.mx" tvg-logo="https://i.imgur.com/aRezD7e.png" group-title="MEXICO", MX | Canal Once
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu93RFQJ14kpTm6u8v0_cRUN8aWCPiexPVcarfoACX0MI/m3u8
 
 #EXTINF:-1 tvg-id="Canal Ecuavisa (Ecuador).ec" tvg-logo="https://i.imgur.com/zCaV29y.png" group-title="ECUADOR", EC | Ecuavisa
@@ -204,23 +204,23 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_c8_TTvLLW3FqrRQZpg0hAsndrAbN8
 #EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://i.imgur.com/xlERuLb.png" group-title="ECUADOR", EC | TVC
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_c8_TTvLLW3FqrRQZpg0hCUE8dkjHw2MNosb6am_W_I/m3u8
 
+#EXTINF:-1 tvg-id="Canal4.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY", UY | CANAL 4 HD
+https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu5ABoe2pxkBFrEViMIomqvgYN_98U4msz1DYRXMKat99/m3u8
+
 #EXTINF:-1 tvg-id="Canal10.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_10_Uruguay_Logo_1960.webp/330px-Canal_10_Uruguay_Logo_1960.webp" group-title="URUGUAY", UY | CANAL 10 HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu5ABoe2pxkBFrEViMIomqvgFsyAOf0bzcvbrKziYKWxK/m3u8
+
+#EXTINF:-1 tvg-id="Canal12.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Teledoce_2022.png/1280px-Teledoce_2022.png" group-title="URUGUAY", UY | Teledoce HD
+https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu5ABoe2pxkBFrEViMIomqvjAIH3DoTf2B8RN0Fm2Pi_C/m3u8
 
 #EXTINF:-1 tvg-id="TVCiudad.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png" group-title="URUGUAY", UY | TV CIUDAD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_1ao-nbmvNM7tKkGaSP_muDgxZSi-LW9VNP-6Psx_dj/m3u8
 
-#EXTINF:-1 tvg-id="VTV.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/500px-Logo_VTV_nuevo.png" group-title="URUGUAY", UY | VTV HD
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuyfdPHzxHXdZc6VcXNwcIDVY1b_lSY2YtqkXY0yxH_Og/m3u8
-
 #EXTINF:-1 tvg-id="VTVPlus.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY", UY | VTV PLUS HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuyfdPHzxHXdZc6VcXNwcIDWPyxTNoyEoNbQvaRUE1Ivf/m3u8
 
-#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Teledoce_2022.png/1280px-Teledoce_2022.png" group-title="URUGUAY", UY | Teledoce HD
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu5ABoe2pxkBFrEViMIomqvjAIH3DoTf2B8RN0Fm2Pi_C/m3u8
-
-#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URUGUAY", UY | CANAL 4 HD
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu5ABoe2pxkBFrEViMIomqvgYN_98U4msz1DYRXMKat99/m3u8
+#EXTINF:-1 tvg-id="VTV.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/500px-Logo_VTV_nuevo.png" group-title="URUGUAY", UY | VTV HD
+https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuyfdPHzxHXdZc6VcXNwcIDVY1b_lSY2YtqkXY0yxH_Og/m3u8
 
 #EXTINF:-1 tvg-id="UniversalCinema.uy" tvg-logo="https://clarovideocdn9.clarovideo.net/UNIVERSAL/PELICULAS/UNIVERSALCINEMAHD/EXPORTACION_WEB/SS/UNIVERSALCINEMAHD_t-290x163.png" group-title="CINE Y SERIES", P | UNIVERSAL CINEMA HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/28957.m3u8
@@ -285,52 +285,49 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcFtd1dY8-W
 #EXTINF:-1 tvg-id="TNT.pe" tvg-logo="http://www.tmsimg.com/assets/s71727_ll_h3_aa.png" group-title="CINE Y SERIES", C | TNT HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcFHBYmt279lkKAi0Aa1eb1F/m3u8
 
-#EXTINF:-1 tvg-id="213dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s91993_h3_aa.png" group-title="CINE Y SERIES", S | TNT SERIES
+#EXTINF:-1 tvg-id="TNTSeries.pe" tvg-logo="http://www.tmsimg.com/assets/s91993_h3_aa.png" group-title="CINE Y SERIES", S | TNT SERIES
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcEe0AtX1pxrQpI2RuXN-yh1/m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.pe" tvg-logo="http://www.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="CINE Y SERIES", C | CINECANAL HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcFD1QMvKbzpGkAisYzC1YID/m3u8
 
-#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s16794_h3_aa.png" group-title="CINE Y SERIES", C | CINEMAX HD
+#EXTINF:-1 tvg-id="Cinemax.pe" tvg-logo="http://www.tmsimg.com/assets/s16794_h3_aa.png" group-title="CINE Y SERIES", C | CINEMAX HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcEUmG-av6IgYIjl-PZoQDl5/m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo="http://www.tmsimg.com/assets/s15296_ll_h3_ab.png" group-title="CINE Y SERIES", C | CINE LATINO HD
+#EXTINF:-1 tvg-id="Cinelatino.pe" tvg-logo="http://www.tmsimg.com/assets/s15296_ll_h3_ab.png" group-title="CINE Y SERIES", C | CINE LATINO HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcEW66PlFVgPGRGuO99hEXeF/m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo="http://www.tmsimg.com/assets/s106711_h3_aa.png" group-title="CINE Y SERIES", C | CLARO CINEMA
+#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="http://www.tmsimg.com/assets/s106711_h3_aa.png" group-title="CINE Y SERIES", C | CLARO CINEMA
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMux3xglFmy7rTemK3Sz0qfcFHF2JkeqKBse-fkODH9WAM/m3u8
 
-#EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s90653_ll_h3_ac.png" group-title="CINE Y SERIES", C | AMC HD
+#EXTINF:-1 tvg-id="Amc.pe" tvg-logo="http://www.tmsimg.com/assets/s90653_ll_h3_ac.png" group-title="CINE Y SERIES", C | AMC HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3nf5YHGXaKV1_jcuMehPaWlYvYQvZab0jmQttJ7qHqy/m3u8
 
-#EXTINF:-1 tvg-id="208dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s57747_ll_h3_ac.png" group-title="CINE Y SERIES", S | SONY CHANNEL HD
+#EXTINF:-1 tvg-id="Sony.pe" tvg-logo="http://www.tmsimg.com/assets/s57747_ll_h3_ac.png" group-title="CINE Y SERIES", S | SONY CHANNEL HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3nf5YHGXaKV1_jcuMehPaVLh768FMWvXL5PUUQkXjgA/m3u8
 
-#EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s46442_ll_h3_aa.png" group-title="CINE Y SERIES", C | FX HD
+#EXTINF:-1 tvg-id="FX.pe" tvg-logo="http://www.tmsimg.com/assets/s46442_ll_h3_aa.png" group-title="CINE Y SERIES", C | FX HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3nf5YHGXaKV1_jcuMehPaX3IWkGroWtUZu6GI2SXu4e/m3u8
 
-#EXTINF:-1 tvg-id="504dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s19246_ll_h3_aa.png" group-title="CINE Y SERIES", C | TCM HD
+#EXTINF:-1 tvg-id="TCM.pe" tvg-logo="http://www.tmsimg.com/assets/s19246_ll_h3_aa.png" group-title="CINE Y SERIES", C | TCM HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3nf5YHGXaKV1_jcuMehPaUGIl04ccDy6qyF5Nj7uEaf/m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo="http://www.tmsimg.com/assets/s16499_h3_aa.png" group-title="CINE Y SERIES", C | SPACE HD
+#EXTINF:-1 tvg-id="Space.pe" tvg-logo="http://www.tmsimg.com/assets/s16499_h3_aa.png" group-title="CINE Y SERIES", C | SPACE HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3nf5YHGXaKV1_jcuMehPaUW4WEJVuUKe5T82j4-xErd/m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo="http://www.tmsimg.com/assets/s16288_ll_h3_ab.png" group-title="CINE Y SERIES", C | DE PELICULA HD
+#EXTINF:-1 tvg-id="DePelicula.pe" tvg-logo="http://www.tmsimg.com/assets/s16288_ll_h3_ab.png" group-title="CINE Y SERIES", C | DE PELICULA HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3nf5YHGXaKV1_jcuMehPaU1RAIsNSEZJDpfGRSrXYXR/m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo="http://www.tmsimg.com/assets/s74016_ll_h3_aa.png" group-title="CINE Y SERIES", C | DE PELICULA PLUS
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3nf5YHGXaKV1_jcuMehPaX7rP-0uZQ85Z5pbCKB9MaW/m3u8
-
-#EXTINF:-1 tvg-id="219dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s58452_ll_h3_ae.png" group-title="CINE Y SERIES", S | USA HD
+#EXTINF:-1 tvg-id="USA.ar" tvg-logo="http://www.tmsimg.com/assets/s58452_ll_h3_ae.png" group-title="CINE Y SERIES", S | USA HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3nf5YHGXaKV1_jcuMehPaUxx357rPBwcqmmi_efqiyN/m3u8
 
-#EXTINF:-1 tvg-id="1513dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s81622_ll_h3_aa.png" group-title="CINE Y SERIES", C | DHE HD
+#EXTINF:-1 tvg-id="DHE.cl" tvg-logo="http://www.tmsimg.com/assets/s81622_ll_h3_aa.png" group-title="CINE Y SERIES", C | DHE HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu3nf5YHGXaKV1_jcuMehPaVGcYLArXApI4yGsIJq86mS/m3u8
 
-#EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s88796_ll_h3_ab.png" group-title="CINE Y SERIES", C | SONY MOVIES HD
+#EXTINF:-1 tvg-id="SonyMovies.uy" tvg-logo="http://www.tmsimg.com/assets/s88796_ll_h3_ab.png" group-title="CINE Y SERIES", C | SONY MOVIES HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu9a67_Zut3JqLLqtlYprsNOC8qQ9K1haW0RGs4DY5ZPh/m3u8
 
-#EXTINF:-1 tvg-id="CLAROSPORTS.mx" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTS_t-290x163.png" group-title="DEPORTES", D | CLARO SPORTS 1
+#EXTINF:-1 tvg-id="ClaroSports.uy" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTS_t-290x163.png" group-title="DEPORTES", D | CLARO SPORTS 1
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu0ENfe_2cMD-dYJcVJOrmmjyxBYd_LhaE7O7DdrS_RMT/m3u8
 
 #EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROSPORTS2/EXPORTACION_WEB/SS/CLAROSPORTS2_t-290x163.png" group-title="DEPORTES", D | CLARO SPORTS 2
@@ -477,73 +474,73 @@ https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7KaoXnWvDCiD
 #EXTINF:-1 tvg-id="Win+Futbol.co" tvg-logo="http://www.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="DEPORTES", D | WIN SPORTS+ PLUS
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7KaqtRrMDaISMbsrbGP4HKDX8/m3u8
 
-#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/canal-infantil.png" group-title="KIDS", CANAL INFANTIL
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu0jIJrJP8jaegRgxxzxsVPsy0WPvnUjXZ_QpQ8A-zTdl/m3u8
-
-#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://www.elreinoinfantil.com/wp-content/uploads/2025/04/Contenedor_Logo_ERI_Nube_White-1-1536x1059.png" group-title="KIDS", INF | EL REINO INFANTIL
-https://amg17724-amg17724c1-lg-latam-11388.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg17724-purodigitalandstudioslu-elreinoinfantilspa-lglatam/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
-
-#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://images.vix.com/prd/channel/67815e8c178ff74da8c5dc26/3d0f1629342e8878fee7cfe0ed05fa61?tr=q-30&w=1280" group-title="KIDS", INF | BITME
+#EXTINF:-1 tvg-id="BITIME.mx" tvg-logo="https://images.vix.com/prd/channel/67815e8c178ff74da8c5dc26/3d0f1629342e8878fee7cfe0ed05fa61?tr=q-30&w=1280" group-title="KIDS", INF | BITME
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu5hOA0SGcPvBSNXN0SbQdNc/m3u8
 
-#EXTINF:-1 tvg-id="BabyTv.pe" tvg-logo="http://www.tmsimg.com/assets/s56036_ll_h3_ab.png" group-title="KIDS", INF | Baby TV
+#EXTINF:-1 tvg-id="BabyTv.pe" tvg-logo="http://www.tmsimg.com/assets/s56036_ll_h3_ab.png" group-title="KIDS", INF | BABY TV
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKxLHgC1b9P8-tHbLRxXqp41/m3u8
 
 #EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/10/BabyFirstTV-Logo-500x282.png" group-title="KIDS", INF | BABY FIRST
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKwTCcRHJbWaNjA68Adcb_F2/m3u8
 
-#EXTINF:-1 tvg-id="Cartoonito.pe" tvg-logo="http://www.tmsimg.com/assets/s84592_ll_h3_aa.png" group-title="KIDS", INF | CARTOONITO
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKzCQKxVOABGAchjJ1o1w-xf/m3u8
+#EXTINF:-1 tvg-id="Discovery Kids.mx" tvg-logo="http://s0lc.net:8080/images/inf_discovery_kids.png" group-title="KIDS", INF | DISCOVERY KIDS
+https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKyBGl05DLvVt2TxkUiX3OKG/m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.pe" tvg-logo="http://www.tmsimg.com/assets/s59562_ll_h3_aa.png" group-title="KIDS", INF | CARTOON NETWORK
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKyIOh4nopPR8am1k_QJ3qHM/m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryKids.pe" tvg-logo="http://www.tmsimg.com/assets/s16680_ll_h3_aa.png" group-title="KIDS", INF | DISCOVERY KIDS.
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKyBGl05DLvVt2TxkUiX3OKG/m3u8
+#EXTINF:-1 tvg-id="Cartoonito.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CARTOONITO/EXPORTACION_WEB/SS/CARTOONITO_t-290x163.png" group-title="KIDS", INF | CARTOONITO
+https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKzCQKxVOABGAchjJ1o1w-xf/m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel.pe" tvg-logo="http://www.tmsimg.com/assets/s88893_ll_h3_aa.png" group-title="KIDS", INF | DISNEY CHANNEL
+#EXTINF:-1 tvg-id="DisneyChannel.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/DISNEYCHANNELHD/EXPORTACION_WEB/SS/DISNEYCHANNELHD_t-290x163.png" group-title="KIDS", INF | DISNEY CHANNEL
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKxglJ2vS5CjAvnYgs6O_Uol/m3u8
 
-#EXTINF:-1 tvg-id="DisneyJunior.pe" tvg-logo="http://www.tmsimg.com/assets/s60506_ll_h3_aa.png" group-title="KIDS", INF | DISNEY JUNIOR
+#EXTINF:-1 tvg-id="DisneyJunior.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/DISNEYJR/EXPORTACION_WEB/SS/DISNEYJR_t-290x163.png" group-title="KIDS", INF | DISNEY JR
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKygZYrGZhwaY-8m1nEAJxFu/m3u8
 
-#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-DreamWorks-1.png" group-title="KIDS", INF | DREAMWORKS
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu7V1pzDgWXTQ6IYUOV0vvkUuzJ_ig0Mb6lPejTFmkHY2/m3u8
+#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/NICKELODEONCHANNEL/EXPORTACION_WEB/SS/NICKELODEONCHANNEL_t-290x163.png" group-title="KIDS", INF | NICKELODEON
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/49.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.pe" tvg-logo="http://www.tmsimg.com/assets/s16707_ll_h3_aa.png" group-title="KIDS", INF | NICK
-https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKxoQ7b_nNVKxcqR_YUVTsTj/m3u8
-
-#EXTINF:-1 tvg-id="NickJr.pe" tvg-logo="http://www.tmsimg.com/assets/s60295_ll_h3_aa.png" group-title="KIDS", INF | NICK JR
+#EXTINF:-1 tvg-id="NickJr.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/NICKJR/EXPORTACION_WEB/SS/NICKJR_t-290x163.png" group-title="KIDS", INF | NICK JR
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKxKsr2EaR5p_7O8W2vLIzHu/m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.uy" tvg-logo="http://www.tmsimg.com/assets/s63109_ll_h3_aa.png" group-title="KIDS", INF | TOONCAST
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu_gzBGfWBwe_TEtPhfNigKzie05TdJEMh65EB5H0V20T/m3u8
 
-#EXTINF:-1 tvg-id="734dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s18649_ll_h3_af.png" group-title="CULTURA", C | Animal Planet
+#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-DreamWorks-1.png" group-title="KIDS", INF | DREAMWORKS
+https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu7V1pzDgWXTQ6IYUOV0vvkUuzJ_ig0Mb6lPejTFmkHY2/m3u8
+
+#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/canal-infantil.png" group-title="KIDS", INF | CANAL INFANTIL
+https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu0jIJrJP8jaegRgxxzxsVPsy0WPvnUjXZ_QpQ8A-zTdl/m3u8
+
+#EXTINF:-1 tvg-id="NativaTv.pe" tvg-logo="https://www.elreinoinfantil.com/wp-content/uploads/2025/04/Contenedor_Logo_ERI_Nube_White-1-1536x1059.png" group-title="KIDS", INF | EL REINO INFANTIL
+https://amg17724-amg17724c1-lg-latam-11388.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg17724-purodigitalandstudioslu-elreinoinfantilspa-lglatam/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
+
+#EXTINF:-1 tvg-id="AnimalPlanet.pe" tvg-logo="http://www.tmsimg.com/assets/s18649_ll_h3_af.png" group-title="CULTURA", C | Animal Planet
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7KarihzTqcteEsvzlvyBTYkZE/m3u8
 
-#EXTINF:-1 tvg-id="229dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s24424_ll_h3_aa.png" group-title="CULTURA", C | Discovery H&H
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.pe" tvg-logo="http://www.tmsimg.com/assets/s24424_ll_h3_aa.png" group-title="CULTURA", C | Discovery H&H
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7KarkXvPAkzP_fgrDauuiKToU/m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-logo="http://www.tmsimg.com/assets/s25743_h3_aa.png" group-title="CULTURA", C | Discovery Investigation
+#EXTINF:-1 tvg-id="InvestigationDiscovery.pe" tvg-logo="http://www.tmsimg.com/assets/s25743_h3_aa.png" group-title="CULTURA", C | Discovery Investigation
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7KarRUabQQSm1PORVEkNL8tZO/m3u8
 
-#EXTINF:-1 tvg-id="discovery-science.cl" tvg-logo="http://www.tmsimg.com/assets/s48527_ll_h3_aa.png" group-title="CULTURA", C | Discovery Science
+#EXTINF:-1 tvg-id="DiscoveryScience.uy" tvg-logo="http://www.tmsimg.com/assets/s48527_ll_h3_aa.png" group-title="CULTURA", C | Discovery Science
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7KaqCRzK0lUsQ1MGT98vcY4Fm/m3u8
 
-#EXTINF:-1 tvg-id="1731dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s65940_ll_h3_aa.png" group-title="CULTURA", C | Discovery Theater
+#EXTINF:-1 tvg-id="DiscoveryTheater.uy" tvg-logo="http://www.tmsimg.com/assets/s65940_ll_h3_aa.png" group-title="CULTURA", C | Discovery Theater
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7Karrj1AbhSIp63vNHFhvXXSO/m3u8
 
-#EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s46608_ll_h3_aa.png" group-title="CULTURA", C | Discovery Turbo
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uy" tvg-logo="http://www.tmsimg.com/assets/s46608_ll_h3_aa.png" group-title="CULTURA", C | Discovery Turbo
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7KaoWw3mK_4LyQXijo5nj3f_Y/m3u8
 
-#EXTINF:-1 tvg-id="1738dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s66488_ll_h3_aa.png" group-title="CULTURA", C | Discovery World
+#EXTINF:-1 tvg-id="DiscoveryWorld.uy" tvg-logo="http://www.tmsimg.com/assets/s66488_ll_h3_aa.png" group-title="CULTURA", C | Discovery World
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7KaogzWpnY3Sces0Ka-7ori2O/m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-logo="http://www.tmsimg.com/assets/s73822_ll_h3_ad.png" group-title="CULTURA", C | TLC HD
+#EXTINF:-1 tvg-id="TLC.pe" tvg-logo="http://www.tmsimg.com/assets/s73822_ll_h3_ad.png" group-title="CULTURA", C | TLC HD
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMu-zew1ZMW2Bd669KesA7KarRTAyjqt0IZ_-i2FCmgU3k/m3u8
 
-#EXTINF:-1 tvg-id="233dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s91919_ll_h3_aa.png" group-title="CULTURA", C | Food Network
+#EXTINF:-1 tvg-id="FoodNetwork.uy" tvg-logo="http://www.tmsimg.com/assets/s91919_ll_h3_aa.png" group-title="CULTURA", C | Food Network
 https://fplay2.com:8443/play/_kbjEa2HsqU5noXcVANMuwtxugMEy8p0e6ToGujFDhbuhu2B2satWTIxZVF1KSLN/m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-logo="http://www.tmsimg.com/assets/s111055_ll_h3_aa.png" group-title="CULTURA", C | HGTV
