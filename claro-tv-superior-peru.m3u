@@ -240,6 +240,9 @@ https://pebpktstvhls-5.clarovideo.com/bpk-tv/SPACEHD/hls_fk/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="210dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/AMC/EXPORTACION_WEB/SS/AMC_t-290x163.png" group-title="Todos", 150 | AMC
 https://pebpktstvhls-5.clarovideo.com/bpk-tv/AMCHD/hls_fk/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-id="517dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/GOLDENEDGE/EXPORTACION_WEB/SS/GOLDENEDGE_t-290x163.png" group-title="Todos", 150 | GOLDEN EDGE
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/GOLDENEDGE/hls_fk/index.m3u8
+
 #EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TNT/EXPORTACION_WEB/SS/TNT_t-290x163.png" group-title="Todos", 154 | TNT
 https://pebpktstvhls-5.clarovideo.com/bpk-tv/TNTHD/hls_fk/playlist_dvr.m3u8
 
@@ -254,9 +257,6 @@ https://pebpktstvhls-5.clarovideo.com/bpk-tv/GOLDENPLUSHD/hls_fk/index.m3u8
 
 #EXTINF:-1 tvg-id="134dtv.co" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/CARACOL/EXPORTACION_WEB/SS/CARACOL_t-290x163.png" group-title="Todos", 200 | CARACOL
 https://pebpktstvhls-7.clarovideo.com/bpk-tv/CARACOL/hls_fk/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CCTV4/EXPORTACION_WEB/SS/CCTV4_t-290x163.png" group-title="Todos", 203 | CCTV4
-https://pebpktstvhls-1.clarovideo.com/bpk-tv/CCTV4/hls_fk/index.m3u8
 
 #EXTINF:-1 tvg-id="833mvstr.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TVE/EXPORTACION_WEB/SS/TVE_t-290x163.png" group-title="Todos", 205 | TVE
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
