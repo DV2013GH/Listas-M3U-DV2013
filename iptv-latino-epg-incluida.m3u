@@ -354,6 +354,9 @@ http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GH7EZuRAKaicpgmJsEZlsLM/m3u8
 #EXTINF:-1 tvg-id="628dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/GOLFCHANNEL/EXPORTACION_WEB/SS/GOLFCHANNEL_t-290x163.png" group-title="DEPORTES", D | GOLF CHANNEL
 http://redworld.pro:8880/live/pjxwzsticy/Cm7hRpuqVpBv/167746.m3u8
 
+#EXTINF:-1 tvg-id="tigo-sports.py" tvg-logo="http://s0lc.net:8080/images/dep_tigo_sports.png" group-title="DEPORTES", D | Tigo Sports Paraguay
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b
+
 #EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/BtAIwAD.png" group-title="E-SPORTS", S | ESPORTS MAX (DVR -3h)
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 
