@@ -499,10 +499,10 @@ http://latinchannel.tv:8080/live/Markito3/Cristiano7/108.m3u8
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/109.m3u8
 
 #EXTINF:-1 tvg-id="665" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F21%2F30%2F21302936_9ACE67084D9B9B80.png&height=300&resize=RATIO&format=PNG" group-title="MUSICA", MU | TOP LATINO TV HD
-http://201.77.61.226:8000/play/a0ak/index.m3u8
+http://tvdirect.pro:8080/live/rafatv24/rafa2024/360545.m3u
 
 #EXTINF:-1 tvg-id="665" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F83%2F23834858_E68AEAD6CDA510A2.png&height=300&resize=RATIO&format=PNG" group-title="MUSICA", MU | KARIBEÑA HD
-http://201.77.61.226:8000/play/a0qd/index.m3u8
+http://tvdirect.pro:8080/live/rafatv24/rafa2024/3413.m3u
 
 #EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/J7cKxrP.png" group-title="MUSICA", MU | SIN LIMITES HD
 http://181.119.215.61:8000/play/a07z/index.m3u8
