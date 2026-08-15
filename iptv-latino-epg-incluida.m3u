@@ -1,66 +1,69 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
 
-#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/10/02/1746820089417/8ec03ea19635_180_180.png" group-title="PERU", PE | Willax TV
+#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FWILLAX.png&width=300" group-title="PERU", PE | Willax TV
 http://190.93.224.42/WILLAX/index.m3u8
 
-#EXTINF:-1 tvg-id="2mvstr.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/11/19/21/1732028377692/0c9a91796790_180_180.png" group-title="PERU", PE | Latina TV HD
+#EXTINF:-1 tvg-id="2mvstr.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FLatina_WIN.png&width=300" group-title="PERU", PE | Latina TV HD
 https://redirector.dps.live/hls/latina/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="475" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/03/05/03/1772655373964/01093a3aaa0d_180_180.png" group-title="PERU", PE | RPP Noticias
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="656" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FPBO.png&width=300" group-title="PERU", PE | PBO HD
+https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/07/15/05/1689374879180/ab9ea9b52503_180_180.png" group-title="PERU", PE | America Television
+#EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FAMERICATV.png&width=300" group-title="PERU", PE | America Television
 https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
 
-#EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/02/10/03/1675975329960/29b55cc4303c_180_180.png" group-title="PERU", PE | Panamericana TV
+#EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANA_t-290x163.png" group-title="PERU", PE | Panamericana TV
 http://190.93.224.42/PANAMERICANA/index.m3u8
 
 #EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://yt3.googleusercontent.com/EXZ2q2sbO4yx38XDu4DAbAFzKFv1U121YitiwrvrPKrnyr_D0mOkMGQWgwIWiB4Fw9uAzd7dOg=s160-c-k-c0x00ffffff-no-rj" group-title="PERU", PE | Canal N HD
 http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GDjtuAKbiE9FKaWUGvh4cVE/m3u8
 
-#EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/02/10/04/1675976402934/2fcd6de4ff26_180_180.png" group-title="PERU", PE | TV Peru
+#EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTVPERU_WIN.png&width=300" group-title="PERU", PE | TV Peru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 
-#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/13/04/1723497868331/6a6388e6df29_180_180.png" group-title="PERU", PE | ATV+ HD
+#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FATVMAS.png&width=300" group-title="PERU", PE | ATV+ HD
 https://cablered.iptvperu.tv:1936/cablered/atvplus.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9mvstr.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/05/07/21/1746628882425/52a948ff4ffe_180_180.png" group-title="PERU", PE | ATV HD
+#EXTINF:-1 tvg-id="9mvstr.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FATVHD.png&width=300" group-title="PERU", PE | ATV HD
 https://cablered.iptvperu.tv:1936/cablered/atv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="656" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/07/17/03/1721162077888/d5da1dada150_180_180.jpg" group-title="PERU", PE | PBO HD
-https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/03/23/04/1679521341575/56fb691da56c_180_180.png" group-title="PERU", PE | Exitosa TV
-https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
-
-#EXTINF:-1 tvg-id="8573dtv.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/15/05/1736895379895/58fafb4b12e6_180_180.png" group-title="PERU", PE | La Tele HD
+#EXTINF:-1 tvg-id="8573dtv.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FLATELE.png&width=300" group-title="PERU", PE | La Tele HD
 https://cablered.iptvperu.tv:1936/cablered/la_tele.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/13/04/1723498032888/3e9d150f4053_180_180.png" group-title="PERU", PE | Global TV
+#EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FEXITOSATV.png&width=300" group-title="PERU", PE | Exitosa TV
+https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
+
+#EXTINF:-1 tvg-id="2036mvstr.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FCanalJ.png&width=300" group-title="PERU", PE | Juntos TV
+http://tvdirect.pro:8080/live/rafatv24/rafa2024/408074.m3u
+
+#EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FGLOBAL.png&width=300" group-title="PERU", PE | Global TV
 https://cablered.iptvperu.tv:1936/cablered/global.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2047mvstr.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/10/16/03/1729024719732/eb6e32c48f5f_180_180.jpg" group-title="PERU", PE | USMP TV HD
+#EXTINF:-1 tvg-id="2047mvstr.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FUSMPTV.png&width=300" group-title="PERU", PE | USMP TV HD
 https://streamusmptv.ddns.net/live/stream.m3u8
 
-#EXTINF:-1 tvg-id="8571mvstr.pe" tvg-logo="https://yt3.googleusercontent.com/MM5S2w2HUDQ7cQnKxuTnhz4Rq6Ks16Ldpv7Y-dtpv4J-Y-qMCnzYigyfe7OKVg_Q3rTCdkLRTQ=s900-c-k-c0x00ffffff-no-rj" group-title="PERU", PE | Canal IPe
+#EXTINF:-1 tvg-id="8571mvstr.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FIPE.png&width=300" group-title="PERU", PE | Canal IPe
 http://190.93.224.42/IPE/index.m3u8
 
-#EXTINF:-1 tvg-id="2036mvstr.pe" tvg-logo="https://i.imgur.com/x7Sk4gY.png" group-title="PERU", PE | Juntos TV (Bicolor+)
-https://pebpktstvhls-1.clarovideo.com/bpk-tv/CANALJHD/hls_fk/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="1190dtv.pe" tvg-logo="https://yt3.googleusercontent.com/-FsNFt1h3DdL_LLqqOVqJ1r-HsOIE3AaJ5hqLdetUIujE9Bj2itayp0AbBZvm93ApZ3ne6z-2g=s900-c-k-c0x00ffffff-no-rj" group-title="PERU", PE | TV Peru Noticias
+#EXTINF:-1 tvg-id="1190dtv.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTV_Peru_Noticias_WIN.png&width=300" group-title="PERU", PE | TV Peru Noticias
 http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8
 
-#EXTINF:-1 tvg-id="8575mvstr.pe" tvg-logo="https://yt3.googleusercontent.com/aaqTlOU5tanDDta_t08QL5HU1gZFwTkgChgHXIyGc7pJrVnhvEkAiUGR7UpnSoVu2SniSFCdYA=s900-c-k-c0x00ffffff-no-rj" group-title="PERU", PE | Sol TV+ HD
+#EXTINF:-1 tvg-id="8575mvstr.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/SOLTVPLUS/EXPORTACION_WEB/SS/SOLTVPLUS_t-290x163.png" group-title="PERU", PE | Sol TV+ HD
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/SOLTVPLUS/hls_fk/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://yt3.googleusercontent.com/lHn1twJAFCyNv4f8KVHpmdoExVjlE3m8trQS22jBG12Vr2bdUGpIHdYrwdSncPr0M0mjtVWF=s900-c-k-c0x00ffffff-no-rj" group-title="PERU", PE | TV Cosmos HD
-https://pebpktstvhls-1.clarovideo.com/bpk-tv/TVCOSMOS/hls_fk/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="PE | TV Cosmos HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TVCOSMOS/EXPORTACION_WEB/SS/TVCOSMOS_t-290x163.png" group-title="PERU", PE | TV Cosmos HD
+https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 
-#EXTINF:-1 tvg-id="547" tvg-logo="https://yt3.googleusercontent.com/XTVB02SV3ys_dbPKOcBTopsLJSfthqXc8iByoGvx8C5VHtzNwfW0D_C_hOYQk0R18Nj3-PPq=s900-c-k-c0x00ffffff-no-rj" group-title="PERU", PE | Nativa TV
+#EXTINF:-1 tvg-id="PE | Nativa TV" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/NATIVA/EXPORTACION_WEB/SS/NATIVA_t-290x163.png" group-title="PERU", PE | Nativa TV
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/07/07/23/1751905736590/f9d8bf191b80_180_180.png" group-title="PERU", PE | Latina Noticias
+#EXTINF:-1 tvg-id="PE | RPP Noticias" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/RPP/EXPORTACION_WEB/SS/RPP_t-290x163.png" group-title="PERU", PE | RPP Noticias
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="PE | Congreso TV" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/CANALDELCONGRESOPER/EXPORTACION_WEB/SS/CANALDELCONGRESOPER_t-290x163.png" group-title="PERU", PE | Congreso TV
+http://tvdirect.pro:8080/live/rafatv24/rafa2024/269047.m3u
+
+#EXTINF:-1 tvg-id="PE | Latina Noticias" tvg-logo="https://assets.rudo.video/assets/latina/live/logoApi_4b43aad719f5bbf7aa2813c2199e6e3e1755620584.png" group-title="PERU", PE | Latina Noticias
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="http://s0lc.net:8080/images/cl_canal13.png" group-title="CHILE", CL | CANAL 13
@@ -93,9 +96,6 @@ http://latinchannel.tv:8080/live/Markito3/Cristiano7/18860.m3u8
 #EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_el_trece.png" group-title="ARGENTINA", ARG | EL TRECE HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/1020.m3u8
 
-#EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_tn.png" group-title="ARGENTINA", ARG | TN HD
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/1025.m3u8
-
 #EXTINF:-1 tvg-id="129dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_canal_de_la_ciudad.png" group-title="ARGENTINA", ARG | CANAL DE LA CIUDAD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/14327.m3u8
 
@@ -116,6 +116,9 @@ http://latinchannel.tv:8080/live/Markito3/Cristiano7/16818.m3u8
 
 #EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_cinear.png" group-title="ARGENTINA", ARG | CINE AR HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/9050.m3u8
+
+#EXTINF:-1 tvg-id="ARG | TN HD" tvg-logo="http://s0lc.net:8080/images/arg_tn.png" group-title="ARGENTINA", ARG | TN HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/1025.m3u8
 
 #EXTINF:-1 tvg-id="ARG | TV PUBLICA HD" tvg-logo="http://s0lc.net:8080/images/arg_tv_publica.png" group-title="ARGENTINA", ARG | TV PUBLICA HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/18890.m3u8
@@ -177,55 +180,55 @@ http://138.121.15.230:8081/TELEPACIFICO/index.m3u8
 #EXTINF:-1 tvg-id="CO | NTN24 HD" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/NTN24/EXPORTACION_WEB/SS/NTN24_t-290x163.png" group-title="COLOMBIA", CO | NTN24 HD
 http://181.78.8.199:8000/play/a0a6/index.m3u8
 
-#EXTINF:-1 tvg-id="24horas.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c56a03080405b20a4fe3_1777295958309.png" group-title="ESPAÑA (GENERAL)", ES | 24 Horas
+#EXTINF:-1 tvg-id="24horas.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c56a03080405b20a4fe3_1777295958309.png" group-title="TDT ESPAÑA", ES | 24 Horas
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRUJLTW5rUWFwWFJYT2VxSFBsM1NCYw
 
-#EXTINF:-1 tvg-id="bemad.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c4c303080405b20a4fe1.png" group-title="ESPAÑA (GENERAL)", ES | Be Mad
+#EXTINF:-1 tvg-id="bemad.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c4c303080405b20a4fe1.png" group-title="TDT ESPAÑA", ES | Be Mad
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaSGpWY1dndnI2QUpwT3FLcTE4Mm5PSQ
 
-#EXTINF:-1 tvg-id="cuatro.es" tvg-logo="https://media.tvup.cloud/canales/5ac5e4b203080405b20a4fe5logoColor.png" group-title="ESPAÑA (GENERAL)", ES | Cuatro
+#EXTINF:-1 tvg-id="cuatro.es" tvg-logo="https://media.tvup.cloud/canales/5ac5e4b203080405b20a4fe5logoColor.png" group-title="TDT ESPAÑA", ES | Cuatro
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRmtkOGNqSExkVDdsV0crQWlTbU1Qcw
 
-#EXTINF:-1 tvg-id="energy.es" tvg-logo="https://media.tvup.cloud/canales/5ac5e54703080405b20a4fe9logoColor.png" group-title="ESPAÑA (GENERAL)", ES | Energy
+#EXTINF:-1 tvg-id="energy.es" tvg-logo="https://media.tvup.cloud/canales/5ac5e54703080405b20a4fe9logoColor.png" group-title="TDT ESPAÑA", ES | Energy
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaR0JMU3dwM3drYjhSaUdPeHdNQTFBaw
 
-#EXTINF:-1 tvg-id="calle13.es" tvg-logo="https://www.calle13.es/sites/all/themes/pint_themes/base_13thstreet_v2/logo-es.png" group-title="ESPAÑA (GENERAL)", ES | Calle 13
+#EXTINF:-1 tvg-id="calle13.es" tvg-logo="https://www.calle13.es/sites/all/themes/pint_themes/base_13thstreet_v2/logo-es.png" group-title="TDT ESPAÑA", ES | Calle 13
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRXJTaURCYnJvSlBMK25BdkpXa1ZPWg
 
-#EXTINF:-1 tvg-id="boing.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c53b03080405b20a4fe2.png" group-title="ESPAÑA (GENERAL)", ES | Boing
+#EXTINF:-1 tvg-id="boing.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c53b03080405b20a4fe2.png" group-title="TDT ESPAÑA", ES | Boing
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaSHFveXZSdSttdTVNQ3JVR2pUQTZMSw
 
-#EXTINF:-1 tvg-id="cmm.es" tvg-logo="https://www.cmmedia.es/images/footer/cmmplay-footer.png" group-title="ESPAÑA (GENERAL)", ES | Castilla La Mancha
-http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRXdyOC9tYW54ZHZlcXRTekxpY1FXRQ
+#EXTINF:-1 tvg-id="553" tvg-logo="https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/colorLogoPNG.png" group-title="TDT ESPAÑA", ES | Realmadrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 tvg-id="ES | La 1" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a65fb256ba63915ccb5138e_1777295646184.png" group-title="ESPAÑA (GENERAL)", ES | La 1
+#EXTINF:-1 tvg-id="ES | La 1" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a65fb256ba63915ccb5138e_1777295646184.png" group-title="TDT ESPAÑA", ES | La 1
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaSFR6MThZanozYVYzREZLNmVlNVRRcw
 
-#EXTINF:-1 tvg-id="ES | La 2" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a65fb546ba63915ccb5138f_1777295726076.png" group-title="ESPAÑA (GENERAL)", ES | La 2
+#EXTINF:-1 tvg-id="ES | La 2" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a65fb546ba63915ccb5138f_1777295726076.png" group-title="TDT ESPAÑA", ES | La 2
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRWJwM1VZWGorV3ExclpZd3hGREl2VQ
 
-#EXTINF:-1 tvg-id="ES | Antena 3" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb04587_1737963282649.png" group-title="ESPAÑA (GENERAL)", ES | Antena 3
+#EXTINF:-1 tvg-id="ES | Antena 3" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb04587_1737963282649.png" group-title="TDT ESPAÑA", ES | Antena 3
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaR0VVb2h0RjhMNWxqQUlpZ0NSWXFIWg
 
-#EXTINF:-1 tvg-id="ES | Mega" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e5a303080405b20a4fec.png?t=1664364229" group-title="ESPAÑA (GENERAL)", ES | Mega
+#EXTINF:-1 tvg-id="ES | Mega" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e5a303080405b20a4fec.png?t=1664364229" group-title="TDT ESPAÑA", ES | Mega
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRTk2RXZnYTUvUUtrdkdMVXhxZnVVNg
 
-#EXTINF:-1 tvg-id="ES | La Sexta" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb04586_1732120393501.png" group-title="ESPAÑA (GENERAL)", ES | La Sexta
+#EXTINF:-1 tvg-id="ES | La Sexta" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb04586_1732120393501.png" group-title="TDT ESPAÑA", ES | La Sexta
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRUVFYWJSTU94aG9NVUd5QlBUeWRZNQ
 
-#EXTINF:-1 tvg-id="ES | Telecinco" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e63803080405b20a4ff0_1725285512693.png" group-title="ESPAÑA (GENERAL)", ES | Telecinco
+#EXTINF:-1 tvg-id="ES | Telecinco" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e63803080405b20a4ff0_1725285512693.png" group-title="TDT ESPAÑA", ES | Telecinco
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaR2czdXBWSW9Sd0FFeWxuQlpTNnM0Mw
 
-#EXTINF:-1 tvg-id="divinity.es" tvg-logo="https://media.tvup.cloud/canales/5ac5e4e403080405b20a4fe6logoColor.png?t=1663902215" group-title="ESPAÑA (GENERAL)", ES | Divinity
+#EXTINF:-1 tvg-id="divinity.es" tvg-logo="https://media.tvup.cloud/canales/5ac5e4e403080405b20a4fe6logoColor.png?t=1663902215" group-title="TDT ESPAÑA", ES | Divinity
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaR3Y0c2R0RGY1aVU1UEJXdnBSNHBwNQ
 
-#EXTINF:-1 tvg-id="ES | DKiss" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e50b03080405b20a4fe7.png" group-title="ESPAÑA (GENERAL)", ES | DKiss
+#EXTINF:-1 tvg-id="ES | DKiss" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e50b03080405b20a4fe7.png" group-title="TDT ESPAÑA", ES | DKiss
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaR05ZZE9aQ2EwZGx0NGtIeG4yL2JQSg
 
-#EXTINF:-1 tvg-id="ES | Neox" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e5f003080405b20a4fee.png" group-title="ESPAÑA (GENERAL)", ES | Neox
+#EXTINF:-1 tvg-id="ES | Neox" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e5f003080405b20a4fee.png" group-title="TDT ESPAÑA", ES | Neox
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaSFF0SGM1UVRjZU1jeTdTUDkyREFvcQ
 
-#EXTINF:-1 tvg-id="ES | Nova" tvg-logo="https://media.tvup.cloud/canales/5ac5f8f08140f92ff4e1bd5clogoColor.png" group-title="ESPAÑA (GENERAL)", ES | Nova
+#EXTINF:-1 tvg-id="ES | Nova" tvg-logo="https://media.tvup.cloud/canales/5ac5f8f08140f92ff4e1bd5clogoColor.png" group-title="TDT ESPAÑA", ES | Nova
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaSGFkbzFUZGpBSVJYN2w0NkhHNmszcw
 
 #EXTINF:-1 tvg-id="amc.mx" tvg-logo="http://s0lc.net:8080/images/peli_amc.png" group-title="CINE Y SERIES", P | AMC
