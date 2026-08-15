@@ -177,55 +177,55 @@ http://138.121.15.230:8081/TELEPACIFICO/index.m3u8
 #EXTINF:-1 tvg-id="CO | NTN24 HD" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/NTN24/EXPORTACION_WEB/SS/NTN24_t-290x163.png" group-title="COLOMBIA", CO | NTN24 HD
 http://181.78.8.199:8000/play/a0a6/index.m3u8
 
-#EXTINF:-1 tvg-id="24horas.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c56a03080405b20a4fe3_1777295958309.png" group-title="ESPAÑA", ES | 24 Horas
+#EXTINF:-1 tvg-id="24horas.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c56a03080405b20a4fe3_1777295958309.png" group-title="ESPAÑA (GENERAL)", ES | 24 Horas
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRUJLTW5rUWFwWFJYT2VxSFBsM1NCYw
 
-#EXTINF:-1 tvg-id="bemad.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c4c303080405b20a4fe1.png" group-title="ESPAÑA", ES | Be Mad
+#EXTINF:-1 tvg-id="bemad.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c4c303080405b20a4fe1.png" group-title="ESPAÑA (GENERAL)", ES | Be Mad
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaSGpWY1dndnI2QUpwT3FLcTE4Mm5PSQ
 
-#EXTINF:-1 tvg-id="cuatro.es" tvg-logo="https://media.tvup.cloud/canales/5ac5e4b203080405b20a4fe5logoColor.png" group-title="ESPAÑA", ES | Cuatro
+#EXTINF:-1 tvg-id="cuatro.es" tvg-logo="https://media.tvup.cloud/canales/5ac5e4b203080405b20a4fe5logoColor.png" group-title="ESPAÑA (GENERAL)", ES | Cuatro
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRmtkOGNqSExkVDdsV0crQWlTbU1Qcw
 
-#EXTINF:-1 tvg-id="energy.es" tvg-logo="https://media.tvup.cloud/canales/5ac5e54703080405b20a4fe9logoColor.png" group-title="ESPAÑA", ES | Energy
+#EXTINF:-1 tvg-id="energy.es" tvg-logo="https://media.tvup.cloud/canales/5ac5e54703080405b20a4fe9logoColor.png" group-title="ESPAÑA (GENERAL)", ES | Energy
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaR0JMU3dwM3drYjhSaUdPeHdNQTFBaw
 
-#EXTINF:-1 tvg-id="calle13.es" tvg-logo="https://www.calle13.es/sites/all/themes/pint_themes/base_13thstreet_v2/logo-es.png" group-title="ESPAÑA", ES | Calle 13
+#EXTINF:-1 tvg-id="calle13.es" tvg-logo="https://www.calle13.es/sites/all/themes/pint_themes/base_13thstreet_v2/logo-es.png" group-title="ESPAÑA (GENERAL)", ES | Calle 13
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRXJTaURCYnJvSlBMK25BdkpXa1ZPWg
 
-#EXTINF:-1 tvg-id="boing.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c53b03080405b20a4fe2.png" group-title="ESPAÑA", ES | Boing
+#EXTINF:-1 tvg-id="boing.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c53b03080405b20a4fe2.png" group-title="ESPAÑA (GENERAL)", ES | Boing
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaSHFveXZSdSttdTVNQ3JVR2pUQTZMSw
 
-#EXTINF:-1 tvg-id="cmm.es" tvg-logo="https://www.cmmedia.es/images/footer/cmmplay-footer.png" group-title="ESPAÑA", ES | Castilla La Mancha
+#EXTINF:-1 tvg-id="cmm.es" tvg-logo="https://www.cmmedia.es/images/footer/cmmplay-footer.png" group-title="ESPAÑA (GENERAL)", ES | Castilla La Mancha
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRXdyOC9tYW54ZHZlcXRTekxpY1FXRQ
 
-#EXTINF:-1 tvg-id="ES | La 1" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a65fb256ba63915ccb5138e_1777295646184.png" group-title="ESPAÑA", ES | La 1
+#EXTINF:-1 tvg-id="ES | La 1" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a65fb256ba63915ccb5138e_1777295646184.png" group-title="ESPAÑA (GENERAL)", ES | La 1
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaSFR6MThZanozYVYzREZLNmVlNVRRcw
 
-#EXTINF:-1 tvg-id="ES | La 2" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a65fb546ba63915ccb5138f_1777295726076.png" group-title="ESPAÑA", ES | La 2
+#EXTINF:-1 tvg-id="ES | La 2" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a65fb546ba63915ccb5138f_1777295726076.png" group-title="ESPAÑA (GENERAL)", ES | La 2
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRWJwM1VZWGorV3ExclpZd3hGREl2VQ
 
-#EXTINF:-1 tvg-id="ES | Antena 3" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb04587_1737963282649.png" group-title="ESPAÑA", ES | Antena 3
+#EXTINF:-1 tvg-id="ES | Antena 3" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb04587_1737963282649.png" group-title="ESPAÑA (GENERAL)", ES | Antena 3
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaR0VVb2h0RjhMNWxqQUlpZ0NSWXFIWg
 
-#EXTINF:-1 tvg-id="ES | Mega" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e5a303080405b20a4fec.png?t=1664364229" group-title="ESPAÑA", ES | Mega
+#EXTINF:-1 tvg-id="ES | Mega" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e5a303080405b20a4fec.png?t=1664364229" group-title="ESPAÑA (GENERAL)", ES | Mega
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRTk2RXZnYTUvUUtrdkdMVXhxZnVVNg
 
-#EXTINF:-1 tvg-id="ES | La Sexta" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb04586_1732120393501.png" group-title="ESPAÑA", ES | La Sexta
+#EXTINF:-1 tvg-id="ES | La Sexta" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb04586_1732120393501.png" group-title="ESPAÑA (GENERAL)", ES | La Sexta
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRUVFYWJSTU94aG9NVUd5QlBUeWRZNQ
 
-#EXTINF:-1 tvg-id="ES | Telecinco" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e63803080405b20a4ff0_1725285512693.png" group-title="ESPAÑA", ES | Telecinco
+#EXTINF:-1 tvg-id="ES | Telecinco" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e63803080405b20a4ff0_1725285512693.png" group-title="ESPAÑA (GENERAL)", ES | Telecinco
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaR2czdXBWSW9Sd0FFeWxuQlpTNnM0Mw
 
-#EXTINF:-1 tvg-id="divinity.es" tvg-logo="https://media.tvup.cloud/canales/5ac5e4e403080405b20a4fe6logoColor.png?t=1663902215" group-title="ESPAÑA", ES | Divinity
+#EXTINF:-1 tvg-id="divinity.es" tvg-logo="https://media.tvup.cloud/canales/5ac5e4e403080405b20a4fe6logoColor.png?t=1663902215" group-title="ESPAÑA (GENERAL)", ES | Divinity
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaR3Y0c2R0RGY1aVU1UEJXdnBSNHBwNQ
 
-#EXTINF:-1 tvg-id="ES | DKiss" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e50b03080405b20a4fe7.png" group-title="ESPAÑA", ES | DKiss
+#EXTINF:-1 tvg-id="ES | DKiss" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e50b03080405b20a4fe7.png" group-title="ESPAÑA (GENERAL)", ES | DKiss
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaR05ZZE9aQ2EwZGx0NGtIeG4yL2JQSg
 
-#EXTINF:-1 tvg-id="ES | Neox" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e5f003080405b20a4fee.png" group-title="ESPAÑA", ES | Neox
+#EXTINF:-1 tvg-id="ES | Neox" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e5f003080405b20a4fee.png" group-title="ESPAÑA (GENERAL)", ES | Neox
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaSFF0SGM1UVRjZU1jeTdTUDkyREFvcQ
 
-#EXTINF:-1 tvg-id="ES | Nova" tvg-logo="https://media.tvup.cloud/canales/5ac5f8f08140f92ff4e1bd5clogoColor.png" group-title="ESPAÑA", ES | Nova
+#EXTINF:-1 tvg-id="ES | Nova" tvg-logo="https://media.tvup.cloud/canales/5ac5f8f08140f92ff4e1bd5clogoColor.png" group-title="ESPAÑA (GENERAL)", ES | Nova
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaSGFkbzFUZGpBSVJYN2w0NkhHNmszcw
 
 #EXTINF:-1 tvg-id="amc.mx" tvg-logo="http://s0lc.net:8080/images/peli_amc.png" group-title="CINE Y SERIES", P | AMC
@@ -405,10 +405,10 @@ http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GBSJt1O_UH8t1bDFfIFthvs/m3u8
 #EXTINF:-1 tvg-id="734dtv.cl" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/ANIMALPLANETHD/EXPORTACION_WEB/SS/ANIMALPLANETHD_t-290x163.png" group-title="CULTURA", C | ANIMAL PLANET
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/8926.m3u8
 
-#EXTINF:-1 tvg-id="223dtv.cl" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/DISCOVERYIDHD/EXPORTACION_WEB/SS/DISCOVERYIDHD_t-290x163.png" group-title="CULTURA", C | DISCOVERY ID
+#EXTINF:-1 tvg-id="223dtv.cl" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/DISCOVERYIDNEW/EXPORTACION_WEB/SS/DISCOVERYIDNEW_t-290x163.png" group-title="CULTURA", C | DISCOVERY ID
 http://170.244.209.30:8000/play/a0n5/index.m3u8
 
-#EXTINF:-1 tvg-id="discovery-science.cl" tvg-logo="http://www.tmsimg.com/assets/s48527_ll_h3_aa.png" group-title="CULTURA", C | DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="discovery-science.cl" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/DISCOVERYSCIENCE/EXPORTACION_WEB/SS/DISCOVERYSCIENCE_t-290x163.png" group-title="CULTURA", C | DISCOVERY SCIENCE
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/51544.m3u8
 
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/DISCOVERYTURBO/EXPORTACION_WEB/SS/DISCOVERYTURBO_t-290x163.png" group-title="CULTURA", C | DISCOVERY TURBO
@@ -444,20 +444,20 @@ http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GPdHx2ctz4O9ChfyqtJrvLY/m3u8
 #EXTINF:-1 tvg-id="229dtv.cl" tvg-logo="http://s0lc.net:8080/images/doc_dis_hh.png" group-title="ESTILO DE VIDA", E | DISCOVERY H&H
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/8922.m3u8
 
-#EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="https://i.imgur.com/SbutOft.png" group-title="NOTICIAS", NT | CNN SPANISH
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/197.m3u8
-
 #EXTINF:-1 tvg-id="24horas.es" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/24H/EXPORTACION_WEB/SS/24H_t-290x163.png" group-title="NOTICIAS", NT | 24h España (DVR -2h)
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
-
-#EXTINF:-1 tvg-id="706dtv.cl" tvg-logo="https://i.imgur.com/w9ZJY0N.png" group-title="NOTICIAS", NT | CNN INTERNACIONAL
-https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 
 #EXTINF:-1 tvg-id="adn40.mx" tvg-logo="https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG_1785346155200.png" group-title="NOTICIAS", NT | ADN NOTICIAS
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="707dtv.cl" tvg-logo="http://www.tmsimg.com/assets/s104408_ll_h3_aa.png" group-title="NOTICIAS", NT | CNN CHILE HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/2303.m3u8
+
+#EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="https://i.imgur.com/SbutOft.png" group-title="NOTICIAS", NT | CNN SPANISH
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/197.m3u8
+
+#EXTINF:-1 tvg-id="706dtv.cl" tvg-logo="https://i.imgur.com/w9ZJY0N.png" group-title="NOTICIAS", NT | CNN INTERNACIONAL
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 
 #EXTINF:-1 tvg-id="560" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/RT/EXPORTACION_WEB/SS/RT_t-290x163.png" group-title="INTERNACIONALES", INT | RT (DVR -12h)
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
@@ -489,7 +489,7 @@ http://latinchannel.tv:8080/live/Markito3/Cristiano7/15744.m3u8
 #EXTINF:-1 tvg-id="665" tvg-logo="https://images.vix.com/prd/channel/62bb8244603b2d579e311193/19dccef175686e991df488c1cc378737?tr=q-30&w=1280" group-title="MUSICA", MU | TELEHIT HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/103.m3u8
 
-#EXTINF:-1 tvg-id="665" tvg-logo="https://images.vix.com/prd/channel/62bb827b27d9223af3d6b23d/a61ae44c45a04ee7cdb2717cb9f114ed?tr=w-1280,q-30&w=1280" group-title="MUSICA", MU | TELEHIT MUSICA
+#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/CrlADae.png" group-title="MUSICA", MU | TELEHIT MUSICA
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/108.m3u8
 
 #EXTINF:-1 tvg-id="665" tvg-logo="https://images.vix.com/prd/channel/674082c9b20422773ee6de5e/dd155b10dc78c23f603e3b3144782f8f?tr=q-30&w=1280" group-title="MUSICA", MU | BANDAMAX HD
