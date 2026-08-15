@@ -46,10 +46,16 @@ https://streamusmptv.ddns.net/live/stream.m3u8
 http://190.93.224.42/IPE/index.m3u8
 
 #EXTINF:-1 tvg-id="2036mvstr.pe" tvg-logo="https://i.imgur.com/x7Sk4gY.png" group-title="PERU", PE | Juntos TV (Bicolor+)
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/juntos_tv.stream/playlist.m3u8
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/CANALJHD/hls_fk/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="1190dtv.pe" tvg-logo="https://yt3.googleusercontent.com/-FsNFt1h3DdL_LLqqOVqJ1r-HsOIE3AaJ5hqLdetUIujE9Bj2itayp0AbBZvm93ApZ3ne6z-2g=s900-c-k-c0x00ffffff-no-rj" group-title="PERU", PE | TV Peru Noticias
 http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8
+
+#EXTINF:-1 tvg-id="8575mvstr.pe" tvg-logo="https://yt3.googleusercontent.com/aaqTlOU5tanDDta_t08QL5HU1gZFwTkgChgHXIyGc7pJrVnhvEkAiUGR7UpnSoVu2SniSFCdYA=s900-c-k-c0x00ffffff-no-rj" group-title="PERU", PE | Sol TV+ HD
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/SOLTVPLUS/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://yt3.googleusercontent.com/lHn1twJAFCyNv4f8KVHpmdoExVjlE3m8trQS22jBG12Vr2bdUGpIHdYrwdSncPr0M0mjtVWF=s900-c-k-c0x00ffffff-no-rj" group-title="PERU", PE | TV Cosmos HD
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/TVCOSMOS/hls_fk/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="547" tvg-logo="https://yt3.googleusercontent.com/XTVB02SV3ys_dbPKOcBTopsLJSfthqXc8iByoGvx8C5VHtzNwfW0D_C_hOYQk0R18Nj3-PPq=s900-c-k-c0x00ffffff-no-rj" group-title="PERU", PE | Nativa TV
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
@@ -346,7 +352,7 @@ http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GH7EZuRAKaicpgmJsEZlsLM/m3u8
 http://redworld.pro:8880/live/pjxwzsticy/Cm7hRpuqVpBv/167746.m3u8
 
 #EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/BtAIwAD.png" group-title="E-SPORTS", S | Esports Max (DVR -3h)
-https://cdnlive.klicgo.net/rcnnovelas/live/playlist_dvr.m3u8
+https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="8158mvstr.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F12%2F15%2F12150417_90649D3FED6C716E.png&height=300&resize=RATIO&format=PNG" group-title="E-SPORTS", S | Via X eSports
 http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GI8jYGb9FBDi-Vh7uBUdrHo/m3u8
