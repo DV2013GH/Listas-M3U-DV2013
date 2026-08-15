@@ -75,56 +75,56 @@ http://latinchannel.tv:8080/live/Markito3/Cristiano7/3449.m3u8
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="http://s0lc.net:8080/images/cl_tvn.png" group-title="CHILE", CL | TVN HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/1727.m3u8
 
-#EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_a24.png" group-title="ARGENTINA", ARG | A24 HD
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/1026.m3u8
-
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_america_tv.png" group-title="ARGENTINA", ARG | AMERICA TV HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/18864.m3u8
-
-#EXTINF:-1 tvg-id="717dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_c5n.png" group-title="ARGENTINA", ARG | C5N HD
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/1024.m3u8
-
-#EXTINF:-1 tvg-id="129dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_canal_de_la_ciudad.png" group-title="ARGENTINA", ARG | CANAL DE LA CIUDAD
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/14327.m3u8
-
-#EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="http://s0lc.net:8080/images/arg_canal26.png" group-title="ARGENTINA", ARG | CANAL 26 HD
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/1033.m3u8
-
-#EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_cinear.png" group-title="ARGENTINA", ARG | CINE AR HD
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/9050.m3u8
-
-#EXTINF:-1 tvg-id="236dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_ciudad_magazine.png" group-title="ARGENTINA", ARG | CIUDAD MAGAZINE
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/5243.m3u8
-
-#EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_cronica.png" group-title="ARGENTINA", ARG | CRONICA TV HD
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/1028.m3u8
-
-#EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_el_nueve.png" group-title="ARGENTINA", ARG | EL NUEVE HD
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/18891.m3u8
-
-#EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_el_trece.png" group-title="ARGENTINA", ARG | EL TRECE HD
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/1020.m3u8
-
-#EXTINF:-1 tvg-id="1715dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_la_nacion.png" group-title="ARGENTINA", ARG | LN+ HD
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/13610.m3u8
-
-#EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_net.png" group-title="ARGENTINA", ARG | NET TV HD
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/10625.m3u8
-
-#EXTINF:-1 tvg-id="303dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_paka_paka.png" group-title="ARGENTINA", ARG | PAKA-PAKA HD
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/1029.m3u8
 
 #EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_telefe.png" group-title="ARGENTINA", ARG | TELEFE HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/18860.m3u8
 
+#EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_el_trece.png" group-title="ARGENTINA", ARG | EL TRECE HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/1020.m3u8
+
 #EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_tn.png" group-title="ARGENTINA", ARG | TN HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/1025.m3u8
 
-#EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_tv_publica.png" group-title="ARGENTINA", ARG | TV PUBLICA HD
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/18890.m3u8
+#EXTINF:-1 tvg-id="129dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_canal_de_la_ciudad.png" group-title="ARGENTINA", ARG | CANAL DE LA CIUDAD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/14327.m3u8
+
+#EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_a24.png" group-title="ARGENTINA", ARG | A24 HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/1026.m3u8
+
+#EXTINF:-1 tvg-id="717dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_c5n.png" group-title="ARGENTINA", ARG | C5N HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/1024.m3u8
+
+#EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="http://s0lc.net:8080/images/arg_canal26.png" group-title="ARGENTINA", ARG | CANAL 26 HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/1033.m3u8
+
+#EXTINF:-1 tvg-id="303dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_paka_paka.png" group-title="ARGENTINA", ARG | PAKA-PAKA HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/1029.m3u8
 
 #EXTINF:-1 tvg-id="238dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_volver.png" group-title="ARGENTINA", ARG | VOLVER HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/16818.m3u8
+
+#EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_cinear.png" group-title="ARGENTINA", ARG | CINE AR HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/9050.m3u8
+
+#EXTINF:-1 tvg-id="ARG | TV PUBLICA HD" tvg-logo="http://s0lc.net:8080/images/arg_tv_publica.png" group-title="ARGENTINA", ARG | TV PUBLICA HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/18890.m3u8
+
+#EXTINF:-1 tvg-id="ARG | EL NUEVE HD" tvg-logo="http://s0lc.net:8080/images/arg_el_nueve.png" group-title="ARGENTINA", ARG | EL NUEVE HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/18891.m3u8
+
+#EXTINF:-1 tvg-id="ARG | CIUDAD MAGAZINE" tvg-logo="http://s0lc.net:8080/images/arg_ciudad_magazine.png" group-title="ARGENTINA", ARG | CIUDAD MAGAZINE
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/5243.m3u8
+
+#EXTINF:-1 tvg-id="ARG | CRONICA TV HD" tvg-logo="http://s0lc.net:8080/images/arg_cronica.png" group-title="ARGENTINA", ARG | CRONICA TV HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/1028.m3u8
+
+#EXTINF:-1 tvg-id="ARG | LN+ HD" tvg-logo="http://s0lc.net:8080/images/arg_la_nacion.png" group-title="ARGENTINA", ARG | LN+ HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/13610.m3u8
+
+#EXTINF:-1 tvg-id="ARG | NET TV HD" tvg-logo="http://s0lc.net:8080/images/arg_net.png" group-title="ARGENTINA", ARG | NET TV HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/10625.m3u8
 
 #EXTINF:-1 tvg-id="parana-tv.py" tvg-logo="https://images.ctfassets.net/ack3kcrk3cz6/HYJkEP1ypSLaEEtyhmu4i/bf2127310e7b0e2b4b75888e964bd869/C9N.webp?fm=webp&q=80" group-title="PARAGUAY", PY | C9N HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/16956.m3u8
@@ -141,32 +141,32 @@ http://latinchannel.tv:8080/live/Markito3/Cristiano7/31850.m3u8
 #EXTINF:-1 tvg-id="abc-tv.py" tvg-logo="https://s1.dmcdn.net/y/8Nqm1gTWO8rpMnsX" group-title="PARAGUAY", PY | ABC TV HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/47977.m3u8
 
-#EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CARACOL/EXPORTACION_WEB/SS/CARACOL_t-290x163.png" group-title="COLOMBIA", CO | CARACOL TV HD
-http://138.121.15.230:8081/CARACOL/index.m3u8
-
-#EXTINF:-1 tvg-id="130dtv.co" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CANALRCN/EXPORTACION_WEB/SS/CANALRCN_t-290x163.png" group-title="COLOMBIA", CO | CANAL RCN HD
-http://138.121.15.230:8081/RCN/index.m3u8
-
-#EXTINF:-1 tvg-id="133dtv.co" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CITYTVHD/EXPORTACION_WEB/SS/CITYTVHD_t-290x163.png" group-title="COLOMBIA", CO | CITY TV
-http://138.121.15.230:8081/CITY-TV/index.m3u8
-
-#EXTINF:-1 tvg-id="137dtv.co" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/SEALCOLOMBIA/EXPORTACION_WEB/SS/SEALCOLOMBIA_t-290x163.png" group-title="COLOMBIA", CO | SEÑAL COLOMBIA
-http://138.121.15.230:8081/SENAL-COLOMBIA/mpegts
-
-#EXTINF:-1 tvg-id="140dtv.co" tvg-logo="http://s0lc.net:8080/images/col_teleantioquia.png" group-title="COLOMBIA", CO | TELEANTIOQUIA
-http://138.121.15.230:8081/TELEANTIOQUIA/index.m3u8
-
-#EXTINF:-1 tvg-id="141dtv.co" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TELEPACIFICO/EXPORTACION_WEB/SS/TELEPACIFICO_t-290x163.png" group-title="COLOMBIA", CO | TELEPACIFICO
-http://138.121.15.230:8081/TELEPACIFICO/index.m3u8
-
-#EXTINF:-1 tvg-id="145dtv.co" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/NTN24/EXPORTACION_WEB/SS/NTN24_t-290x163.png" group-title="COLOMBIA", CO | NTN24 HD
-http://181.78.8.199:8000/play/a0a6/index.m3u8
-
 #EXTINF:-1 tvg-id="135dtv.co" tvg-logo="http://s0lc.net:8080/images/col_rcn_nuestratele.png" group-title="COLOMBIA", CO | RCN Nuestra Tele
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/1037.m3u8
 
 #EXTINF:-1 tvg-id="147dtv.co" tvg-logo="http://s0lc.net:8080/images/col_cablenoticias.png" group-title="COLOMBIA", CO | CABLE NOTICIAS
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/5404.m3u8
+
+#EXTINF:-1 tvg-id="CO | CARACOL TV HD" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CARACOL/EXPORTACION_WEB/SS/CARACOL_t-290x163.png" group-title="COLOMBIA", CO | CARACOL TV HD
+http://138.121.15.230:8081/CARACOL/index.m3u8
+
+#EXTINF:-1 tvg-id="CO | CANAL RCN HD" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CANALRCN/EXPORTACION_WEB/SS/CANALRCN_t-290x163.png" group-title="COLOMBIA", CO | CANAL RCN HD
+http://138.121.15.230:8081/RCN/index.m3u8
+
+#EXTINF:-1 tvg-id="CO | CITY TV" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CITYTVHD/EXPORTACION_WEB/SS/CITYTVHD_t-290x163.png" group-title="COLOMBIA", CO | CITY TV
+http://138.121.15.230:8081/CITY-TV/index.m3u8
+
+#EXTINF:-1 tvg-id="CO | SEÑAL COLOMBIA" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/SEALCOLOMBIA/EXPORTACION_WEB/SS/SEALCOLOMBIA_t-290x163.png" group-title="COLOMBIA", CO | SEÑAL COLOMBIA
+http://138.121.15.230:8081/SENAL-COLOMBIA/mpegts
+
+#EXTINF:-1 tvg-id="CO | TELEANTIOQUIA" tvg-logo="http://s0lc.net:8080/images/col_teleantioquia.png" group-title="COLOMBIA", CO | TELEANTIOQUIA
+http://138.121.15.230:8081/TELEANTIOQUIA/index.m3u8
+
+#EXTINF:-1 tvg-id="CO | TELEPACIFICO" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TELEPACIFICO/EXPORTACION_WEB/SS/TELEPACIFICO_t-290x163.png" group-title="COLOMBIA", CO | TELEPACIFICO
+http://138.121.15.230:8081/TELEPACIFICO/index.m3u8
+
+#EXTINF:-1 tvg-id="CO | NTN24 HD" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/NTN24/EXPORTACION_WEB/SS/NTN24_t-290x163.png" group-title="COLOMBIA", CO | NTN24 HD
+http://181.78.8.199:8000/play/a0a6/index.m3u8
 
 #EXTINF:-1 tvg-id="24horas.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c56a03080405b20a4fe3_1777295958309.png" group-title="ESPAÑA", ES | 24 Horas
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRUJLTW5rUWFwWFJYT2VxSFBsM1NCYw
@@ -375,6 +375,9 @@ http://latinchannel.tv:8080/live/Markito3/Cristiano7/45.m3u8
 #EXTINF:-1 tvg-id="3" tvg-logo="http://s0lc.net:8080/images/inf_tooncast.png" group-title="KIDS", K | TOONCAST HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/54.m3u8
 
+#EXTINF:-1 tvg-id="535" tvg-logo="https://fmh.la/img/logo_kids.png" group-title="KIDS", K | FMH KIDS
+http://xstr.cyou/live/Martin49/Silvera49/7dadd4d2-f9f0-4ac1-b1cc-c62e8430e483.m3u8
+
 #EXTINF:-1 tvg-id="227dtv.cl" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/TLNOVELAS/EXPORTACION_WEB/SS/TLNOVELAS_t-290x163.png" group-title="TELENOVELAS", N | TLNOVELAS
 http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GGNLZyq1ZpJ4pu865Smmv-w/m3u8
 
@@ -399,7 +402,7 @@ http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GHOzJbm7NenscHLx0U3-JXo/m3u8
 #EXTINF:-1 tvg-id="5" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/DISCOVERYCHANNEL/EXPORTACION_WEB/SS/DISCOVERYCHANNEL_t-290x163.png" group-title="DOCUMENTAL Y CULTURA", C | DISCOVERY CHANNEL
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/3539.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/HISTORYCHANNEL/EXPORTACION_WEB/SS/HISTORYCHANNEL_t-290x163.png" group-title="DOCUMENTAL Y CULTURA", C | HISTORY CHANNEL
+#EXTINF:-1 tvg-id="5" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/HISTORYCHANNEL/EXPORTACION_WEB/SS/HISTORYCHANNEL_t-290x163.png" group-title="DOCUMENTAL Y CULTURA", C | HISTORY CHANNEL
 http://177.234.249.178:8888/HISTORY/index.m3u8
 
 #EXTINF:-1 tvg-id="742dtv.co" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/HISTORY2/EXPORTACION_WEB/SS/HISTORY2_t-290x163.png" group-title="DOCUMENTAL Y CULTURA", C | HISTORY 2
