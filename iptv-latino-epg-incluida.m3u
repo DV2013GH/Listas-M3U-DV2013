@@ -15,7 +15,7 @@ https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANA_t-290x163.png" group-title="PERU", PE | Panamericana TV
 http://190.93.224.42/PANAMERICANA/index.m3u8
 
-#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://yt3.googleusercontent.com/EXZ2q2sbO4yx38XDu4DAbAFzKFv1U121YitiwrvrPKrnyr_D0mOkMGQWgwIWiB4Fw9uAzd7dOg=s160-c-k-c0x00ffffff-no-rj" group-title="PERU", PE | Canal N HD
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/PWlqMrP.png" group-title="PERU", PE | Canal N HD
 http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GDjtuAKbiE9FKaWUGvh4cVE/m3u8
 
 #EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTVPERU_WIN.png&width=300" group-title="PERU", PE | TV Peru
@@ -135,7 +135,7 @@ http://latinchannel.tv:8080/live/Markito3/Cristiano7/1028.m3u8
 #EXTINF:-1 tvg-id="ARG | LN+ HD" tvg-logo="http://s0lc.net:8080/images/arg_la_nacion.png" group-title="ARGENTINA", ARG | LN+ HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/13610.m3u8
 
-#EXTINF:-1 tvg-id="ARG | NET TV HD" tvg-logo="http://s0lc.net:8080/images/arg_net.png" group-title="ARGENTINA", ARG | NET TV HD
+#EXTINF:-1 tvg-id="ARG | NET TV" tvg-logo="http://s0lc.net:8080/images/arg_net.png" group-title="ARGENTINA", ARG | NET TV
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/10625.m3u8
 
 #EXTINF:-1 tvg-id="parana-tv.py" tvg-logo="https://images.ctfassets.net/ack3kcrk3cz6/HYJkEP1ypSLaEEtyhmu4i/bf2127310e7b0e2b4b75888e964bd869/C9N.webp?fm=webp&q=80" group-title="PARAGUAY", PY | C9N HD
@@ -354,10 +354,10 @@ http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GH7EZuRAKaicpgmJsEZlsLM/m3u8
 #EXTINF:-1 tvg-id="628dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/GOLFCHANNEL/EXPORTACION_WEB/SS/GOLFCHANNEL_t-290x163.png" group-title="DEPORTES", D | GOLF CHANNEL
 http://redworld.pro:8880/live/pjxwzsticy/Cm7hRpuqVpBv/167746.m3u8
 
-#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/BtAIwAD.png" group-title="E-SPORTS", S | Esports Max (DVR -3h)
+#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/BtAIwAD.png" group-title="E-SPORTS", S | ESPORTS MAX (DVR -3h)
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="8158mvstr.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F12%2F15%2F12150417_90649D3FED6C716E.png&height=300&resize=RATIO&format=PNG" group-title="E-SPORTS", S | Via X eSports
+#EXTINF:-1 tvg-id="8158mvstr.pe" tvg-logo="https://spotlight-pe.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F12%2F15%2F12150417_90649D3FED6C716E.png&height=300&resize=RATIO&format=PNG" group-title="E-SPORTS", S | VIA X ESPORTS
 http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GI8jYGb9FBDi-Vh7uBUdrHo/m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-logo="http://s0lc.net:8080/images/inf_baby_first.png" group-title="KIDS", K | BABY FIRST
@@ -1122,18 +1122,18 @@ https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
 #EXTINF:-1 tvg-id="680bdaf54d7cf165c705f91e" tvg-logo="https://images.pluto.tv/channels/680bdaf54d7cf165c705f91e/colorLogoPNG_1785345998479.png" group-title="ZONA PLUTO", Zona Investigación TV
 https://jmp2.uk/plu-680bdaf54d7cf165c705f91e.m3u8
 
-#EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://pbs.twimg.com/profile_images/1951269649280040961/RrU47Hlk_200x200.jpg" group-title="RADIOS PERU", Exitosa Radio Perú
+#EXTINF:-1 tvg-id="Exitosa Radio Peru" tvg-logo="https://pbs.twimg.com/profile_images/1951269649280040961/RrU47Hlk_200x200.jpg" group-title="RADIOS PERU", Exitosa Radio Peru
 https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561
 
-#EXTINF:-1 tvg-id="475" tvg-logo="https://scontent.flim28-2.fna.fbcdn.net/v/t39.30808-1/416099665_409431001412966_2302423103869955277_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=08baa4&_nc_ohc=iGngrfoQdCIQ7kNvwH0dRWV&_nc_oc=AdoY7VS9j9q2y9X-gZQPU25ry0IsaQ1GmQi_9P-BZ3p62Mc1mMpClXZQjvdSeNMNNTk&_nc_zt=24&_nc_ht=scontent.flim28-2.fna&edm=AKsJ254EAAAA&_nc_gid=Koku8xQwr7thTb357roZUQ&oh=00_AQHt-v3V-cpXZy3iV4wAPfd13GBWZ9nDF3ySkorQiqXu8w&oe=6A80AD46" group-title="RADIOS PERU", RPP Noticias Perú
+#EXTINF:-1 tvg-id="RPP Noticias Peru" tvg-logo="https://scontent.flim28-2.fna.fbcdn.net/v/t39.30808-1/416099665_409431001412966_2302423103869955277_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=08baa4&_nc_ohc=iGngrfoQdCIQ7kNvwH0dRWV&_nc_oc=AdoY7VS9j9q2y9X-gZQPU25ry0IsaQ1GmQi_9P-BZ3p62Mc1mMpClXZQjvdSeNMNNTk&_nc_zt=24&_nc_ht=scontent.flim28-2.fna&edm=AKsJ254EAAAA&_nc_gid=Koku8xQwr7thTb357roZUQ&oh=00_AQHt-v3V-cpXZy3iV4wAPfd13GBWZ9nDF3ySkorQiqXu8w&oe=6A80AD46" group-title="RADIOS PERU", RPP Noticias Peru
 https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/live.m3u8
 
-#EXTINF:-1 tvg-id="665" tvg-logo="https://i.imgur.com/tkHOave.png" group-title="RADIOS PERU", Radio La Zona Perú
+#EXTINF:-1 tvg-id="Radio La Zona Peru" tvg-logo="https://i.imgur.com/tkHOave.png" group-title="RADIOS PERU", Radio La Zona Peru
 https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
 
-#EXTINF:-1 tvg-id="665" tvg-logo="https://scontent.flim28-2.fna.fbcdn.net/v/t39.30808-1/211746458_4528577057192599_2509226180528993894_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=08baa4&_nc_ohc=XkgGF3G3KE0Q7kNvwEijESB&_nc_oc=AdpBewzgIIWdQQyFK61YPbOwQ3xtt2eXL3dinLRp8JhOJ4r-UDJl9sY7o1llceaiTNA&_nc_zt=24&_nc_ht=scontent.flim28-2.fna&edm=AKsJ254EAAAA&_nc_gid=4h0pLaHXHuf0eW1hG1HZlg&oh=00_AQEDrgNf3rBQkrWTdFsKhYQtdmc0ymLCOeyJYtiUUGMg7Q&oe=6A809BF4" group-title="RADIOS PERU", Radio Oxígeno Perú
+#EXTINF:-1 tvg-id="Radio Oxígeno Peru" tvg-logo="https://i.imgur.com/LPuR5MC.jpeg" group-title="RADIOS PERU", Radio Oxígeno Peru
 https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://scontent.flim28-1.fna.fbcdn.net/v/t39.30808-1/383228938_730386045797756_4942066843449739090_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=08baa4&_nc_ohc=yorQ6Z4KPjQQ7kNvwE1LEkp&_nc_oc=AdrQhUzI7flHpbk7FlWvw5vi2b8xWosH1K-PyYaMI3XwIhCcZXC2834Lj6Kh6BWc0gg&_nc_zt=24&_nc_ht=scontent.flim28-1.fna&edm=AKsJ254EAAAA&_nc_gid=YLgSs9DRxSsWQa1M5p3zrg&oh=00_AQFCexSMdD1BPM5EaQr43gf1q6s81L9uVYiedesXx0v5eA&oe=6A80A48F" group-title="RADIOS PERU", Radio Nacional Perú
+#EXTINF:-1 tvg-id="Radio Nacional Peru" tvg-logo="https://i.imgur.com/hqgEwmE.jpeg" group-title="RADIOS PERU", Radio Nacional Peru
 https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
 
