@@ -231,7 +231,7 @@ http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPd
 #EXTINF:-1 tvg-id="ES | Nova" tvg-logo="https://media.tvup.cloud/canales/5ac5f8f08140f92ff4e1bd5clogoColor.png" group-title="TDT ESPAÑA", ES | Nova
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaSGFkbzFUZGpBSVJYN2w0NkhHNmszcw
 
-#EXTINF:-1 tvg-id="amc.mx" tvg-logo="http://s0lc.net:8080/images/peli_amc.png" group-title="CINE Y SERIES", P | AMC
+#EXTINF:-1 tvg-id="4" tvg-logo="http://s0lc.net:8080/images/peli_amc.png" group-title="CINE Y SERIES", P | AMC
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/85.m3u8
 
 #EXTINF:-1 tvg-id="axn.mx" tvg-logo="http://s0lc.net:8080/images/series_axn.png" group-title="CINE Y SERIES", S | AXN
@@ -241,7 +241,7 @@ http://latinchannel.tv:8080/live/Markito3/Cristiano7/20.m3u8
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/18665.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="http://s0lc.net:8080/images/peli_universal_cinema.png" group-title="CINE Y SERIES", P | Universal Cinema
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/28957.m3u8
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GGp6Ea7X5b9-0bh4rcf-Geo/m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="http://s0lc.net:8080/images/peli_universal_comedy.png" group-title="CINE Y SERIES", P | Universal Comedy
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/28958.m3u8
@@ -297,7 +297,7 @@ http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GM7cpZjPXg8CweMzhetSBRo/m3u8
 #EXTINF:-1 tvg-id="213dtv.cl" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TNTSERIES/EXPORTACION_WEB/SS/TNTSERIES_t-290x163.png" group-title="CINE Y SERIES", S | TNT Series HD
 http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GBF927ub5dfBUARcONcNafg/m3u8
 
-#EXTINF:-1 tvg-id="218dtv.co" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/UNIVERSALHD/EXPORTACION_WEB/SS/UNIVERSALHD_t-290x163.png" group-title="CINE Y SERIES", S | Universal TV HD
+#EXTINF:-1 tvg-id="4" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/UNIVERSALHD/EXPORTACION_WEB/SS/UNIVERSALHD_t-290x163.png" group-title="CINE Y SERIES", S | Universal TV HD
 http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GPx3CgAAlQf258WmRLQpIio/m3u8
 
 #EXTINF:-1 tvg-id="504" tvg-logo="https://fmh.la/img/logo_movies.png" group-title="CINE Y SERIES", C | FMH Movies
