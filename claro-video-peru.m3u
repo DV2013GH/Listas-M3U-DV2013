@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/PANAMERICANA/EXPORTACION_WEB/SS/PANAMERICANA_t-290x163.png" group-title="Locales", 5 | PANAMERICANA
 https://pebpktstvhls-7.clarovideo.com/bpk-tv/PANAMERICANAHD/hls_fk/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-id="475" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/RPP/EXPORTACION_WEB/SS/RPP_t-290x163.png" group-title="Locales", 6 | RPP
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/RPP/hls_fk/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TVPER/EXPORTACION_WEB/SS/TVPER_t-290x163.png" group-title="Locales", 7 | TV PERÚ
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/TVPERUHD/hls_fk/playlist_dvr.m3u8
 
@@ -63,39 +66,6 @@ https://pebpktstvhls-1.clarovideo.com/bpk-tv/SOLTVPLUS/hls_fk/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="547" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/NATIVA/EXPORTACION_WEB/SS/NATIVA_t-290x163.png" group-title="Locales", 27 | NATIVA
 https://pebpktstvhls-7.clarovideo.com/bpk-tv/UCITVHD/hls_fk/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="730dtv.cl" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/NATGEOHD/EXPORTACION_WEB/SS/NATGEOHD_t-290x163.png" group-title="Cultura", 73 | NAT GEO HD
-https://pebpktstvhls-7.clarovideo.com/bpk-tv/NATGEOHD/hls_fk/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="742dtv.co" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/HISTORY2/EXPORTACION_WEB/SS/HISTORY2_t-290x163.png" group-title="Cultura", 75 | HISTORY 2
-https://pebpktstvhls-7.clarovideo.com/bpk-tv/H2/hls_fk/index.m3u8
-
-#EXTINF:-1 tvg-id="230dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/AMCSERIES/EXPORTACION_WEB/SS/AMCSERIES_t-290x163.png" group-title="Variados", 108 | AMC SERIES
-https://pebpktstvhls-7.clarovideo.com/bpk-tv/MASCHICHD/hls_fk/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CANALDELASESTRELLAS/EXPORTACION_WEB/SS/CANALDELASESTRELLAS_t-290x163.png" group-title="Variados", 114 | CANAL DE LAS ESTRELLAS
-https://pebpktstvhls-3.clarovideo.com/bpk-tv/LASESTRELLASHD/hls_fk/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="227dtv.cl" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/TLNOVELAS/EXPORTACION_WEB/SS/TLNOVELAS_t-290x163.png" group-title="Variados", 115 | TLNOVELAS
-https://pebpktstvhls-3.clarovideo.com/bpk-tv/TLNOVELAS/hls_fk/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="330dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/DISCOVERYKIDSCHANNEL/EXPORTACION_WEB/SS/DISCOVERYKIDSCHANNEL_t-290x163.png" group-title="Infantil", 30 | DISCOVERY KIDS CHANNEL
-https://cablered.iptvperu.tv:1936/cablered/discoverykids_new/playlist.m3u8
-
-#EXTINF:-1 tvg-id="315dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/DISNEYJR/EXPORTACION_WEB/SS/DISNEYJR_t-290x163.png" group-title="Infantil", 31 | DISNEY JR
-https://pebpktstvhls-7.clarovideo.com/bpk-tv/DISNEYJR/hls_fk/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="312dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/DISNEYCHANNELHD/EXPORTACION_WEB/SS/DISNEYCHANNELHD_t-290x163.png" group-title="Infantil", 34 | DISNEY CHANNEL HD
-https://pebpktstvhls-3.clarovideo.com/bpk-tv/DISNEYCHANNEL/hls_fk/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="529" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CARTOONNETWORK/EXPORTACION_WEB/SS/CARTOONNETWORK_t-290x163.png" group-title="Infantil", 36 | CARTOON NETWORK
-https://pebpktstvhls-3.clarovideo.com/bpk-tv/CARTOONNETWORKHD/hls_fk/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="528" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CARTOONITO/EXPORTACION_WEB/SS/CARTOONITO_t-290x163.png" group-title="Infantil", 38 | CARTOONITO
-https://pebpktstvhls-3.clarovideo.com/bpk-tv/BOOMERANG/hls_fk/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="3" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/PLIMPLIM/EXPORTACION_WEB/SS/PLIMPLIM_t-290x163.png" group-title="Infantil", 46 | PLIM PLIM
-https://pebpktstvhls-5.clarovideo.com/bpk-tv/PLIMPLIM/hls_fk/index.m3u8
-
 #EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/L1/EXPORTACION_WEB/SS/L1_t-290x163.png" group-title="Deportes", 3 | L 1
 https://pebpktstvhls-3.clarovideo.com/bpk-tv/LIGA1/hls_fk/playlist_dvr.m3u8
 
@@ -126,26 +96,35 @@ https://cablered.iptvperu.tv:1936/cablered/espn6_new/playlist.m3u8
 #EXTINF:-1 tvg-id="655" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ESPN7/EXPORTACION_WEB/SS/ESPN7_t-290x163.png" group-title="Deportes", 67 | ESPN 7
 https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="833mvstr.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TVE/EXPORTACION_WEB/SS/TVE_t-290x163.png" group-title="Internacional", 205 | TVE
-https://pebpktstvhls-7.clarovideo.com/bpk-tv/TVE/hls_fk/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="706dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CNNINTERNACIONAL/EXPORTACION_WEB/SS/CNNINTERNACIONAL_t-290x163.png" group-title="Noticias", 51 | CNN INTERNACIONAL
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/CNN/hls_fk/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/INTIHD/EXPORTACION_WEB/SS/INTIHD_t-290x163.png" group-title="Internacional", 206 | INTI HD
-https://pebpktstvhls-5.clarovideo.com/bpk-tv/INTIHD/hls_fk/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="330dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/DISCOVERYKIDSCHANNEL/EXPORTACION_WEB/SS/DISCOVERYKIDSCHANNEL_t-290x163.png" group-title="Infantil", 30 | DISCOVERY KIDS CHANNEL
+https://cablered.iptvperu.tv:1936/cablered/discoverykids_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TVN/EXPORTACION_WEB/SS/TVN_t-290x163.png" group-title="Internacional", 209 | TVN
-https://pebpktstvhls-1.clarovideo.com/bpk-tv/TVN/hls_fk/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="315dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/DISNEYJR/EXPORTACION_WEB/SS/DISNEYJR_t-290x163.png" group-title="Infantil", 31 | DISNEY JR
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/DISNEYJR/hls_fk/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="france-24-espanol.ar" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/FRANCE24HD/EXPORTACION_WEB/SS/FRANCE24HD_t-290x163.png" group-title="Internacional", 210 | FRANCE 24 HD
-https://pebpktstvhls-7.clarovideo.com/bpk-tv/FRANCE24HD/hls_fk/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="312dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/DISNEYCHANNELHD/EXPORTACION_WEB/SS/DISNEYCHANNELHD_t-290x163.png" group-title="Infantil", 34 | DISNEY CHANNEL HD
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/DISNEYCHANNEL/hls_fk/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="560" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/RT/EXPORTACION_WEB/SS/RT_t-290x163.png" group-title="Internacional", 214 | RT
-https://pebpktstvhls-3.clarovideo.com/bpk-tv/RT/hls_fk/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="529" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CARTOONNETWORK/EXPORTACION_WEB/SS/CARTOONNETWORK_t-290x163.png" group-title="Infantil", 36 | CARTOON NETWORK
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/CARTOONNETWORKHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="528" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CARTOONITO/EXPORTACION_WEB/SS/CARTOONITO_t-290x163.png" group-title="Infantil", 38 | CARTOONITO
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/BOOMERANG/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/PLIMPLIM/EXPORTACION_WEB/SS/PLIMPLIM_t-290x163.png" group-title="Infantil", 46 | PLIM PLIM
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/PLIMPLIM/hls_fk/index.m3u8
+
+#EXTINF:-1 tvg-id="730dtv.cl" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/NATGEOHD/EXPORTACION_WEB/SS/NATGEOHD_t-290x163.png" group-title="Cultura", 73 | NAT GEO HD
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/NATGEOHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="742dtv.co" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/HISTORY2/EXPORTACION_WEB/SS/HISTORY2_t-290x163.png" group-title="Cultura", 75 | HISTORY 2
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/H2/hls_fk/index.m3u8
 
 #EXTINF:-1 tvg-id="665" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/CONCERTCHANNEL/EXPORTACION_WEB/SS/CONCERTCHANNEL_t-290x163.png" group-title="Música", 91 | CONCERT CHANNEL
 https://pebpktstvhls-7.clarovideo.com/bpk-tv/CONCERTCHANNELHD/hls_fk/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="706dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CNNINTERNACIONAL/EXPORTACION_WEB/SS/CNNINTERNACIONAL_t-290x163.png" group-title="Noticias", 51 | CNN INTERNACIONAL
-https://pebpktstvhls-1.clarovideo.com/bpk-tv/CNN/hls_fk/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="865mvstr.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/LOVENATURE/EXPORTACION_WEB/SS/LOVENATURE_t-290x163.png" group-title="Películas", 72 | LOVE NATURE
 https://cablered.iptvperu.tv:1936/cablered/lovenature_new/playlist.m3u8
@@ -170,6 +149,15 @@ https://pebpktstvhls-5.clarovideo.com/bpk-tv/AMCHD/hls_fk/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="508dtv.cl" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/STUDIOUNIVERSAL/EXPORTACION_WEB/SS/STUDIOUNIVERSAL_t-290x163.png" group-title="Películas", 153 | STUDIO UNIVERSAL
 https://pebpktstvhls-5.clarovideo.com/bpk-tv/STUDIOUNIVERSALHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="230dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/AMCSERIES/EXPORTACION_WEB/SS/AMCSERIES_t-290x163.png" group-title="Variados", 108 | AMC SERIES
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/MASCHICHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CANALDELASESTRELLAS/EXPORTACION_WEB/SS/CANALDELASESTRELLAS_t-290x163.png" group-title="Variados", 114 | CANAL DE LAS ESTRELLAS
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/LASESTRELLASHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="227dtv.cl" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/TLNOVELAS/EXPORTACION_WEB/SS/TLNOVELAS_t-290x163.png" group-title="Variados", 115 | TLNOVELAS
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/TLNOVELAS/hls_fk/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="213dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TNTSERIES/EXPORTACION_WEB/SS/TNTSERIES_t-290x163.png" group-title="Series", 120 | TNT SERIES
 https://pebpktstvhls-7.clarovideo.com/bpk-tv/TNTSERIESHD/hls_fk/index.m3u8
@@ -200,6 +188,21 @@ https://pebpktstvhls-5.clarovideo.com/bpk-tv/EUROCHANNEL/hls_fk/playlist_dvr.m3u
 
 #EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TNT/EXPORTACION_WEB/SS/TNT_t-290x163.png" group-title="Series", 154 | TNT
 https://pebpktstvhls-5.clarovideo.com/bpk-tv/TNTHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="833mvstr.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TVE/EXPORTACION_WEB/SS/TVE_t-290x163.png" group-title="Internacional", 205 | TVE
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/TVE/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/INTIHD/EXPORTACION_WEB/SS/INTIHD_t-290x163.png" group-title="Internacional", 206 | INTI HD
+https://pebpktstvhls-5.clarovideo.com/bpk-tv/INTIHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="774dtv.co" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TVN/EXPORTACION_WEB/SS/TVN_t-290x163.png" group-title="Internacional", 209 | TVN
+https://pebpktstvhls-1.clarovideo.com/bpk-tv/TVN/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="france-24-espanol.ar" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/FRANCE24HD/EXPORTACION_WEB/SS/FRANCE24HD_t-290x163.png" group-title="Internacional", 210 | FRANCE 24 HD
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/FRANCE24HD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="560" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/RT/EXPORTACION_WEB/SS/RT_t-290x163.png" group-title="Internacional", 214 | RT
+https://pebpktstvhls-3.clarovideo.com/bpk-tv/RT/hls_fk/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="762dtv.cl" tvg-logo="https://clarovideocdn1.clarovideo.net/ATRESPLAYER/PELICULAS/ANTENA3INTERNACIONALHD/EXPORTACION_WEB/SS/ANTENA3INTERNACIONALHD_t-290x163.png" group-title="Atresplayer", 219 | ANTENA 3 INTERNACIONAL
 https://pebpktstvhls-7.clarovideo.com/bpk-tv/ANTENA3/hls_fk/index.m3u8
