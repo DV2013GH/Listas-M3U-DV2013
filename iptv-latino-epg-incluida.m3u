@@ -87,55 +87,55 @@ http://latinchannel.tv:8080/live/Markito3/Cristiano7/3449.m3u8
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="http://s0lc.net:8080/images/cl_tvn.png" group-title="CHILE", CL | TVN HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/1727.m3u8
 
-#EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_america_tv.png" group-title="ARGENTINA", ARG | AMERICA TV HD
+#EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_america_tv.png" group-title="ARGENTINA", AR | AMERICA TV HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/18864.m3u8
 
-#EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_telefe.png" group-title="ARGENTINA", ARG | TELEFE HD
+#EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_telefe.png" group-title="ARGENTINA", AR | TELEFE HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/18860.m3u8
 
-#EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_el_trece.png" group-title="ARGENTINA", ARG | EL TRECE HD
+#EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_el_trece.png" group-title="ARGENTINA", AR | EL TRECE HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/1020.m3u8
 
-#EXTINF:-1 tvg-id="129dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_canal_de_la_ciudad.png" group-title="ARGENTINA", ARG | CANAL DE LA CIUDAD
+#EXTINF:-1 tvg-id="129dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_canal_de_la_ciudad.png" group-title="ARGENTINA", AR | CANAL DE LA CIUDAD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/14327.m3u8
 
-#EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_a24.png" group-title="ARGENTINA", ARG | A24 HD
+#EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_a24.png" group-title="ARGENTINA", AR | A24 HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/1026.m3u8
 
-#EXTINF:-1 tvg-id="717dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_c5n.png" group-title="ARGENTINA", ARG | C5N HD
+#EXTINF:-1 tvg-id="717dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_c5n.png" group-title="ARGENTINA", AR | C5N HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/1024.m3u8
 
-#EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="http://s0lc.net:8080/images/arg_canal26.png" group-title="ARGENTINA", ARG | CANAL 26 HD
+#EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="http://s0lc.net:8080/images/arg_canal26.png" group-title="ARGENTINA", AR | CANAL 26 HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/1033.m3u8
 
-#EXTINF:-1 tvg-id="303dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_paka_paka.png" group-title="ARGENTINA", ARG | PAKA-PAKA HD
+#EXTINF:-1 tvg-id="303dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_paka_paka.png" group-title="ARGENTINA", AR | PAKA-PAKA HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/1029.m3u8
 
-#EXTINF:-1 tvg-id="238dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_volver.png" group-title="ARGENTINA", ARG | VOLVER HD
+#EXTINF:-1 tvg-id="238dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_volver.png" group-title="ARGENTINA", AR | VOLVER HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/16818.m3u8
 
-#EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_cinear.png" group-title="ARGENTINA", ARG | CINE AR HD
+#EXTINF:-1 tvg-id="512dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_cinear.png" group-title="ARGENTINA", AR | CINE AR HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/9050.m3u8
 
-#EXTINF:-1 tvg-id="ARG | TN HD" tvg-logo="http://s0lc.net:8080/images/arg_tn.png" group-title="ARGENTINA", ARG | TN HD
+#EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="http://s0lc.net:8080/images/arg_tn.png" group-title="ARGENTINA", AR | TN HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/1025.m3u8
 
-#EXTINF:-1 tvg-id="ARG | TV PUBLICA HD" tvg-logo="http://s0lc.net:8080/images/arg_tv_publica.png" group-title="ARGENTINA", ARG | TV PUBLICA HD
+#EXTINF:-1 tvg-id="AR | TV PUBLICA HD" tvg-logo="http://s0lc.net:8080/images/arg_tv_publica.png" group-title="ARGENTINA", AR | TV PUBLICA HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/18890.m3u8
 
-#EXTINF:-1 tvg-id="ARG | EL NUEVE HD" tvg-logo="http://s0lc.net:8080/images/arg_el_nueve.png" group-title="ARGENTINA", ARG | EL NUEVE HD
+#EXTINF:-1 tvg-id="AR | EL NUEVE HD" tvg-logo="http://s0lc.net:8080/images/arg_el_nueve.png" group-title="ARGENTINA", AR | EL NUEVE HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/18891.m3u8
 
-#EXTINF:-1 tvg-id="ARG | CIUDAD MAGAZINE" tvg-logo="http://s0lc.net:8080/images/arg_ciudad_magazine.png" group-title="ARGENTINA", ARG | CIUDAD MAGAZINE
+#EXTINF:-1 tvg-id="AR | CIUDAD MAGAZINE" tvg-logo="http://s0lc.net:8080/images/arg_ciudad_magazine.png" group-title="ARGENTINA", AR | CIUDAD MAGAZINE
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/5243.m3u8
 
-#EXTINF:-1 tvg-id="ARG | CRONICA TV HD" tvg-logo="http://s0lc.net:8080/images/arg_cronica.png" group-title="ARGENTINA", ARG | CRONICA TV HD
+#EXTINF:-1 tvg-id="AR | CRONICA TV HD" tvg-logo="http://s0lc.net:8080/images/arg_cronica.png" group-title="ARGENTINA", AR | CRONICA TV HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/1028.m3u8
 
-#EXTINF:-1 tvg-id="ARG | LN+ HD" tvg-logo="http://s0lc.net:8080/images/arg_la_nacion.png" group-title="ARGENTINA", ARG | LN+ HD
+#EXTINF:-1 tvg-id="AR | LN+ HD" tvg-logo="http://s0lc.net:8080/images/arg_la_nacion.png" group-title="ARGENTINA", AR | LN+ HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/13610.m3u8
 
-#EXTINF:-1 tvg-id="ARG | NET HD" tvg-logo="http://s0lc.net:8080/images/arg_net.png" group-title="ARGENTINA", ARG | NET HD
+#EXTINF:-1 tvg-id="AR | NET HD" tvg-logo="http://s0lc.net:8080/images/arg_net.png" group-title="ARGENTINA", AR | NET HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/10625.m3u8
 
 #EXTINF:-1 tvg-id="parana-tv.py" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/C9N/EXPORTACION_WEB/SS/C9N_t-290x163.png" group-title="PARAGUAY", PY | C9N HD
@@ -159,76 +159,76 @@ http://latinchannel.tv:8080/live/Markito3/Cristiano7/1037.m3u8
 #EXTINF:-1 tvg-id="147dtv.co" tvg-logo="http://s0lc.net:8080/images/col_cablenoticias.png" group-title="COLOMBIA", CO | CABLE NOTICIAS
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/5404.m3u8
 
-#EXTINF:-1 tvg-id="CO | CARACOL TV HD" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CARACOL/EXPORTACION_WEB/SS/CARACOL_t-290x163.png" group-title="COLOMBIA", CO | CARACOL TV HD
+#EXTINF:-1 tvg-id="132dtv.co" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CARACOL/EXPORTACION_WEB/SS/CARACOL_t-290x163.png" group-title="COLOMBIA", CO | CARACOL TV HD
 http://138.121.15.230:8081/CARACOL/index.m3u8
 
-#EXTINF:-1 tvg-id="CO | CANAL RCN HD" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CANALRCN/EXPORTACION_WEB/SS/CANALRCN_t-290x163.png" group-title="COLOMBIA", CO | CANAL RCN HD
-http://138.121.15.230:8081/RCN/index.m3u8
-
-#EXTINF:-1 tvg-id="CO | CITY TV" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CITYTVHD/EXPORTACION_WEB/SS/CITYTVHD_t-290x163.png" group-title="COLOMBIA", CO | CITY TV
+#EXTINF:-1 tvg-id="133dtv.co" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CITYTVHD/EXPORTACION_WEB/SS/CITYTVHD_t-290x163.png" group-title="COLOMBIA", CO | CITY TV
 http://138.121.15.230:8081/CITY-TV/index.m3u8
 
-#EXTINF:-1 tvg-id="CO | SEÑAL COLOMBIA" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/SEALCOLOMBIA/EXPORTACION_WEB/SS/SEALCOLOMBIA_t-290x163.png" group-title="COLOMBIA", CO | SEÑAL COLOMBIA
+#EXTINF:-1 tvg-id="130dtv.co" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CANALRCN/EXPORTACION_WEB/SS/CANALRCN_t-290x163.png" group-title="COLOMBIA", CO | CANAL RCN HD
+http://138.121.15.230:8081/RCN/index.m3u8
+
+#EXTINF:-1 tvg-id="137dtv.co" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/SEALCOLOMBIA/EXPORTACION_WEB/SS/SEALCOLOMBIA_t-290x163.png" group-title="COLOMBIA", CO | SEÑAL COLOMBIA
 http://138.121.15.230:8081/SENAL-COLOMBIA/mpegts
 
-#EXTINF:-1 tvg-id="CO | TELEANTIOQUIA" tvg-logo="http://s0lc.net:8080/images/col_teleantioquia.png" group-title="COLOMBIA", CO | TELEANTIOQUIA
+#EXTINF:-1 tvg-id="140dtv.co" tvg-logo="http://s0lc.net:8080/images/col_teleantioquia.png" group-title="COLOMBIA", CO | TELEANTIOQUIA
 http://138.121.15.230:8081/TELEANTIOQUIA/index.m3u8
 
-#EXTINF:-1 tvg-id="CO | TELEPACIFICO" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TELEPACIFICO/EXPORTACION_WEB/SS/TELEPACIFICO_t-290x163.png" group-title="COLOMBIA", CO | TELEPACIFICO
+#EXTINF:-1 tvg-id="141dtv.co" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TELEPACIFICO/EXPORTACION_WEB/SS/TELEPACIFICO_t-290x163.png" group-title="COLOMBIA", CO | TELEPACIFICO
 http://138.121.15.230:8081/TELEPACIFICO/index.m3u8
 
-#EXTINF:-1 tvg-id="CO | NTN24 HD" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/NTN24/EXPORTACION_WEB/SS/NTN24_t-290x163.png" group-title="COLOMBIA", CO | NTN24 HD
+#EXTINF:-1 tvg-id="145dtv.co" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/NTN24/EXPORTACION_WEB/SS/NTN24_t-290x163.png" group-title="COLOMBIA", CO | NTN24 HD
 http://181.78.8.199:8000/play/a0a6/index.m3u8
 
-#EXTINF:-1 tvg-id="24horas.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c56a03080405b20a4fe3_1777295958309.png" group-title="TDT ESPAÑA", ES | 24 Horas
+#EXTINF:-1 tvg-id="24horas.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c56a03080405b20a4fe3_1777295958309.png" group-title="ESPAÑA (TDT)", ES | 24 Horas
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRUJLTW5rUWFwWFJYT2VxSFBsM1NCYw
 
-#EXTINF:-1 tvg-id="bemad.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c4c303080405b20a4fe1.png" group-title="TDT ESPAÑA", ES | Be Mad
+#EXTINF:-1 tvg-id="bemad.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c4c303080405b20a4fe1.png" group-title="ESPAÑA (TDT)", ES | Be Mad
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaSGpWY1dndnI2QUpwT3FLcTE4Mm5PSQ
 
-#EXTINF:-1 tvg-id="cuatro.es" tvg-logo="https://media.tvup.cloud/canales/5ac5e4b203080405b20a4fe5logoColor.png" group-title="TDT ESPAÑA", ES | Cuatro
+#EXTINF:-1 tvg-id="cuatro.es" tvg-logo="https://media.tvup.cloud/canales/5ac5e4b203080405b20a4fe5logoColor.png" group-title="ESPAÑA (TDT)", ES | Cuatro
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRmtkOGNqSExkVDdsV0crQWlTbU1Qcw
 
-#EXTINF:-1 tvg-id="energy.es" tvg-logo="https://media.tvup.cloud/canales/5ac5e54703080405b20a4fe9logoColor.png" group-title="TDT ESPAÑA", ES | Energy
+#EXTINF:-1 tvg-id="energy.es" tvg-logo="https://media.tvup.cloud/canales/5ac5e54703080405b20a4fe9logoColor.png" group-title="ESPAÑA (TDT)", ES | Energy
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaR0JMU3dwM3drYjhSaUdPeHdNQTFBaw
 
-#EXTINF:-1 tvg-id="calle13.es" tvg-logo="https://www.calle13.es/sites/all/themes/pint_themes/base_13thstreet_v2/logo-es.png" group-title="TDT ESPAÑA", ES | Calle 13
+#EXTINF:-1 tvg-id="calle13.es" tvg-logo="https://www.calle13.es/sites/all/themes/pint_themes/base_13thstreet_v2/logo-es.png" group-title="ESPAÑA (TDT)", ES | Calle 13
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRXJTaURCYnJvSlBMK25BdkpXa1ZPWg
 
-#EXTINF:-1 tvg-id="boing.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c53b03080405b20a4fe2.png" group-title="TDT ESPAÑA", ES | Boing
+#EXTINF:-1 tvg-id="boing.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c53b03080405b20a4fe2.png" group-title="ESPAÑA (TDT)", ES | Boing
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaSHFveXZSdSttdTVNQ3JVR2pUQTZMSw
 
-#EXTINF:-1 tvg-id="553" tvg-logo="https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/colorLogoPNG.png" group-title="TDT ESPAÑA", ES | Realmadrid TV
+#EXTINF:-1 tvg-id="553" tvg-logo="https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/colorLogoPNG.png" group-title="ESPAÑA (TDT)", ES | Realmadrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 tvg-id="ES | La 1" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a65fb256ba63915ccb5138e_1777295646184.png" group-title="TDT ESPAÑA", ES | La 1
+#EXTINF:-1 tvg-id="ES | La 1" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a65fb256ba63915ccb5138e_1777295646184.png" group-title="ESPAÑA (TDT)", ES | La 1
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaSFR6MThZanozYVYzREZLNmVlNVRRcw
 
-#EXTINF:-1 tvg-id="ES | La 2" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a65fb546ba63915ccb5138f_1777295726076.png" group-title="TDT ESPAÑA", ES | La 2
+#EXTINF:-1 tvg-id="ES | La 2" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a65fb546ba63915ccb5138f_1777295726076.png" group-title="ESPAÑA (TDT)", ES | La 2
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRWJwM1VZWGorV3ExclpZd3hGREl2VQ
 
-#EXTINF:-1 tvg-id="ES | Antena 3" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb04587_1737963282649.png" group-title="TDT ESPAÑA", ES | Antena 3
+#EXTINF:-1 tvg-id="ES | Antena 3" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb04587_1737963282649.png" group-title="ESPAÑA (TDT)", ES | Antena 3
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaR0VVb2h0RjhMNWxqQUlpZ0NSWXFIWg
 
-#EXTINF:-1 tvg-id="ES | Mega" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e5a303080405b20a4fec.png?t=1664364229" group-title="TDT ESPAÑA", ES | Mega
+#EXTINF:-1 tvg-id="ES | Mega" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e5a303080405b20a4fec.png?t=1664364229" group-title="ESPAÑA (TDT)", ES | Mega
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRTk2RXZnYTUvUUtrdkdMVXhxZnVVNg
 
-#EXTINF:-1 tvg-id="ES | La Sexta" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb04586_1732120393501.png" group-title="TDT ESPAÑA", ES | La Sexta
+#EXTINF:-1 tvg-id="ES | La Sexta" tvg-logo="https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb04586_1732120393501.png" group-title="ESPAÑA (TDT)", ES | La Sexta
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRUVFYWJSTU94aG9NVUd5QlBUeWRZNQ
 
-#EXTINF:-1 tvg-id="ES | Telecinco" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e63803080405b20a4ff0_1725285512693.png" group-title="TDT ESPAÑA", ES | Telecinco
+#EXTINF:-1 tvg-id="ES | Telecinco" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e63803080405b20a4ff0_1725285512693.png" group-title="ESPAÑA (TDT)", ES | Telecinco
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaR2czdXBWSW9Sd0FFeWxuQlpTNnM0Mw
 
-#EXTINF:-1 tvg-id="ES | DKiss" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e50b03080405b20a4fe7.png" group-title="TDT ESPAÑA", ES | DKiss
+#EXTINF:-1 tvg-id="ES | DKiss" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e50b03080405b20a4fe7.png" group-title="ESPAÑA (TDT)", ES | DKiss
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaR05ZZE9aQ2EwZGx0NGtIeG4yL2JQSg
 
-#EXTINF:-1 tvg-id="divinity.es" tvg-logo="https://media.tvup.cloud/canales/5ac5e4e403080405b20a4fe6logoColor.png?t=1663902215" group-title="TDT ESPAÑA", ES | Divinity
+#EXTINF:-1 tvg-id="divinity.es" tvg-logo="https://media.tvup.cloud/canales/5ac5e4e403080405b20a4fe6logoColor.png?t=1663902215" group-title="ESPAÑA (TDT)", ES | Divinity
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaR3Y0c2R0RGY1aVU1UEJXdnBSNHBwNQ
 
-#EXTINF:-1 tvg-id="ES | Neox" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e5f003080405b20a4fee.png" group-title="TDT ESPAÑA", ES | Neox
+#EXTINF:-1 tvg-id="ES | Neox" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e5f003080405b20a4fee.png" group-title="ESPAÑA (TDT)", ES | Neox
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaSFF0SGM1UVRjZU1jeTdTUDkyREFvcQ
 
-#EXTINF:-1 tvg-id="ES | Nova" tvg-logo="https://media.tvup.cloud/canales/5ac5f8f08140f92ff4e1bd5clogoColor.png" group-title="TDT ESPAÑA", ES | Nova
+#EXTINF:-1 tvg-id="ES | Nova" tvg-logo="https://media.tvup.cloud/canales/5ac5f8f08140f92ff4e1bd5clogoColor.png" group-title="ESPAÑA (TDT)", ES | Nova
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaSGFkbzFUZGpBSVJYN2w0NkhHNmszcw
 
 #EXTINF:-1 tvg-id="4" tvg-logo="http://s0lc.net:8080/images/peli_amc.png" group-title="CINE Y SERIES", P | AMC
@@ -450,6 +450,9 @@ http://latinchannel.tv:8080/live/Markito3/Cristiano7/8922.m3u8
 #EXTINF:-1 tvg-id="24horas.es" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/24H/EXPORTACION_WEB/SS/24H_t-290x163.png" group-title="NOTICIAS", NT | 24h España (DVR -2h)
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
+#EXTINF:-1 tvg-id="700dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/DNEWS/EXPORTACION_WEB/SS/DNEWS_t-290x163.png" group-title="NOTICIAS", NT | DNews HD
+http://azyleg.vip/live/LauraSarmiento/3uWnnj74c7/515729be-7853-4b67-95a0-ad2336f0a267.m3u8
+
 #EXTINF:-1 tvg-id="adn40.mx" tvg-logo="https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG_1785346155200.png" group-title="NOTICIAS", NT | ADN NOTICIAS
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
@@ -487,7 +490,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/105.m3u8
 
 #EXTINF:-1 tvg-id="272dtv.cl" tvg-logo="https://i.imgur.com/mEsSJeQ.png" group-title="MUSICA", MU | HTV HD
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/15744.m3u8
+https://cablered.iptvperu.tv:1936/cablered/HTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="665" tvg-logo="https://images.vix.com/prd/channel/62bb8244603b2d579e311193/19dccef175686e991df488c1cc378737?tr=w-1280,q-30&w=1280" group-title="MUSICA", MU | TELEHIT HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/103.m3u8
