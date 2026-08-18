@@ -141,21 +141,6 @@ http://latinchannel.tv:8080/live/Markito3/Cristiano7/13610.m3u8
 #EXTINF:-1 tvg-id="AR | NET HD" tvg-logo="http://s0lc.net:8080/images/arg_net.png" group-title="🇦🇷 ARGENTINA 📺", AR | NET HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/10625.m3u8
 
-#EXTINF:-1 tvg-id="parana-tv.py" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/C9N/EXPORTACION_WEB/SS/C9N_t-290x163.png" group-title="🇵🇾 PARAGUAY 📺", PY | C9N HD
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/16956.m3u8
-
-#EXTINF:-1 tvg-id="telefuturo.py" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TELEFUTURO/EXPORTACION_WEB/SS/TELEFUTURO_t-290x163.png" group-title="🇵🇾 PARAGUAY 📺", PY | TELEFUTURO HD
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/14072.m3u8
-
-#EXTINF:-1 tvg-id="unicanal.py" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/UNICANAL/EXPORTACION_WEB/SS/UNICANAL_t-290x163.png" group-title="🇵🇾 PARAGUAY 📺", PY | UNICANAL HD
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/57314.m3u8
-
-#EXTINF:-1 tvg-id="canal-9-snt.py" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/SNT/EXPORTACION_WEB/SS/SNT_t-290x163.png" group-title="🇵🇾 PARAGUAY 📺", PY | SNT HD
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/31850.m3u8
-
-#EXTINF:-1 tvg-id="abc-tv.py" tvg-logo="https://s1.dmcdn.net/y/8Nqm1gTWO8rpMnsX" group-title="🇵🇾 PARAGUAY 📺", PY | ABC TV HD
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/47977.m3u8
-
 #EXTINF:-1 tvg-id="a-plus.mx" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/aa218f0/2147483647/strip/true/crop/960x342+0+0/resize/1347x480!/format/webp/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-production-us-west-2.s3.us-west-2.amazonaws.com%2Ff2%2F50%2Fd9a5e7c945cd804e42c5e3385d84%2Famas-1032x368-2.webp" group-title="🇲🇽 MEXICO 📺", MX | A MAS+
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/37894.m3u8
 
@@ -179,6 +164,21 @@ http://latinchannel.tv:8080/live/Markito3/Cristiano7/148.m3u8
 
 #EXTINF:-1 tvg-id="elnu9ve.mx" tvg-logo="https://i.imgur.com/lMparut.png" group-title="🇲🇽 MEXICO 📺", MX | EL NU9VE
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/6.m3u8
+
+#EXTINF:-1 tvg-id="parana-tv.py" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/C9N/EXPORTACION_WEB/SS/C9N_t-290x163.png" group-title="🇵🇾 PARAGUAY 📺", PY | C9N HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/16956.m3u8
+
+#EXTINF:-1 tvg-id="telefuturo.py" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TELEFUTURO/EXPORTACION_WEB/SS/TELEFUTURO_t-290x163.png" group-title="🇵🇾 PARAGUAY 📺", PY | TELEFUTURO HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/14072.m3u8
+
+#EXTINF:-1 tvg-id="unicanal.py" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/UNICANAL/EXPORTACION_WEB/SS/UNICANAL_t-290x163.png" group-title="🇵🇾 PARAGUAY 📺", PY | UNICANAL HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/57314.m3u8
+
+#EXTINF:-1 tvg-id="canal-9-snt.py" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/SNT/EXPORTACION_WEB/SS/SNT_t-290x163.png" group-title="🇵🇾 PARAGUAY 📺", PY | SNT HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/31850.m3u8
+
+#EXTINF:-1 tvg-id="abc-tv.py" tvg-logo="https://s1.dmcdn.net/y/8Nqm1gTWO8rpMnsX" group-title="🇵🇾 PARAGUAY 📺", PY | ABC TV HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/47977.m3u8
 
 #EXTINF:-1 tvg-id="135dtv.co" tvg-logo="http://s0lc.net:8080/images/col_rcn_nuestratele.png" group-title="🇨🇴 COLOMBIA 📺", CO | RCN Nuestra Tele
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/1037.m3u8
@@ -215,9 +215,6 @@ http://latinchannel.tv:8080/live/Markito3/Cristiano7/41626.m3u8
 
 #EXTINF:-1 tvg-id="EC | ECUAVISA" tvg-logo="http://s0lc.net:8080/images/ecu_ecuavisa.png" group-title="🇪🇨 ECUADOR 📺", EC | ECUAVISA
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/3446.m3u8
-
-#EXTINF:-1 tvg-id="EL CANAL DEL FUTBOL" tvg-logo="http://s0lc.net:8080/images/dep_ecdf.png" group-title="🇪🇨 ECUADOR 📺", EL CANAL DEL FUTBOL
-http://latinchannel.tv:8080/live/Markito3/Cristiano7/19288.m3u8
 
 #EXTINF:-1 tvg-id="EC | OROMAR TV" tvg-logo="http://s0lc.net:8080/images/ecu_oromartv.png" group-title="🇪🇨 ECUADOR 📺", EC | OROMAR TV
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/3447.m3u8
@@ -1631,3 +1628,4 @@ https://jmp2.uk/plu-6812206e1b3e3be031a5c363.m3u8
 
 #EXTINF:-1 tvg-id="63c69c87808b740007599fe1" tvg-logo="https://images.pluto.tv/channels/63c69c87808b740007599fe1/colorLogoPNG.png" group-title="🟡 PLUTO ESPAÑA 📺", Érase una vez...
 https://jmp2.uk/plu-63c69c87808b740007599fe1.m3u8
+
