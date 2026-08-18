@@ -1,70 +1,73 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
 
-#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FWILLAX.png&width=300" group-title="🇵🇪 PERÚ 📺", PE | Willax TV
+#EXTINF:-1 tvg-id="16mvstr.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FWILLAX.png&width=300" group-title="🇵🇪 PERU 📺", PE | Willax TV
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/WILLAXHD/hls_fk/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="2mvstr.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FLatina_WIN.png&width=300" group-title="🇵🇪 PERÚ 📺", PE | Latina TV HD
+#EXTINF:-1 tvg-id="2mvstr.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FLatina_WIN.png&width=300" group-title="🇵🇪 PERU 📺", PE | Latina TV HD
 https://redirector.dps.live/hls/latina/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/PWlqMrP.png" group-title="🇵🇪 PERÚ 📺", PE | Canal N HD
-http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GDjtuAKbiE9FKaWUGvh4cVE/m3u8
-
-#EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FAMERICATV.png&width=300" group-title="🇵🇪 PERÚ 📺", PE | América Television
-https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
-
-#EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FPanamerica_WIN.png&width=300" group-title="🇵🇪 PERÚ 📺", PE | Panamericana TV
-https://pebpktstvhls-7.clarovideo.com/bpk-tv/PANAMERICANAHD/hls_fk/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FEXITOSATV.png&width=300" group-title="🇵🇪 PERÚ 📺", PE | Exitosa TV
+#EXTINF:-1 tvg-id="8563mvstr.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FEXITOSATV.png&width=300" group-title="🇵🇪 PERU 📺", PE | Exitosa TV
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 
-#EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTVPERU_WIN.png&width=300" group-title="🇵🇪 PERÚ 📺", PE | TV Perú HD
+#EXTINF:-1 tvg-id="194dtv.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FAMERICATV.png&width=300" group-title="🇵🇪 PERU 📺", PE | America Television
+https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
+
+#EXTINF:-1 tvg-id="195dtv.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FPanamerica_WIN.png&width=300" group-title="🇵🇪 PERU 📺", PE | Panamericana TV
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/PANAMERICANAHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="1190dtv.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73_t-290x163.png" group-title="🇵🇪 PERU 📺", PE | TV Peru 7.3
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/TVPERU73HD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="197dtv.pe" tvg-logo="https://imageserver.srv.win.i.mtvreg.com/png?image=https%3A%2F%2Fwin.moderntv.eu%2Fcache%2Flogos512%2FTVPERU_WIN.png&width=300" group-title="🇵🇪 PERU 📺", PE | TV Peru HD
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 
-#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FATVMAS.png&width=300" group-title="🇵🇪 PERÚ 📺", PE | ATV+ HD
+#EXTINF:-1 tvg-id="8559mvstr.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FATVMAS.png&width=300" group-title="🇵🇪 PERU 📺", PE | ATV+ HD
 https://cablered.iptvperu.tv:1936/cablered/atvplus.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="9mvstr.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FATVHD.png&width=300" group-title="🇵🇪 PERÚ 📺", PE | ATV HD
+#EXTINF:-1 tvg-id="9mvstr.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FATVHD.png&width=300" group-title="🇵🇪 PERU 📺", PE | ATV HD
 https://cablered.iptvperu.tv:1936/cablered/atv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="656" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FPBO.png&width=300" group-title="🇵🇪 PERÚ 📺", PE | PBO HD
+#EXTINF:-1 tvg-id="656" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FPBO.png&width=300" group-title="🇵🇪 PERU 📺", PE | PBO HD
 https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2036mvstr.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FJUNTOSTV.png&width=300" group-title="🇵🇪 PERÚ 📺", PE | Juntos TV
+#EXTINF:-1 tvg-id="2036mvstr.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FJUNTOSTV.png&width=300" group-title="🇵🇪 PERU 📺", PE | Juntos TV
 http://tvdirect.pro:8080/live/rafatv24/rafa2024/408074.m3u
 
-#EXTINF:-1 tvg-id="8573dtv.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FLATELE.png&width=300" group-title="🇵🇪 PERÚ 📺", PE | La Tele HD
+#EXTINF:-1 tvg-id="8573dtv.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FLATELE.png&width=300" group-title="🇵🇪 PERU 📺", PE | La Tele HD
 https://cablered.iptvperu.tv:1936/cablered/la_tele.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FGLOBAL.png&width=100" group-title="🇵🇪 PERÚ 📺", PE | Global TV
+#EXTINF:-1 tvg-id="198dtv.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FGLOBAL.png&width=100" group-title="🇵🇪 PERU 📺", PE | Global TV
 https://cablered.iptvperu.tv:1936/cablered/global.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2047mvstr.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FUSMPTV.png&width=300" group-title="🇵🇪 PERÚ 📺", PE | USMP TV HD
-https://streamusmptv.ddns.net/live/stream.m3u8
+#EXTINF:-1 tvg-id="2047mvstr.pe" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FUSMPTV.png&width=300" group-title="🇵🇪 PERU 📺", PE | USMP TV HD
+http://187.102.210.46/USMP/index.m3u8
 
-#EXTINF:-1 tvg-id="8571mvstr.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/IPE/EXPORTACION_WEB/SS/IPE_t-290x163.png" group-title="🇵🇪 PERÚ 📺", PE | Canal IPe
+#EXTINF:-1 tvg-id="8571mvstr.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/IPE/EXPORTACION_WEB/SS/IPE_t-290x163.png" group-title="🇵🇪 PERU 📺", PE | Canal IPe
 http://190.93.224.42/IPE/index.m3u8
 
-#EXTINF:-1 tvg-id="1190dtv.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TVPER73/EXPORTACION_WEB/SS/TVPER73_t-290x163.png" group-title="🇵🇪 PERÚ 📺", PE | TV Perú 7.3
-http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8
+#EXTINF:-1 tvg-id="8572mvstr.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/VIVATV/EXPORTACION_WEB/SS/VIVATV_t-290x163.png" group-title="🇵🇪 PERU 📺", PE | Viva TV
+http://azyleg.vip/live/LauraSarmiento/3uWnnj74c7/a3dac604-c239-44b9-9783-56752fba82c0.m3u8
 
-#EXTINF:-1 tvg-id="8575mvstr.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/SOLTVPLUS/EXPORTACION_WEB/SS/SOLTVPLUS_t-290x163.png" group-title="🇵🇪 PERÚ 📺", PE | Sol TV+ HD
+#EXTINF:-1 tvg-id="8575mvstr.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/SOLTVPLUS/EXPORTACION_WEB/SS/SOLTVPLUS_t-290x163.png" group-title="🇵🇪 PERU 📺", PE | Sol TV+ HD
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/SOLTVPLUS/hls_fk/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="PE | TV Cosmos HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TVCOSMOS/EXPORTACION_WEB/SS/TVCOSMOS_t-290x163.png" group-title="🇵🇪 PERÚ 📺", PE | TV Cosmos HD
+#EXTINF:-1 tvg-id="PE | TV Cosmos HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TVCOSMOS/EXPORTACION_WEB/SS/TVCOSMOS_t-290x163.png" group-title="🇵🇪 PERU 📺", PE | TV Cosmos HD
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 
-#EXTINF:-1 tvg-id="PE | Nativa TV" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/NATIVA/EXPORTACION_WEB/SS/NATIVA_t-290x163.png" group-title="🇵🇪 PERÚ 📺", PE | Nativa TV
+#EXTINF:-1 tvg-id="PE | Nativa TV" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/NATIVA/EXPORTACION_WEB/SS/NATIVA_t-290x163.png" group-title="🇵🇪 PERU 📺", PE | Nativa TV
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="PE | RPP Noticias" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/RPP/EXPORTACION_WEB/SS/RPP_t-290x163.png" group-title="🇵🇪 PERÚ 📺", PE | RPP Noticias
+#EXTINF:-1 tvg-id="PE | RPP Noticias" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/RPP/EXPORTACION_WEB/SS/RPP_t-290x163.png" group-title="🇵🇪 PERU 📺", PE | RPP Noticias
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="PE | Congreso TV" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/CANALDELCONGRESOPER/EXPORTACION_WEB/SS/CANALDELCONGRESOPER_t-290x163.png" group-title="🇵🇪 PERÚ 📺", PE | Congreso TV
+#EXTINF:-1 tvg-id="PE | Congreso TV" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/CANALDELCONGRESOPER/EXPORTACION_WEB/SS/CANALDELCONGRESOPER_t-290x163.png" group-title="🇵🇪 PERU 📺", PE | Congreso TV
 http://tvdirect.pro:8080/live/rafatv24/rafa2024/269047.m3u
 
-#EXTINF:-1 tvg-id="PE | Latina Noticias" tvg-logo="https://assets.rudo.video/assets/latina/live/logoApi_4b43aad719f5bbf7aa2813c2199e6e3e1755620584.png" group-title="🇵🇪 PERÚ 📺", PE | Latina Noticias
+#EXTINF:-1 tvg-id="PE | Latina Noticias" tvg-logo="https://assets.rudo.video/assets/latina/live/logoApi_4b43aad719f5bbf7aa2813c2199e6e3e1755620584.png" group-title="🇵🇪 PERU 📺", PE | Latina Noticias
 https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PE | Trivu HD" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/TRIVU/EXPORTACION_WEB/SS/TRIVU_t-290x163.png" group-title="🇵🇪 PERU 📺", PE | Trivu
+https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="http://s0lc.net:8080/images/cl_canal13.png" group-title="🇨🇱 CHILE 📺", CL | CANAL 13
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/1825.m3u8
@@ -153,6 +156,30 @@ http://latinchannel.tv:8080/live/Markito3/Cristiano7/31850.m3u8
 #EXTINF:-1 tvg-id="abc-tv.py" tvg-logo="https://s1.dmcdn.net/y/8Nqm1gTWO8rpMnsX" group-title="🇵🇾 PARAGUAY 📺", PY | ABC TV HD
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/47977.m3u8
 
+#EXTINF:-1 tvg-id="a-plus.mx" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/aa218f0/2147483647/strip/true/crop/960x342+0+0/resize/1347x480!/format/webp/quality/80/?url=https%3A%2F%2Ftv-azteca-brightspot-production-us-west-2.s3.us-west-2.amazonaws.com%2Ff2%2F50%2Fd9a5e7c945cd804e42c5e3385d84%2Famas-1032x368-2.webp" group-title="🇲🇽 MEXICO 📺", MX | A MAS+
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/37894.m3u8
+
+#EXTINF:-1 tvg-id="az-corazon.mx" tvg-logo="https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/646ccdd0939a5900088a1980/colorLogoPNG.png" group-title="🇲🇽 MEXICO 📺", MX | CORAZON
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/27.m3u8
+
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://i.imgur.com/MJuDZBM.png" group-title="🇲🇽 MEXICO 📺", MX | AZTECA 7
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/3861.m3u8
+
+#EXTINF:-1 tvg-id="azteca13.mx" tvg-logo="https://i.imgur.com/gy8ZfS9.png" group-title="🇲🇽 MEXICO 📺", MX | AZTECA UNO
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/8.m3u8
+
+#EXTINF:-1 tvg-id="canal11.mx" tvg-logo="https://canalonce.mx/REST/data/images/canalonce-logo-350x150.png" group-title="🇲🇽 MEXICO 📺", MX | CANAL 11
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/7.m3u8
+
+#EXTINF:-1 tvg-id="canal5.mx" tvg-logo="https://i.imgur.com/zrTE4kG.png" group-title="🇲🇽 MEXICO 📺", MX | CANAL 5
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/3.m3u8
+
+#EXTINF:-1 tvg-id="forotv.mx" tvg-logo="https://i.imgur.com/BB2GvkJ.png" group-title="🇲🇽 MEXICO 📺", MX | N+ FORO
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/148.m3u8
+
+#EXTINF:-1 tvg-id="elnu9ve.mx" tvg-logo="https://i.imgur.com/lMparut.png" group-title="🇲🇽 MEXICO 📺", MX | EL NU9VE
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/6.m3u8
+
 #EXTINF:-1 tvg-id="135dtv.co" tvg-logo="http://s0lc.net:8080/images/col_rcn_nuestratele.png" group-title="🇨🇴 COLOMBIA 📺", CO | RCN Nuestra Tele
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/1037.m3u8
 
@@ -179,6 +206,33 @@ http://138.121.15.230:8081/TELEPACIFICO/index.m3u8
 
 #EXTINF:-1 tvg-id="CO | NTN24 HD" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/NTN24/EXPORTACION_WEB/SS/NTN24_t-290x163.png" group-title="🇨🇴 COLOMBIA 📺", CO | NTN24 HD
 http://181.78.8.199:8000/play/a0a6/index.m3u8
+
+#EXTINF:-1 tvg-id="EC | CANAL UNO" tvg-logo="http://s0lc.net:8080/images/ecu_canal_uno.png" group-title="🇪🇨 ECUADOR 📺", EC | CANAL UNO
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/15905.m3u8
+
+#EXTINF:-1 tvg-id="EC | ECUADOR TV" tvg-logo="http://s0lc.net:8080/images/ecu_ecuadortv.png" group-title="🇪🇨 ECUADOR 📺", EC | ECUADOR TV
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/41626.m3u8
+
+#EXTINF:-1 tvg-id="EC | ECUAVISA" tvg-logo="http://s0lc.net:8080/images/ecu_ecuavisa.png" group-title="🇪🇨 ECUADOR 📺", EC | ECUAVISA
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/3446.m3u8
+
+#EXTINF:-1 tvg-id="EL CANAL DEL FUTBOL" tvg-logo="http://s0lc.net:8080/images/dep_ecdf.png" group-title="🇪🇨 ECUADOR 📺", EL CANAL DEL FUTBOL
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/19288.m3u8
+
+#EXTINF:-1 tvg-id="EC | OROMAR TV" tvg-logo="http://s0lc.net:8080/images/ecu_oromartv.png" group-title="🇪🇨 ECUADOR 📺", EC | OROMAR TV
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/3447.m3u8
+
+#EXTINF:-1 tvg-id="EC | RTS HD" tvg-logo="http://s0lc.net:8080/images/ecu_rts.png" group-title="🇪🇨 ECUADOR 📺", EC | RTS HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/3445.m3u8
+
+#EXTINF:-1 tvg-id="EC | TC HD" tvg-logo="http://s0lc.net:8080/images/ecu_tc.png" group-title="🇪🇨 ECUADOR 📺", EC | TC HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/3448.m3u8
+
+#EXTINF:-1 tvg-id="EC | TELEAMAZONAS" tvg-logo="http://s0lc.net:8080/images/ecu_teleamazonas.png" group-title="🇪🇨 ECUADOR 📺", EC | TELEAMAZONAS
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/53003.m3u8
+
+#EXTINF:-1 tvg-id="EC | TVC HD" tvg-logo="http://s0lc.net:8080/images/ecu_tvc.png" group-title="🇪🇨 ECUADOR 📺", EC | TVC HD
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/41627.m3u8
 
 #EXTINF:-1 tvg-id="24horas.es" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5c56a03080405b20a4fe3_1777295958309.png" group-title="🇪🇸 ESPAÑA (TDT) 📡", ES | 24 Horas
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaRUJLTW5rUWFwWFJYT2VxSFBsM1NCYw
@@ -222,7 +276,7 @@ http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPd
 #EXTINF:-1 tvg-id="ES | DKiss" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e50b03080405b20a4fe7.png" group-title="🇪🇸 ESPAÑA (TDT) 📡", ES | DKiss
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaR05ZZE9aQ2EwZGx0NGtIeG4yL2JQSg
 
-#EXTINF:-1 tvg-id="divinity.es" tvg-logo="https://media.tvup.cloud/canales/5ac5e4e403080405b20a4fe6logoColor.png?t=1663902215" group-title="🇪🇸 ESPAÑA (TDT) 📡", ES | Divinity
+#EXTINF:-1 tvg-id="ES | Divinity" tvg-logo="https://media.tvup.cloud/canales/5ac5e4e403080405b20a4fe6logoColor.png?t=1663902215" group-title="🇪🇸 ESPAÑA (TDT) 📡", ES | Divinity
 http://cambiabujias.com:80/TDl2RGJEVFdNUUF3V2NQR2tVUkp4UzlMcnFSUklLM2dWaWhiNnhPdnVaR3Y0c2R0RGY1aVU1UEJXdnBSNHBwNQ
 
 #EXTINF:-1 tvg-id="ES | Neox" tvg-logo="https://media.tvup.cloud/canales/color_lg_5ac5e5f003080405b20a4fee.png" group-title="🇪🇸 ESPAÑA (TDT) 📡", ES | Neox
@@ -324,40 +378,49 @@ http://redworld.pro:8880/live/pjxwzsticy/Cm7hRpuqVpBv/533401.m3u8
 #EXTINF:-1 tvg-id="655" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/ESPN7/EXPORTACION_WEB/SS/ESPN7_t-290x163.png" group-title="⚽ DEPORTES 📺", D | ESPN 7 Peru
 http://redworld.pro:8880/live/pjxwzsticy/Cm7hRpuqVpBv/533402.m3u8
 
-#EXTINF:-1 tvg-id="553" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTS_t-290x163.png" group-title="⚽ DEPORTES 📺", D | CLARO SPORTS
+#EXTINF:-1 tvg-id="553" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTS_t-290x163.png" group-title="⚽ DEPORTES 📺", D | Claro Sports
 http://181.119.215.61:8000/play/a07o/index.m3u8
 
-#EXTINF:-1 tvg-id="610dtv.pe" tvg-logo="https://i.imgur.com/yithfOa.png" group-title="⚽ DEPORTES 📺", D | DSPORTS PERU
+#EXTINF:-1 tvg-id="610dtv.pe" tvg-logo="https://i.imgur.com/yithfOa.png" group-title="⚽ DEPORTES 📺", D | DSports Peru
 http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GEDqYmawe7xbhY0iskZHDPw/m3u8
 
-#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.imgur.com/OLput6t.png" group-title="⚽ DEPORTES 📺", D | DSPORTS 2 HD
+#EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://i.imgur.com/OLput6t.png" group-title="⚽ DEPORTES 📺", D | DSports 2
 http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GFDfbAM1IWJ5CBnxwIAbLms/m3u8
 
-#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.imgur.com/cjS9mQi.png" group-title="⚽ DEPORTES 📺", D | DSPORTS+ PLUS
+#EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://i.imgur.com/cjS9mQi.png" group-title="⚽ DEPORTES 📺", D | DSports+ Plus
 http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GH12-ghA0PpamStI7HLxPoI/m3u8
 
-#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="⚽ DEPORTES 📺", PE | M. DEPORTES HD
+#EXTINF:-1 tvg-id="3mvstr.pe" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="⚽ DEPORTES 📺", D | M. Deportes Peru
 http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GHlZZq5IkIY4WHxBIw9Uh4w/m3u8
 
-#EXTINF:-1 tvg-id="553" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FOVACION.png&width=300" group-title="⚽ DEPORTES 📺", PE | Ovacion
+#EXTINF:-1 tvg-id="553" tvg-logo="https://imageserver.srv.econocable.i.mtvreg.com/png?image=https%3A%2F%2Fcablego.com.pe%2Fcache%2Flogos512%2FOVACION.png&width=300" group-title="⚽ DEPORTES 📺", D | Ovacion Peru
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/L1/EXPORTACION_WEB/SS/L1_t-290x163.png" group-title="⚽ DEPORTES 📺", PE | L1 HD
+#EXTINF:-1 tvg-id="603dtv.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/L1/EXPORTACION_WEB/SS/L1_t-290x163.png" group-title="⚽ DEPORTES 📺", D | L1 Peru
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/40294.m3u8
 
-#EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/L1MAX/EXPORTACION_WEB/SS/L1MAX_t-290x163.png" group-title="⚽ DEPORTES 📺", PE | L1 MAX HD
+#EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/L1MAX/EXPORTACION_WEB/SS/L1MAX_t-290x163.png" group-title="⚽ DEPORTES 📺", D | L1 Max Peru
 http://redworld.pro:8880/live/pjxwzsticy/Cm7hRpuqVpBv/533403.m3u8
 
-#EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TYCSPORTS/EXPORTACION_WEB/SS/TYCSPORTS_t-290x163.png" group-title="⚽ DEPORTES 📺", D | TYC SPORTS INT.
+#EXTINF:-1 tvg-id="553" tvg-logo="http://s0lc.net:8080/images/dep_tudn.png" group-title="⚽ DEPORTES 📺", D | TUDN Mexico
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/5412.m3u8
+
+#EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/TYCSPORTS/EXPORTACION_WEB/SS/TYCSPORTS_t-290x163.png" group-title="⚽ DEPORTES 📺", D | TyC Sports Int.
 http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GH7EZuRAKaicpgmJsEZlsLM/m3u8
 
 #EXTINF:-1 tvg-id="tigo-sports.py" tvg-logo="http://s0lc.net:8080/images/dep_tigo_sports.png" group-title="⚽ DEPORTES 📺", D | Tigo Sports Paraguay
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b
 
-#EXTINF:-1 tvg-id="8158mvstr.pe" tvg-logo="https://i.imgur.com/bRTYm5O.png" group-title="⚽ DEPORTES 📺", S | VIA X ESPORTS
+#EXTINF:-1 tvg-id="553" tvg-logo="http://s0lc.net:8080/images/dep_ecdf.png" group-title="⚽ DEPORTES 📺", D | ECDF Ecuador
+http://latinchannel.tv:8080/live/Markito3/Cristiano7/19288.m3u8
+
+#EXTINF:-1 tvg-id="553" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/white/zappingsportsec.png" group-title="⚽ DEPORTES 📺", D | Zapping Sports Ecuador
+http://tvdirect.pro:8080/live/rafatv24/rafa2024/289873.m3u
+
+#EXTINF:-1 tvg-id="8158mvstr.pe" tvg-logo="https://i.imgur.com/bRTYm5O.png" group-title="⚽ DEPORTES 📺", E | Via X Esports
 http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GI8jYGb9FBDi-Vh7uBUdrHo/m3u8
 
-#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/BtAIwAD.png" group-title="⚽ DEPORTES 📺", S | ESPORTS MAX (DVR -3h)
+#EXTINF:-1 tvg-id="553" tvg-logo="https://i.imgur.com/BtAIwAD.png" group-title="⚽ DEPORTES 📺", E | Esports Max (DVE -3h)
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-logo="http://s0lc.net:8080/images/inf_baby_first.png" group-title="🍼 KIDS 📺", K | BABY FIRST
@@ -447,11 +510,14 @@ http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GPdHx2ctz4O9ChfyqtJrvLY/m3u8
 #EXTINF:-1 tvg-id="229dtv.cl" tvg-logo="http://s0lc.net:8080/images/doc_dis_hh.png" group-title="💄 ESTILO DE VIDA 📺", E | DISCOVERY H&H
 http://latinchannel.tv:8080/live/Markito3/Cristiano7/8922.m3u8
 
-#EXTINF:-1 tvg-id="24horas.es" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/24H/EXPORTACION_WEB/SS/24H_t-290x163.png" group-title="📰 NOTICIAS 📺", NT | 24h España (DVR -2h)
+#EXTINF:-1 tvg-id="24horas.es" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/24H/EXPORTACION_WEB/SS/24H_t-290x163.png" group-title="📰 NOTICIAS 📺", NT | 24H ESPAÑA (DVR -2h)
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="700dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/DNEWS/EXPORTACION_WEB/SS/DNEWS_t-290x163.png" group-title="📰 NOTICIAS 📺", NT | DNews HD
+#EXTINF:-1 tvg-id="700dtv.cl" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/DNEWS/EXPORTACION_WEB/SS/DNEWS_t-290x163.png" group-title="📰 NOTICIAS 📺", NT | DNEWS HD
 http://azyleg.vip/live/LauraSarmiento/3uWnnj74c7/515729be-7853-4b67-95a0-ad2336f0a267.m3u8
+
+#EXTINF:-1 tvg-id="8mvstr.pe" tvg-logo="https://i.imgur.com/PWlqMrP.png" group-title="📰 NOTICIAS 📺", NT | CANAL N HD
+http://magiz.net:80/play/s34nKhEeg_Cfz3HhmJg1GDjtuAKbiE9FKaWUGvh4cVE/m3u8
 
 #EXTINF:-1 tvg-id="adn40.mx" tvg-logo="https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG_1785346155200.png" group-title="📰 NOTICIAS 📺", NT | ADN NOTICIAS
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
@@ -1565,4 +1631,3 @@ https://jmp2.uk/plu-6812206e1b3e3be031a5c363.m3u8
 
 #EXTINF:-1 tvg-id="63c69c87808b740007599fe1" tvg-logo="https://images.pluto.tv/channels/63c69c87808b740007599fe1/colorLogoPNG.png" group-title="🟡 PLUTO ESPAÑA 📺", Érase una vez...
 https://jmp2.uk/plu-63c69c87808b740007599fe1.m3u8
-
