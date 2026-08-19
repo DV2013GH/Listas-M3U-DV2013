@@ -645,6 +645,15 @@ https://pebpktstvhls-5.clarovideo.com/bpk-tv/PLIMPLIM/hls_fk/index.m3u8
 #EXTINF:-1 tvg-id="553" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROSPORTS/EXPORTACION_WEB/SS/CLAROSPORTS_t-290x163.png" group-title="Cable | Claro Peru", 60 | CLARO SPORTS
 https://pebpktstvhls-3.clarovideo.com/bpk-tv/CLAROSPORTSHD/hls_fk/index.m3u8
 
+#EXTINF:-1 tvg-id="665" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/CONCERTCHANNEL/EXPORTACION_WEB/SS/CONCERTCHANNEL_t-290x163.png" group-title="Cable | Claro Peru", 91 | CONCERT CHANNEL
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/CONCERTCHANNELHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="100 | CANAL CLARO" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CANALCLARO/EXPORTACION_WEB/SS/CANALCLARO_t-290x163.png" group-title="Cable | Claro Peru", 100 | CANAL CLARO
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/CANALCLAROHD/hls_fk/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://clarovideocdn7.clarovideo.net/PELICULAS/CLAROCINEMA/EXPORTACION_WEB/SS/CLAROCINEMA_t-290x163.png" group-title="Cable | Claro Peru", 143 | CLARO CINEMA
+https://pebpktstvhls-7.clarovideo.com/bpk-tv/CLAROCINEMA/hls_fk/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-id="560" tvg-logo="https://clarovideocdn3.clarovideo.net/PELICULAS/RT/EXPORTACION_WEB/SS/RT_t-290x163.png" group-title="Cable | Claro Peru", 214 | RT
 https://pebpktstvhls-3.clarovideo.com/bpk-tv/RT/hls_fk/playlist_dvr.m3u8
 
