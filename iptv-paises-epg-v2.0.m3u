@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/generate/yhpXUCvrVk.xml.gz"
 
 #EXTINF:-1 tvg-id="Willax.pe" tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/WILLAX/EXPORTACION_WEB/SS/WILLAX_t-290x163.png" group-title="TV | Peru", PE | Willax TV
 https://pebpktstvhls-1.clarovideo.com/bpk-tv/WILLAXHD/hls_fk/playlist_dvr.m3u8
